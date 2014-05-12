@@ -30,6 +30,8 @@ The VIS - Fishes in inland waters in Flanders, Belgium subset is a species occur
 The data for both datasets are retrieved from the Fish Information System (VIS), a database set up to monitor the status of fishes and their habitats in Flanders and are collected in support of the Water Framework Directive, the Habitat Directive, certain red lists, and biodiversity research. Additional information, such as measurements, absence information and abiotic data are available upon request. Issues with the VIS-estuary occurrences dataset can be reported at https://github.com/LifeWatchINBO/vis-estuary-occurrences and issues with the VIS-inland watters dataset can be reported at https://github.com/LifeWatchINBO/vis-inland-occurrences
 
 
+![Figure 1](images/image_1.png)
+
 ## Keywords
 
 Ecosystem function, Biotic integrity index, Fish distribution, Fish, Brackish water, Freshwater VIS, LifeWatch, Occurrence, Observation, Estuary, Scheldt, river Yser
