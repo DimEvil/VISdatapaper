@@ -31,6 +31,7 @@ The data for both datasets are retrieved from the Fish Information System (VIS),
 
 
 ![Figure 1](images/image_1.PNG)
+Map of all the VIS sampling locations. The green dots correspondent with Estuary occurrences, the orange dots with Inland waters
 
 ## Keywords
 
