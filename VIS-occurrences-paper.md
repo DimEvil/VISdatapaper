@@ -6,7 +6,7 @@ Jan Breine[^1], Gerlinde Van Thuyne[^1], Hugo Verreycken[^1], Tom De Boeck[^2], 
 
 [^2]: Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, Brussels, Belgium
 
-**Corresponding author*: Jan Breine (jan.breine@inbo.be)
+**Corresponding author*: Jan Breine (jan.breine@inbo.be) Estuarine habitats & Gerlinde Van Thuyne (herlinde.vanthuyne@inbo.be) Inland waters
 
 ---
 
@@ -31,7 +31,7 @@ The data for both datasets are retrieved from the Fish Information System (VIS),
 
 
 ![Figure 1](images/image_1.PNG)
-*Map of all the VIS sampling locations. The green dots correspondent with Estuary occurrences, the orange dots with Inland waters*
+*Map of all the VIS sampling locations. The green dots correspondent with Estuary occurrences, the orange dots with Inland waters* occurrences
 
 ## Keywords
 
@@ -40,13 +40,29 @@ Ecosystem function, Biotic integrity index, Fish distribution, Fish, Brackish wa
 
 ## Data published through
 
-http://dataset.inbo.be/vis-estuary-occurrences
+The complete occurrence datasets are integrally downloadable through: 
+
+http://dataset.inbo.be/vis-estuary-occurrences 
 http://dataset.inbo.be/vis-inland-occurrences
+
+Reports( Only in Dutch) can be downloaded from:
+
+http://vis.inbo.be/Pages/Common/ReportOverviewPage.aspx
+
+GBIF versions can be found on:
+
+Estuary occurrences: http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4
+Inland waters occurrences: http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f Inland waters
 
 
 ## Rationale
 
 The Fish Information System or VIS (http://vis.milieuinfo.be) is a database set up by the Research Institute for Nature and Forest (INBO) to monitor the status of fishes and their habitats in Flanders, Belgium. It contains data regarding occurrences, stocks, pollutants, indexes, and reintroductions. The consolidated database was set up in 2001, but sampling has been going on since 1992. The data are used to calculate the EQR (Ecological Quality Ratio) in the framework of the EU water directive and Natura2000, as well as to provide updated information for the Flemish red list of brackish fishes. This dataset is a standardized extraction of all estuary and inland waters species occurrences in the VIS database. The VIS-database also contains fishes body mass and lengths. This data is only available upon request.
+
+![Figure 2](images/image_2.jpg)
+
+* the logo of VIS, the Fish Information System
+
 
 
 ## Taxonomic coverage
@@ -56,17 +72,37 @@ This inland waters dataset contains more than 75 fish species found in Flemish s
 
 ### Taxonomic ranks
 
+## Inland waters
 
-**Kingdom**: *Animalia (animals)*
+**Kingdom**: *Animalia*
 
-**Class**: *Actinopterygii (ray-finned fishes), Petromyzontida, Chondrichthyes (cartilaginous fishes) Malacostraca*
+**Class**: *Actinopterygii (ray-finned fishes), Petromyzontida, Malacostraca*
+
+**Order**: *Mugiliformes, Osmeriformes, Atheriniformes, Clupeiformes, Decapoda, Gadiformes, Pleuronectiformes, Siluriformes, Salmoniformes, Petromyzontiformes, Scorpaeniformes, Esociformes, Anguilliformes, Gasterosteiformes, Perciformes, Cypriniformes*
+
+![Figure 3](images/image_3.png)
+
+*Taxonomic coverage: orders*
+
+![Figure 3](images/image_3log.png)
+*Taxonomic coverage:orders; log scale*
+
+**Family**: *Cyprinidae, Ictaluridae, Ammodytidae, Anguillidae, Atherinidae, Atyidae, Nemacheilidae, Lotidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Crangonidae, Moronidae, Trachinidae, Grapsidae, Esocidae, Gadidae, Gasterosteidae, Percidae, Petromyzontidae, Centrarchidae, Pleuronectidae, Liparidae, Mugilidae, Gobiidae, Salmonidae, Cambaridae, Osmeridae, Palaemonidae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Umbridae, Zoarcidae*
+
+
+
+## Estuary occurrences
+
+**Kingdom**: *Animalia*
+
+**Class**: *Actinopterygii (ray-finned fishes), Petromyzontida, Chondrichthyes (cartilaginous fishes), Malacostraca*
 
 **Order**: *Acipenseriformes, Anguilliformes, Atheriniformes, Beloniformes, Clupeiformes, Cypriniformes, Decapoda, Esociformes,Gadiformes, Gasterosteiformes, Mugiliformes, Osmeriformes, Perciformes, Petromyzontiformes, Pleuronectiformes, Rajiformes, Salmoniformes, Scorpaeniformes, Siluriformes, Squaliformes, Squatiniformes, Syngnathiformes*
 
-**Family:** *Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae, Cancridae, Carangidae, Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Crangonidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Paguridae, Palaemonidae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,	Polybiidae, Portunidae, Rajidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Squalidae, Squatinidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Varunidae, Zoarcidae*
+
+**Family:** *Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae, Cancridae, Carangidae, Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Crangonidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Paguridae, Palaemonidae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,Polybiidae, Portunidae, Rajidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Squalidae, Squatinidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Varunidae, Zoarcidae*
 
 
-**Family**: *Cyprinidae, Ictaluridae, Ammodytidae, Anguillidae, Atherinidae, Atyidae, Nemacheilidae, Lotidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Crangonidae, Moronidae, Trachinidae, Grapsidae, Esocidae, Gadidae, Gasterosteidae, Percidae, Petromyzontidae, Centrarchidae, Pleuronectidae, Liparidae, Mugilidae, Gobiidae, Salmonidae, Cambaridae, Osmeridae, Palaemonidae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Umbridae, Zoarcidae*
 
 
 ## Geographic coverage
