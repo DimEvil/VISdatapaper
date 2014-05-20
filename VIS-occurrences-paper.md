@@ -89,6 +89,8 @@ This inland waters dataset contains more than 75 fish species found in Flemish s
 
 **Family**: *Cyprinidae, Ictaluridae, Ammodytidae, Anguillidae, Atherinidae, Atyidae, Nemacheilidae, Lotidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Crangonidae, Moronidae, Trachinidae, Grapsidae, Esocidae, Gadidae, Gasterosteidae, Percidae, Petromyzontidae, Centrarchidae, Pleuronectidae, Liparidae, Mugilidae, Gobiidae, Salmonidae, Cambaridae, Osmeridae, Palaemonidae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Umbridae, Zoarcidae*
 
+![Figure 3b](images/image_3b.png)
+
 
 
 ## Estuary occurrences
@@ -109,14 +111,34 @@ This inland waters dataset contains more than 75 fish species found in Flemish s
 
 **Family:** *Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae, Cancridae, Carangidae, Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Crangonidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Paguridae, Palaemonidae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,Polybiidae, Portunidae, Rajidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Squalidae, Squatinidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Varunidae, Zoarcidae*
 
+![Figure 5](images/image_5.png)
 
+*Taxonomic coverage; 10 most occuring families in the estuarine dataset*
 
 
 ## Geographic coverage
 
+###Belgium
+
+###Inland waters
+
+###Estuarien habitats
+
+#### River Scheldt
+
+
+#### River Yser
+
+The Yser originates in French FLanders, enters Belgium in the province of West Flanders and is the only is the only big river in Belgium that flows directly into the sea near the town of Nieuwpoort. The river is 78 km long and Salt and fresh water meet in the estuary wich situates 
+
+. This results in 130 hectares of special biotopes of mud flats, salt marshes, dunes, beaches and polders. The large numbers of coastal and wading birds, such as common shelducks, redshanks, Eurasian oyster catchers and curlews that find food and rest all year round on the mud flats, the salt marshes and the beaches of the Yser estuary.
+
+
 Estuarine areas of the river Yser and the river Scheldt, Flanders, Belgium, as well as two sampling locations in Zeeland, the Netherlands.
 
 Inland rivers, streams, canals, and enclosed waters in Flanders, Belgium.
+
+
 
 
 ### Bounding box for covered area
