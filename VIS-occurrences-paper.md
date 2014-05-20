@@ -61,7 +61,7 @@ The Fish Information System or VIS (http://vis.milieuinfo.be) is a database set 
 
 ![Figure 2](images/image_2.jpg)
 
-* the logo of VIS, the Fish Information System
+*the logo of VIS, the Fish Information System*
 
 
 
@@ -84,7 +84,7 @@ This inland waters dataset contains more than 75 fish species found in Flemish s
 
 *Taxonomic coverage: orders*
 
-![Figure 3](images/image_3log.png)
+![Figure 3log](images/image_3log.png)
 *Taxonomic coverage:orders; log scale*
 
 **Family**: *Cyprinidae, Ictaluridae, Ammodytidae, Anguillidae, Atherinidae, Atyidae, Nemacheilidae, Lotidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Crangonidae, Moronidae, Trachinidae, Grapsidae, Esocidae, Gadidae, Gasterosteidae, Percidae, Petromyzontidae, Centrarchidae, Pleuronectidae, Liparidae, Mugilidae, Gobiidae, Salmonidae, Cambaridae, Osmeridae, Palaemonidae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Umbridae, Zoarcidae*
@@ -99,6 +99,13 @@ This inland waters dataset contains more than 75 fish species found in Flemish s
 
 **Order**: *Acipenseriformes, Anguilliformes, Atheriniformes, Beloniformes, Clupeiformes, Cypriniformes, Decapoda, Esociformes,Gadiformes, Gasterosteiformes, Mugiliformes, Osmeriformes, Perciformes, Petromyzontiformes, Pleuronectiformes, Rajiformes, Salmoniformes, Scorpaeniformes, Siluriformes, Squaliformes, Squatiniformes, Syngnathiformes*
 
+![Figure 4](images/image_4.png)
+*Taxonomic coverage:orders*
+
+
+![Figure 4log](images/image_4log.png)
+
+*Taxonomic coverage:orders; log scale*
 
 **Family:** *Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae, Cancridae, Carangidae, Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Crangonidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Paguridae, Palaemonidae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,Polybiidae, Portunidae, Rajidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Squalidae, Squatinidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Varunidae, Zoarcidae*
 
