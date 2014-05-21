@@ -118,7 +118,13 @@ This inland waters dataset contains more than 75 fish species found in Flemish s
 
 ## Geographic coverage
 
-###Belgium
+###Flanders
+Flanders is one of the 3 official regions of Belgium, a small federeal monarchy in the heart of Western Europe. The Flemsih region is situated in the north of the country and covers an area of 13.522 Km2 (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seazons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the river Yser basin in the North-West and the Central plain. Flanders is one of the most densely populated areas of Europe. The three major rivers in Flanders are the river Yser, the river Scheldt and the river Meuse. All rivers in Flanders flow into the North Sea but only the river Yser flows in the sea within the the geography of Flanders.
+
+![Figure 6](images/image_6.svg)
+
+*Flanders is a reagion in the heart of Europe* (img:[http://http://upload.wikimedia.org/wikipedia/commons/8/87/Flemish_Region_in_Belgium_and_Europe.svg](http://http://upload.wikimedia.org/wikipedia/commons/8/87/Flemish_Region_in_Belgium_and_Europe.svg "Flanders") 
+ 
 
 ###Inland waters
 
@@ -129,7 +135,7 @@ This inland waters dataset contains more than 75 fish species found in Flemish s
 
 #### River Yser
 
-The Yser originates in French FLanders, enters Belgium in the province of West Flanders and is the only is the only big river in Belgium that flows directly into the sea near the town of Nieuwpoort. The river is 78 km long and Salt and fresh water meet in the estuary wich situates 
+The Yser originates in French FLanders, enters Belgium in the province of West Flanders and is the only is the only big river in Belgium that flows directly into the sea near the town of Nieuwpoort. The river is 78 km long and Salt and fresh water meet in the estuary wich  
 
 . This results in 130 hectares of special biotopes of mud flats, salt marshes, dunes, beaches and polders. The large numbers of coastal and wading birds, such as common shelducks, redshanks, Eurasian oyster catchers and curlews that find food and rest all year round on the mud flats, the salt marshes and the beaches of the Yser estuary.
 
