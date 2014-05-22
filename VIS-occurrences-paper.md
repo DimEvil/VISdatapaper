@@ -22,7 +22,7 @@ Received {date} | Revised {date} | Accepted {date} | Published {date}
 
 ## Abstract
 
-Since 1992 fish stoch assessments were done in Flanders(Belgium). Both inland waters and estuariene waters were monitored within the Flemish Fish Monitoring Network, mainly during the period from March to November (Verreycken, 2011). This network aims to assess fish populations in public waters at regular time intervals. For several reasons,the complete dataset was published on http://data.inbo.be/ipt in two different subsets, VIS-Fish in estuariene habitats and VIS-Fish in inland waters. Both datasets were published by the Research Institute for nature and Forest (INBO), a scientific research institute of the Flemish government in Belgium. This datapaper on the contrary, deals with both subsets together because of a similar structure, scope and methodology. The sum of the datasets creates a complete overview of fish pertaining in Flanders.
+Since 1992 fish stoch assessments were done in Flanders(Belgium). Both inland waters and estuariene waters were monitored within the Flemish Fish Monitoring Network, mainly during the period from March to November (Verreycken, 2011). This network aims to assess fish populations in public waters at regular time intervals. For several reasons,the complete dataset was published on http://data.inbo.be/ipt in two different subsets, VIS-Fish in estuariene habitats and VIS-Fish in inland waters. Both datasets were published by the Research Institute for nature and Forest (INBO), a scientific research institute of the Flemish government in Belgium. This datapaper, on the contrary, deals with both subsets together because of a similar structure, scope and methodology. The sum of the datasets creates a complete overview of fish pertaining in Flanders.
 
 The VIS - Fishes in estuarine habitats in Flanders, Belgium subset is a species occurrence dataset. The dataset contains over 80.000 fish occurrences sampled between 1992 and 2012 from almost 50 locations in the estuaries of the river Yser and the river Scheldt, in Flanders, Belgium. The dataset includes 115 fish species, as well as a number of non-target crustacean species. 
 The VIS - Fishes in inland waters in Flanders, Belgium subset is a species occurrence dataset. The dataset contains over 350.000 fish occurrences sampled between 1992 and 2012 from over 2000 locations in inland rivers, streams, canals, and enclosed waters in Flanders, Belgium. The dataset includes over 75 fish species, as well as a number of non-target species (mainly crustaceans). 
@@ -59,9 +59,13 @@ Inland waters occurrences: http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-4
 
 The Fish Information System or VIS (http://vis.milieuinfo.be) is a database set up by the Research Institute for Nature and Forest (INBO) to monitor the status of fishes and their habitats in Flanders, Belgium. It contains data regarding occurrences, stocks, pollutants, indexes, and reintroductions. The consolidated database was set up in 2001, but sampling has been going on since 1992. The data are used to calculate the EQR (Ecological Quality Ratio) in the framework of the EU water directive and Natura2000, as well as to provide updated information for the Flemish red list of brackish fishes. This dataset is a standardized extraction of all estuary and inland waters species occurrences in the VIS database. The VIS-database also contains fishes body mass and lengths. This data is only available upon request.
 
+
 ![Figure 2](images/image_2.jpg)
 
 *the logo of VIS, the Fish Information System*
+
+Two separate Darwin Core Archives were generated and published. The main reason herefore is that both datasets cover different habitats and are curated by scientists which have to report to different instances.  Nevertheless the datamodel used for Inland waters and Estuary occurrences is completely the same and the sum of both datasets equals a complete view of Fish occurences in Flanders until the end of the year 2012. Since 2013 a new set sampling locations was identified, therefore the data collected since 2013 is momentarily also only available upon request. 
+
 
 
 
@@ -92,7 +96,6 @@ This inland waters dataset contains more than 75 fish species found in Flemish s
 ![Figure 3b](images/image_3b.png)
 
 
-
 ## Estuary occurrences
 
 **Kingdom**: *Animalia*
@@ -119,7 +122,7 @@ This inland waters dataset contains more than 75 fish species found in Flemish s
 ## Geographic coverage
 
 ###Flanders
-Flanders is one of the 3 official regions of Belgium, a small federeal monarchy in the heart of Western Europe. The Flemsih region is situated in the north of the country and covers an area of 13.522 Km2 (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seazons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the river Yser basin in the North-West and the Central plain. Flanders is one of the most densely populated areas of Europe. The three major rivers in Flanders are the river Yser, the river Scheldt and the river Meuse. All rivers in Flanders flow into the North Sea but only the river Yser flows in the sea within the the geography of Flanders.
+Flanders is one of the 3 official regions of Belgium, a small federeal monarchy in the heart of Western Europe. The Flemsih region is situated in the north of the country and covers an area of 13.522 Km2 (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seazons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the river Yser basin in the North-West and the Central plain. Flanders is one of the most densely populated areas of Europe. The three major rivers in Flanders are the river Yser, the river Scheldt and the river Meuse. All rivers in Flanders flow into the North Sea but only the river Yser flows completely in the sea within the the jurisdiction of Flanders.
 
 ![Figure 6](images/image_6.svg)
 
@@ -127,6 +130,13 @@ Flanders is one of the 3 official regions of Belgium, a small federeal monarchy 
  
 
 ###Inland waters
+
+The Inland waters dataset deals with enclosed waters and riverine habitats in Flanders, including head streams, affluents and canals part of the drainage basisns of the river Yser, the river Meuse and the river Scheldt. These 3 drainage basisns are divided into 11 Flemisch sub basins, which are divided into 102 sub-basins.
+
+![Figure 7](images/image_7.png)
+
+*11 Flemsih sub basins, the west green area drain to the river Yser (Ijzerbekken), the blue to the river Scheldt* and the eastern green drain to the river Meuse* 
+
 
 ###Estuarien habitats
 
