@@ -140,8 +140,12 @@ The Inland waters dataset deals with enclosed waters and riverine habitats in Fl
 
 ###Estuarien habitats
 
+
+The Estuarine occurrence dataset deals with the estuaries of the river Scheldt and the river Yser.
+
 #### River Scheldt
 
+The river Scheldt originates on the plateau of Saint-Quentin near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns East, in the direction of Antwerp. The Scheldt estuary begins near the city of Ghent. The last 160 km of the river, from Ghent to it's delta, the influence of the tides is still visible. 
 
 #### River Yser
 
