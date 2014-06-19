@@ -222,8 +222,7 @@ Length and weight measurements of the individual fish, absence information, as w
 
 Four locations in the Yser estuary and 43 locations in the Scheldt estuary in Flanders, Belgium have been sampled since 1992. While the Yser estuary only covers a small geographical area, the Scheldt estuary is with 33.000 hectares one of the largest estuaries in Europe. It is also one of the few remaining European estuaries that include the entire gradient from fresh to saltwater tidal areas (`citation needed`). The 43 sampling locations in the Scheldt estuary are located in the river Scheldt, but also in the rivers "Durme", "Rupel", and "Zenne". In 2001, these locations were consolidated in a monitoring network for Flanders ("VISmeetnet") of 900 sampling points. The geographic coordinates in the dataset are those of the sampling locations. Since these do not always represent the actual coordinates of the catch, which may have occurred further up- or downriver, the coordinateUncertaintyInMeters has been set to 250.
 
-
-Over 2000 locations in inland rivers, streams, canals, and enclosed waters in Flanders, Belgium have been sampled since 1992. In 2001, these locations were consolidated in a monitoring network ("VISmeetnet") of 900 sampling points. The geographic coordinates in the dataset are those of the sampling locations. Since these do not always represent the actual coordinates of the catch, which may have occurred further up- or downriver, the coordinateUncertaintyInMeters has been set to 250.
+Over 2000 locations in inland rivers, streams, canals, and enclosed waters in Flanders, Belgium have been sampled since 1992. In 2001, these locations were also consolidated in a monitoring network ("VISmeetnet") of 900 sampling points. The geographic coordinates in the dataset are those of the sampling locations. Since these do not always represent the actual coordinates of the catch, which may have occurred further up- or downriver, the coordinateUncertaintyInMeters has been set to 250.
 
 ### Sampling description
 
@@ -235,12 +234,11 @@ Sampling methods are standardized and described in Van Thuyne, 2010 and indicate
 
 Strict field protocols where used during the generation of this dataset. The Manual for Application of the European Fish Index (EFI) (Fame consortium, 2004) was used as a guideline for electrofishing and used in support of the EU water framework directive.
 
-Strict field protocols where used during the generation of this dataset. The Manual for Application of the European Fish Index (EFI) (Fame consortium, 2004) was used as a guideline for electrofishing and used in support of the EU water framework directive.
-
 
 ### Method step description
 
-Estuary: fyke fishing, anchor netting, pound netting, electrofishing
+Type: Estuary
+fyke fishing, anchor netting, pound netting, electrofishing
 
 Type: Running freshwaters
 Width: 1.5m
