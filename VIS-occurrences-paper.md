@@ -138,6 +138,7 @@ The Inland waters dataset deals with enclosed waters and riverine habitats in Fl
 *River Yser (green); Scheldt(light blue); Meuse(light green) 11 Flemsih sub basins, the west green area drain to the river Yser (Ijzerbekken), the blue to the river Scheldt and the eastern green drain to the river Meuse* 
 
 
+
 ###Estuarien habitats
 
 
@@ -148,17 +149,13 @@ The Estuarine occurrence dataset deals with the estuaries of the river Scheldt a
 The river Scheldt originates on the plateau of Saint-Quentin near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns East, in the direction of Antwerp. The Scheldt estuary begins near the city of Ghent. The last 160 km of the river, from Ghent to it's delta, the influence of the tides are still visible, creating a unique and valuable landscape for biodiversity. After crossing the city of Antwerp, hosting one of the worlds largests harbours, the Scheldt enters the Netherlands where it ends in the sea.
 The Scheldt estuary is one of the last natural delta's in Western Europe and many areas near its riverbanks are marked as Natura 2000 area's. Especially its frechwater estuary area's are unique.
 
+![Figure 8](images/image_8.PNG)
+
 #### River Yser
 
 The Yser originates in French FLanders, enters Belgium in the province of West Flanders and is the only is the only big river in Belgium that flows directly into the sea and is located near the town of Nieuwpoort. The river is 78 km long and Salt and fresh water meet in the estuary wich results in 130 hectares of special biotopes of mud flats, salt marshes, dunes, beaches and polders. The large numbers of coastal and wading birds, such as common shelducks, redshanks, Eurasian oyster catchers and curlews that find food and rest all year round on the mud flats, the salt marshes and the beaches of the Yser estuary.
 
-![Figure 8](images/image_11.jpg)
-
-
-Estuarine areas of the river Yser and the river Scheldt, Flanders, Belgium, as well as two sampling locations in Zeeland, the Netherlands.
-
-Inland rivers, streams, canals, and enclosed waters in Flanders, Belgium.
-
+![Figure 9](images/image_9.PNG)
 
 
 
