@@ -147,9 +147,15 @@ The Estuarine occurrence dataset deals with the estuaries of the river Scheldt a
 #### River Scheldt
 
 The river Scheldt originates on the plateau of Saint-Quentin near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns East, in the direction of Antwerp. The Scheldt estuary begins near the city of Ghent. The last 160 km of the river, from Ghent to it's delta, the influence of the tides are still visible, creating a unique and valuable landscape for biodiversity. After crossing the city of Antwerp, hosting one of the worlds largests harbours, the Scheldt enters the Netherlands where it ends in the sea.
-The Scheldt estuary is one of the last natural delta's in Western Europe and many areas near its riverbanks are marked as Natura 2000 area's. Especially its frechwater estuary area's are unique.
 
 ![Figure 8](images/image_8.PNG)
+
+
+The Scheldt estuary is one of the last natural delta's in Western Europe and many areas near its riverbanks are marked as Natura 2000 area's (fig 8b). Especially its frechwater estuary area's are unique.
+
+![Figure 8b](images/image_8b.PNG)
+
+
 
 #### River Yser
 
