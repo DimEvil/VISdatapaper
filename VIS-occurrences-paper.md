@@ -124,7 +124,7 @@ This inland waters dataset contains more than 75 fish species found in Flemish s
 ###Flanders
 Flanders is one of the 3 official regions of Belgium, a small federeal monarchy in the heart of Western Europe. The Flemsih region is situated in the north of the country and covers an area of 13.522 Km2 (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seazons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the river Yser basin in the North-West and the Central plain. Flanders is one of the most densely populated areas of Europe. The three major rivers in Flanders are the river Yser, the river Scheldt and the river Meuse. All rivers in Flanders flow into the North Sea but only the river Yser flows completely in the sea within the the jurisdiction of Flanders.
 
-![Figure 6](images/image_6.svg)
+![Figure 6](images/image_6.png)
 
 *Flanders is a reagion in the heart of Europe* (img:[http://http://upload.wikimedia.org/wikipedia/commons/8/87/Flemish_Region_in_Belgium_and_Europe.svg](http://http://upload.wikimedia.org/wikipedia/commons/8/87/Flemish_Region_in_Belgium_and_Europe.svg "Flanders") 
  
@@ -133,7 +133,7 @@ Flanders is one of the 3 official regions of Belgium, a small federeal monarchy 
 
 The Inland waters dataset deals with enclosed waters and riverine habitats in Flanders, including head streams, affluents and canals part of the drainage basisns of the river Yser, the river Meuse and the river Scheldt. These 3 drainage basisns are divided into 11 Flemisch sub basins, which are divided into 102 sub-basins.
 
-![Figure 7](images/image_7.png)
+![Figure 7](images/image_7.PNG)
 
 *River Yser (green); Scheldt(light blue); Meuse(light green) 11 Flemsih sub basins, the west green area drain to the river Yser (Ijzerbekken), the blue to the river Scheldt and the eastern green drain to the river Meuse* 
 
