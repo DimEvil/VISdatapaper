@@ -150,9 +150,9 @@ The Scheldt estuary is one of the last natural delta's in Western Europe and man
 
 #### River Yser
 
-The Yser originates in French FLanders, enters Belgium in the province of West Flanders and is the only is the only big river in Belgium that flows directly into the sea near the town of Nieuwpoort. The river is 78 km long and Salt and fresh water meet in the estuary wich  
+The Yser originates in French FLanders, enters Belgium in the province of West Flanders and is the only is the only big river in Belgium that flows directly into the sea and is located near the town of Nieuwpoort. The river is 78 km long and Salt and fresh water meet in the estuary wich results in 130 hectares of special biotopes of mud flats, salt marshes, dunes, beaches and polders. The large numbers of coastal and wading birds, such as common shelducks, redshanks, Eurasian oyster catchers and curlews that find food and rest all year round on the mud flats, the salt marshes and the beaches of the Yser estuary.
 
-. This results in 130 hectares of special biotopes of mud flats, salt marshes, dunes, beaches and polders. The large numbers of coastal and wading birds, such as common shelducks, redshanks, Eurasian oyster catchers and curlews that find food and rest all year round on the mud flats, the salt marshes and the beaches of the Yser estuary.
+![Figure 8](images/image_11.jpg)
 
 
 Estuarine areas of the river Yser and the river Scheldt, Flanders, Belgium, as well as two sampling locations in Zeeland, the Netherlands.
