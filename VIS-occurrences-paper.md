@@ -135,7 +135,7 @@ The Inland waters dataset deals with enclosed waters and riverine habitats in Fl
 
 ![Figure 7](images/image_7.png)
 
-*11 Flemsih sub basins, the west green area drain to the river Yser (Ijzerbekken), the blue to the river Scheldt* and the eastern green drain to the river Meuse* 
+*River Yser (green); Scheldt(light blue); Meuse(light green) 11 Flemsih sub basins, the west green area drain to the river Yser (Ijzerbekken), the blue to the river Scheldt and the eastern green drain to the river Meuse* 
 
 
 ###Estuarien habitats
@@ -164,7 +164,13 @@ Inland rivers, streams, canals, and enclosed waters in Flanders, Belgium.
 
 ### Bounding box for covered area
 
-`to be corrected`
+Flanders:
+
+WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
+
+The Netherlands: 
+
+DECIMALLATITUDE 51.37878 DECIMALLONGITUDE 4.09392 &  DECIMALLATITUDE 51.36278 DECIMALLONGITUDE 3.71067
 
 
 ## Temporal coverage
