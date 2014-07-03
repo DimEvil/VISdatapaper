@@ -85,9 +85,11 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 
 **Kingdom**: *Animalia*
 
-**Class**: *Actinopterygii (ray-finned fishes), Petromyzontida, Malacostraca*
+**Class**: *Actinopterygii, Petromyzontida & Malacostraca*
 
-**Order**: *Mugiliformes, Osmeriformes, Atheriniformes, Clupeiformes, Decapoda, Gadiformes, Pleuronectiformes, Siluriformes, Salmoniformes, Petromyzontiformes, Scorpaeniformes, Esociformes, Anguilliformes, Gasterosteiformes, Perciformes, Cypriniformes*
+**Order**: *Mugiliformes, Osmeriformes, Atheriniformes, Clupeiformes, Gadiformes, Pleuronectiformes, Siluriformes, Salmoniformes, Petromyzontiformes, Scorpaeniformes, Esociformes, Anguilliformes, Gasterosteiformes, Perciformes, Cypriniformes* 
+
+*Decapoda*
 
 ![Figure 3](images/image_3.png)
 
@@ -96,7 +98,10 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 ![Figure 3log](images/image_3log.png)
 *Taxonomic coverage:orders; log scale*
 
-**Family**: *Cyprinidae, Ictaluridae, Ammodytidae, Anguillidae, Atherinidae, Atyidae, Nemacheilidae, Lotidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Crangonidae, Moronidae, Trachinidae, Grapsidae, Esocidae, Gadidae, Gasterosteidae, Percidae, Petromyzontidae, Centrarchidae, Pleuronectidae, Liparidae, Mugilidae, Gobiidae, Salmonidae, Cambaridae, Osmeridae, Palaemonidae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Umbridae, Zoarcidae*
+**Family**: *Anguillidae, Atherinidae, Centrarchidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Cyprinidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Lotidae, Moronidae, Mugilidae, Nemacheilidae, Osmeridae, Percidae, Petromyzontidae, Pleuronectidae, Salmonidae, Scophthalmidae, Siluridae, Soleidae, Umbridae* 
+
+*Atyidae,Cambaridae, Palaemonidae, Varunidae*
+
 
 ![Figure 3b](images/image_3b.png)
 
