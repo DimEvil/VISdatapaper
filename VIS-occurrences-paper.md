@@ -1,6 +1,7 @@
-# VIS - Fishes in inland waters and estuarine habitats in Flanders, Belgium
+#VIS – A database on the distribution of fishes in inland and estuarine waters in Flanders, Belgium
 
-Jan Breine[^1], Gerlinde Van Thuyne[^1], Hugo Verreycken[^1], Tom De Boeck[^2], Peter Desmet[^2], Dimitri Brosens[^2],
+Jan Breine[^1], Gerlinde Van Thuyne[^1], Hugo Verreycken[^1], Tom De Boeck[^2], Peter Desmet[^2], Claude Belpaire[^1] & Dimitri Brosens[^2]
+
 
 [^1]: Research Institute for Nature and Forest (INBO), Duboislaan 14, 1560, Groenendaal, Belgium
 
