@@ -74,8 +74,10 @@ Two separate Darwin Core Archives were generated and published. The main rationa
 
 ## Taxonomic coverage
 
-The estuary dataset contains 115 fish species found in the estuaries of the river Yser and the river Scheldt, as well as 8 non-target crustacean species. The class of Actinopterygii is best represented (109 species), along with some Petromyzontida (3 species), and Chondrichthyes (3 species). All the crustaceans in this dataset are from the order of the Decapoda.
-This inland waters dataset contains more than 75 fish species found in Flemish streams and rivers, as well as a number of non-target species (mainly crustaceans), some of which are invasive.
+The Inland waters dataset contains 64 fish species found in Flemish streams and rivers(some of which are non-native, invasive species), as well as a number of non-target species (mainly crustaceans). Typical brackish water fish species in this dataset are caught near the sea or just behind the sluice gates near Nieuwpoort, West Flanders.
+ 
+The Estuary dataset contains 116 fish species found in the estuaries of the River Yser and the River Scheldt, as well as 9 non-target crustacean species. The class of Actinopterygii is best represented (110 species), along with three Petromyzontida, and three Chondrichthyes. All the crustaceans in this dataset are from the order of the Decapoda. 
+
 
 ### Taxonomic ranks
 
