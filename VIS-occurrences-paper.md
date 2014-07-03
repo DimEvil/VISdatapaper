@@ -85,11 +85,17 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 
 **Kingdom**: *Animalia*
 
-**Class**: *Actinopterygii, Petromyzontida & Malacostraca*
+**Class**: *Actinopterygii*
 
-**Order**: *Mugiliformes, Osmeriformes, Atheriniformes, Clupeiformes, Gadiformes, Pleuronectiformes, Siluriformes, Salmoniformes, Petromyzontiformes, Scorpaeniformes, Esociformes, Anguilliformes, Gasterosteiformes, Perciformes, Cypriniformes* 
+**Order**: *Mugiliformes, Osmeriformes, Atheriniformes, Clupeiformes, Gadiformes, Pleuronectiformes, Siluriformes, Salmoniformes, Petromyzontiformes, Scorpaeniformes, Esociformes, Anguilliformes, Gasterosteiformes, Perciformes, Cypriniformes*
 
-*Decapoda*
+**Family**: *Anguillidae, Atherinidae, Centrarchidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Cyprinidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Lotidae, Moronidae, Mugilidae, Nemacheilidae, Osmeridae, Percidae, Petromyzontidae, Pleuronectidae, Salmonidae, Scophthalmidae, Siluridae, Soleidae, Umbridae* 
+
+**Class**: *Cephalaspidomorphi* **Order**: *Petromyzontiformes*
+**Family**: *Petromyzontidae* 
+
+**Class**: *Malacostraca* **Order**:*Decapoda*
+**Family**:*Atyidae,Cambaridae, Palaemonidae, Varunidae*
 
 ![Figure 3](images/image_3.png)
 
@@ -98,9 +104,6 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 ![Figure 3log](images/image_3log.png)
 *Taxonomic coverage:orders; log scale*
 
-**Family**: *Anguillidae, Atherinidae, Centrarchidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Cyprinidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Lotidae, Moronidae, Mugilidae, Nemacheilidae, Osmeridae, Percidae, Petromyzontidae, Pleuronectidae, Salmonidae, Scophthalmidae, Siluridae, Soleidae, Umbridae* 
-
-*Atyidae,Cambaridae, Palaemonidae, Varunidae*
 
 
 ![Figure 3b](images/image_3b.png)
@@ -110,9 +113,26 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 
 **Kingdom**: *Animalia*
 
-**Class**: *Actinopterygii (ray-finned fishes), Petromyzontida, Chondrichthyes (cartilaginous fishes), Malacostraca*
+**Class**: *Actinopterygii* 
 
-**Order**: *Acipenseriformes, Anguilliformes, Atheriniformes, Beloniformes, Clupeiformes, Cypriniformes, Decapoda, Esociformes,Gadiformes, Gasterosteiformes, Mugiliformes, Osmeriformes, Perciformes, Petromyzontiformes, Pleuronectiformes, Rajiformes, Salmoniformes, Scorpaeniformes, Siluriformes, Squaliformes, Squatiniformes, Syngnathiformes*
+**Order**: *Acipenseriformes, Anguilliformes, Atheriniformes, Beloniformes, Clupeiformes, Cypriniformes, Esociformes,Gadiformes, Gasterosteiformes, Mugiliformes, Osmeriformes, Perciformes, Pleuronectiformes, Salmoniformes, Scorpaeniformes, Siluriformes, Syngnathiformes*
+
+**Family**:*Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae,  Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,Polybiidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Zoarcidae* 
+
+
+**CLass**:*Chondrichthyes*
+**Order**:*Rajiformes, Squaliformes, Squatiniformes*   
+**Family**:*Squalidae, Squatinidae, Rajidae* 
+
+
+**Class**:*Petromyzontida*
+**Order**:*Petromyzontiformes*
+**Family**:Petromyzontidae*
+
+
+**Class**:*Malacostraca*
+**Order**:*Decapoda*
+**Family**:*Cambaridae, Cancridae, Crangonidae, Paguridae, Palaemonidae, Polybiidae, Portunidae, Varunidae*
 
 ![Figure 4](images/image_4.png)
 *Taxonomic coverage:orders*
@@ -122,7 +142,7 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 
 *Taxonomic coverage:orders; log scale*
 
-**Family:** *Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae, Cancridae, Carangidae, Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Crangonidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Paguridae, Palaemonidae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,Polybiidae, Portunidae, Rajidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Squalidae, Squatinidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Varunidae, Zoarcidae*
+
 
 ![Figure 5](images/image_5.png)
 
