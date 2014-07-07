@@ -107,7 +107,7 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 
 
 ![Figure 3b](images/image_3b.png)
-
+*Taxonomic coverage; 10 most occuring families in the estuarine dataset*
 
 ## Estuary occurrences
 
@@ -152,7 +152,7 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 ## Geographic coverage
 
 ###Flanders
-Flanders is one of the 3 official regions of Belgium, a small federeal monarchy in the heart of Western Europe. The Flemsih region is situated in the north of the country and covers an area of 13.522 Km2 (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seazons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the river Yser basin in the North-West and the Central plain. Flanders is one of the most densely populated areas of Europe. The three major rivers in Flanders are the river Yser, the river Scheldt and the river Meuse. All rivers in Flanders flow into the North Sea but only the river Yser flows completely in the sea within the the jurisdiction of Flanders.
+Flanders is one of the three administrative regions in the country of Belgium. The Flemish region is situated in the north of the country and covers an area of 13,522 Km2 (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seasons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the coastal plain in the North-West and the Central plain, further inland. With 470 inhabitants/Km², Flanders is one of the most densely populated areas of Europe. The three major rivers in Flanders are the River Yser, the River Scheldt and the River Meuse. All rivers in Flanders flow into the North Sea but only the River Yser flows completely in the sea within the jurisdiction of Flanders.
 
 ![Figure 6](images/image_6.png)
 
