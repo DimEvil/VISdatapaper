@@ -203,6 +203,8 @@ WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
 
 The Netherlands: 
 
+Two sampling events happened in the Netherlands.
+
 DECIMALLATITUDE 51.37878 DECIMALLONGITUDE 4.09392 &  DECIMALLATITUDE 51.36278 DECIMALLONGITUDE 3.71067
 
 
@@ -250,15 +252,19 @@ Length and weight measurements of the individual fish, absence information, as w
 
 ### Study extent description
 
-Four locations in the Yser estuary and 43 locations in the Scheldt estuary in Flanders, Belgium have been sampled since 1992. While the Yser estuary only covers a small geographical area, the Scheldt estuary is with 33.000 hectares one of the largest estuaries in Europe. It is also one of the few remaining European estuaries that include the entire gradient from fresh to saltwater tidal areas (`citation needed`). The 43 sampling locations in the Scheldt estuary are located in the river Scheldt, but also in the rivers "Durme", "Rupel", and "Zenne". In 2001, these locations were consolidated in a monitoring network for Flanders ("VISmeetnet") of 900 sampling points. The geographic coordinates in the dataset are those of the sampling locations. Since these do not always represent the actual coordinates of the catch, which may have occurred further up- or downriver, the coordinateUncertaintyInMeters has been set to 250.
+Over 2000 locations in inland rivers, streams, canals, and enclosed waters in Flanders, Belgium have been sampled since 1992. In 2001, these locations were consolidated in a monitoring network ("VISmeetnet") of 900 sampling points.
 
-Over 2000 locations in inland rivers, streams, canals, and enclosed waters in Flanders, Belgium have been sampled since 1992. In 2001, these locations were also consolidated in a monitoring network ("VISmeetnet") of 900 sampling points. The geographic coordinates in the dataset are those of the sampling locations. Since these do not always represent the actual coordinates of the catch, which may have occurred further up- or downriver, the coordinateUncertaintyInMeters has been set to 250.
+Four locations in the Yser estuary and 43 locations in the Scheldt were sampled since 1995. While the Yser estuary only covers a small geographical area, the Scheldt estuary is with 33,000 hectares one of the largest estuaries in Europe. It is also one of the few remaining European estuaries that includes the entire gradient from fresh to saltwater tidal areas (Van den Bergh et al, 2009). The 43 sampling locations in the Scheldt estuary are mainly located in the River Scheldt, but also in the rivers Durme, Rupel, Dijle, Zenne and Nete.
+ 
+The geographic coordinates in both the datasets are those of the sampling locations (Dwc: locationID). Since these do not always represent the actual coordinates of the catch, which may be localized further up- or downriver, the coordinate uncertainty (DwC: coordinateUncertaintyInMeters) has been set to 250 meter.
+
 
 ### Sampling description
 
-Sampling methods are standardized and described in Van Thuyne, 2010 and indicated in the data as samplingProtocol. Per waterbody, the same method was used for each sampling campaign. The default method in estuarine habitats is paired fyke netting (99%), but additional techniques such as pound netting, electrofishing, and eel fykes netting also have been used. All fish were identified, counted, and measured for length and weight (measurement data available upon request).
+The default method used in estuarine waters is paired fyke netting (99%), but additional techniques such as anchor netting, seine netting, pound netting, electric fishing, and eel fyke netting also have been used (Breine et al. 2011). All fish were identified to species level, counted, and measured for length and weight (measurement data available upon request).
 
-Sampling methods are standardized and described in Van Thuyne, 2010 and indicated in the data as samplingProtocol. Per waterbody, the same method was used for each sampling campaign. The default method is electrofishing, but additional techniques such as gill nets, fykes, and seine netting (variable sizes) are used as well. Electrofishing was carried out using a 5kW generator with an adjustable output voltage of 300-500V and a pulse frequency of 480Hz. The number of electrofishing devices and hand-held anodes used depend on the river width. In riverine environments, electrofishing was carried out on both riverbanks in upstream direction. When gill nets were used, a set of four monofilament nylon nets was placed. All fish were identified, counted, and measured for length and weight (measurement data available upon request).
+Sampling methods in inland waters are standardized and described in Belpaire et al. 2000 and Van Thuyne, 2010 and are indicated in the data as samplingProtocol. Per water body, the same method was used for each sampling event. The default method is electric fishing, but additional techniques such as gill nets, fykes, and seine netting (variable sizes) are used as well. Electric fishing was carried out using a 5kW generator with an adjustable output voltage of 300-500V and a pulse frequency of 480Hz. The number of electric fishing devices and hand-held anodes used depends on the river width (Belpaire et al. 2000). In riverine environments, electric fishing was carried out on both riverbanks in upstream direction. All fish were identified to species level, counted, and measured for length and weight (measurement data available upon request).
+
 
 ### Quality control description
 
@@ -267,14 +273,27 @@ Strict field protocols where used during the generation of this dataset. The Man
 
 ### Method step description
 
+| Type water          | Method                                                             | Effort        |
+| -----------------   |:-----------------------------------------------------------:       | -------------:|
+| Running freshwaters `Width: 1.5m` `Depth: <1.30m`|electrofishing with 1 anode by wading  | 100m upstream |
+| Running freshwaters `Width: 6m` `Depth: <1.30m` |electrofishing with 2 anodes by wading | 100m 
+| Running freshwaters `Width: >6m` `Depth: <1.30m` |electrofishing with 2 anodes by wading | 250m with 1 anode on each riverbank, 2m from bank|
+| Running freshwaters: streaming rivers `Width: >6m``Depth: >1.30m`|electrofishing with 2 anodes by boat|250m with 2 anodes on each riverbank, 2m from bank|
+| Enclosed waters, canals, slowly running rivers `Width: >6m` `Depth: >1.30m`|electrofishing with 2 anodes by boat OR fyke |250m with 2 anodes on each riverbank, 2m from bank OR 1 fyke for 48 hours parallel on both riverbanks|
+|Canalized rivers `Width: >6m``Depth: >1.30m`|high conductivity seine netting | 100m, two times complete seine netting |
+| Lakes | electrofishing OR fyke | 15% of riverbank (minimum 1000m, maximum 2000m) or 100% if perimeter is less than 1000m OR 1 fyke/hectare (minimum 4, maximum 20 fykes)|
+| Estuary             | fyke fishing, anchor netting, pound netting, electrofishing        |               |
+
+
 Type: Estuary
 fyke fishing, anchor netting, pound netting, electrofishing
 
-Type: Running freshwaters
+~~Type: Running freshwaters~~ 
 Width: 1.5m
 Depth: <1.30m
 Method: electrofishing with 1 anode by wading
-Effort: 100m upstream
+Effort: 100m upstream~~
+
  
 Type: Running freshwaters
 Width: 6m
@@ -292,8 +311,8 @@ Type: Running freshwaters: streaming rivers
 Width: >6m
 Depth: >1.30m
 Method: electrofishing with 2 anodes by boat
-Effort: 250m with 2 anodes on each riverbank, 2m from bank
- 
+Effort: 250m with 2 anodes on each riverbank, 2m from bank`
+
 Type: Running freshwaters: enclosed waters, canals, slowly running rivers
 Width: >6m
 Depth: >1.30m
