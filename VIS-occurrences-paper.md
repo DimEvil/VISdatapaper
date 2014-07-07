@@ -285,49 +285,6 @@ Strict field protocols where used during the generation of this dataset. The Man
 | Estuary             | fyke fishing, anchor netting, pound netting, electrofishing        |               |
 
 
-Type: Estuary
-fyke fishing, anchor netting, pound netting, electrofishing
-
-~~Type: Running freshwaters~~ 
-Width: 1.5m
-Depth: <1.30m
-Method: electrofishing with 1 anode by wading
-Effort: 100m upstream~~
-
- 
-Type: Running freshwaters
-Width: 6m
-Depth: <1.30m
-Method: electrofishing with 2 anodes by wading
-Effort: 100m
-
-Type: Running freshwaters
-Width: >6m
-Depth: <1.30m
-Method: electrofishing with 2 anodes by wading
-Effort: 250m with 1 anode on each riverbank, 2m from bank
-
-Type: Running freshwaters: streaming rivers
-Width: >6m
-Depth: >1.30m
-Method: electrofishing with 2 anodes by boat
-Effort: 250m with 2 anodes on each riverbank, 2m from bank`
-
-Type: Running freshwaters: enclosed waters, canals, slowly running rivers
-Width: >6m
-Depth: >1.30m
-Method: electrofishing with 2 anodes by boat OR fyke
-Effort: 250m with 2 anodes on each riverbank, 2m from bank OR 1 fyke for 48 hours parallel on both riverbanks
-
-Type: Canalized rivers
-Width: >6m
-Depth: >1.30m
-Method: high conductivity seine netting
-Effort: 100m, two times complete seine netting
-
-Type: Enclosed waters: lakes
-Method: electrofishing OR fyke
-Effort: 15% of riverbank (minimum 1000m, maximum 2000m) or 100% if perimeter is less than 1000m OR 1 fyke/hectare (minimum 4, maximum 20 fykes)
 
 ## Project data
 
