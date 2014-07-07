@@ -60,7 +60,7 @@ Inland waters occurrences: http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-4
 
 ## Rationale
 
-The Fish Information System or VIS (http://vis.milieuinfo.be) is a database set up by the Research Institute for Nature and Forest (INBO) to calculate the biotic integrity (Karr, 1981, Belpaire 2000 & Breine 2004)) of fish assemblages and to monitor the status of fishes and their habitats in Flanders, Belgium. It contains data regarding occurrences, stocks, pollutants, indices, and non-native fish species. Sampling has been going on since 1992 but the digital database concept was only designed in 1994 (Verbiest et al, 1994), the first database developed in 1996 (Verbiest et al, 1996) and the consolidated database set up in 2001. The database is used for supporting NATURA 2000, an ecological network of protected areas in Europe and to calculate the EQR (Ecological Quality Ratio) in the framework of the EU Water Directive (Directive 2000/60/EC). Further, the database provides updated information for Flemish Red Lists of fishes and lampreys similar to Verreycken, 2014 and on the distribution status of non-native, invasive fish species. Also, the data is crucial in fish stock management and for the council regulation (EC) N° 1100/2007 on Eel regulation. This dataset is a standardized extraction of all estuary and inland waters species occurrences in the VIS database. The VIS-database also contains fishes body mass and lengths which are only available upon request.
+The Fish Information System or VIS (http://vis.milieuinfo.be) is a database set up by the Research Institute for Nature and Forest (INBO) to calculate the biotic integrity (Karr, 1981, Belpaire 2000 & Breine 2004)) of fish assemblages and to monitor the status of fishes and their habitats in Flanders, Belgium. It contains data regarding occurrences, stocks, pollutants, indices, and non-native fish species. Sampling has been going on since 1992 but the digital database concept was only designed in 1994 (Verbiest et al, 1994), the first database developed in 1996 (Verbiest et al, 1996) and the consolidated database set up in 2001. The database is used for supporting NATURA 2000, an ecological network of protected areas in Europe and to calculate the EQR (Ecological Quality Ratio) in the framework of the EU Water Directive (Directive 2000/60/EC). Further, the database provides updated information for Flemish Red Lists of fishes and lampreys (Verreycken, 2014) and on the distribution status of non-native, invasive fish species. Also, the data is crucial in fish stock management and for the council regulation (EC) N° 1100/2007 on Eel regulation. This dataset is a standardized extraction of all estuary and inland waters species occurrences in the VIS database. The VIS-database also contains fishes body mass and lengths which are only available upon request.
 
 
 ![Figure 2](images/image_2.jpg)
@@ -161,7 +161,7 @@ Flanders is one of the three administrative regions in the country of Belgium. T
 
 ###Inland waters
 
-The Inland waters dataset deals with enclosed waters and riverine habitats in Flanders, including head streams, affluents and canals part of the drainage basisns of the river Yser, the river Meuse and the river Scheldt. These 3 drainage basisns are divided into 11 Flemisch sub basins, which are divided into 102 sub-basins.
+The ‘Inland waters’ dataset deals with enclosed waters including cut off river arms, gravel pits, ponds, natural lakes and artificial lakes and riverine habitats in Flanders, including head streams, tributaries and canals part of the drainage basins of the rivers Yser, Meuse and Scheldt. These three drainage basins are divided into eleven Flemish river catchments, which are divided into 102 sub basins. Overall, there are 48 unique enclosed waters sampled on 792 spots and 1452 riverine sample points were taken in 419 streams or rivers.
 
 ![Figure 7](images/image_7.PNG)
 
@@ -169,14 +169,14 @@ The Inland waters dataset deals with enclosed waters and riverine habitats in Fl
 
 
 
-###Estuarien habitats
+###Estuarien waters
 
 
 The Estuarine occurrence dataset deals with the estuaries of the river Scheldt and the river Yser.
 
 #### River Scheldt
 
-The river Scheldt originates on the plateau of Saint-Quentin near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns East, in the direction of Antwerp. The Scheldt estuary begins near the city of Ghent. The last 160 km of the river, from Ghent to it's delta, the influence of the tides are still visible, creating a unique and valuable landscape for biodiversity. After crossing the city of Antwerp, hosting one of the worlds largests harbours, the Scheldt enters the Netherlands where it ends in the sea.
+The River Scheldt is a 435 km long lowland river originating on the plateau of Saint-Quentin near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns East, in the direction of Antwerp. The tidal influence extends much further land inward than the freshwater-saltwater boundary. As a result, an extensive freshwater region under tidal influence is present. The tidal excursion goes as far as Gent, 160 km from the river mouth, where the tide is stopped by sluices. In the Zeeschelde (the Belgian part of the estuary, three zones are distinguished following the Venice system (1959): (http://www.aslo.org/lo/toc/vol_3/issue_3/0346.pdf)  a mesohaline zone (5-18 g/kg) between Zandvliet and Antwerpen, an oligohaline zone (0.5-5 g/kg) between Antwerpen and Temse, including the Rupel tributary, and a tidal freshwater zone till Gent including the Durme tributary. The marshes and mudflats create a valuable landscape for biodiversity. After crossing the city of Antwerp, the Scheldt enters the Netherlands where it ends in the North Sea near Vlissingen.
 
 ![Figure 8](images/image_8.PNG)
 
@@ -189,7 +189,7 @@ The Scheldt estuary is one of the last natural delta's in Western Europe and man
 
 #### River Yser
 
-The Yser originates in French FLanders, enters Belgium in the province of West Flanders and is the only is the only big river in Belgium that flows directly into the sea and is located near the town of Nieuwpoort. The river is 78 km long and Salt and fresh water meet in the estuary wich results in 130 hectares of special biotopes of mud flats, salt marshes, dunes, beaches and polders. The large numbers of coastal and wading birds, such as common shelducks, redshanks, Eurasian oyster catchers and curlews that find food and rest all year round on the mud flats, the salt marshes and the beaches of the Yser estuary.
+The Yser originates in Kassel, located in French Flanders. It enters Belgium in the province of West Flanders and is the only large river in Belgium that flows directly into the sea near the town of Nieuwpoort. The river is 78 km long and sea and fresh water meet in the estuary  resulting in 130 hectares of special biotopes of tidal mud flats, salt marshes, dunes, beaches and polders. 
 
 ![Figure 9](images/image_9.PNG)
 
