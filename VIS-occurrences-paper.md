@@ -3,9 +3,9 @@
 Jan Breine[^1], Gerlinde Van Thuyne[^1], Hugo Verreycken[^1], Tom De Boeck[^2], Peter Desmet[^2], Claude Belpaire[^1] & Dimitri Brosens[^2]
 
 
-[^1]: Research Institute for Nature and Forest (INBO), Duboislaan 14, 1560, Groenendaal, Belgium
+[^1/ Research Institute for Nature and Forest (INBO), Duboislaan 14, 1560, Groenendaal, Belgium
 
-[^2]: Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, Brussels, Belgium
+[^2/ Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, Brussels, Belgium
 
 *Corresponding authors: Estuarine habitats: Jan Breine (jan.breine@inbo.be) & Inland waters: Gerlinde Van Thuyne (Gerlinde.vanthuyne@inbo.be)* 
 
