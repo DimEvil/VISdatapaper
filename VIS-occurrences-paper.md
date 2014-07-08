@@ -167,17 +167,17 @@ Flanders is one of the three administrative regions in the country of Belgium. T
 
 ###Inland waters
 
-The ‘Inland waters’ dataset deals with enclosed waters including cut off river arms, gravel pits, ponds, natural lakes and artificial lakes and riverine habitats in Flanders, including head streams, tributaries and canals part of the drainage basins of the rivers Yser, Meuse and Scheldt. These three drainage basins are divided into eleven Flemish river catchments, which are divided into 102 sub basins. Overall, there are 48 unique enclosed waters sampled on 792 spots and 1452 riverine sample points were taken in 419 streams or rivers.
+The ‘Inland waters’ dataset deals with enclosed waters including cut off river arms, gravel pits, ponds, natural lakes and artificial lakes and riverine habitats in Flanders, including head streams, tributaries and canals part of the drainage basins of the rivers Yser, Meuse and Scheldt (figure 6). These three drainage basins are divided into eleven Flemish river catchments, which are divided into 102 sub basins. Overall, there are 48 unique enclosed waters sampled on 792 spots and 1452 riverine sample points were taken in 419 streams or rivers.
 
 ![Figure 6](images/image_6.PNG)
 
-*Figure 6: River Yser (green); Scheldt(light blue); Meuse(light green) 11 Flemsih sub basins, the west green area drain to the river Yser (Ijzerbekken), the blue to the river Scheldt and the eastern green drain to the river Meuse* 
+*Figure 6: River Yser (green); Scheldt(light blue); Meuse(light green) 11 Flemsih sub basins, the west green area drain to the river Yser, the blue to the river Scheldt and the eastern green drain to the river Meuse. They grey area drains directly to the sea* 
 
 
 ###Estuarien waters
 
 
-The Estuarine occurrence dataset deals with the estuaries of the River Scheldt and the River Yser.
+The Estuarine waters occurrence dataset deals with the estuaries of the River Scheldt and the River Yser.
 
 #### River Scheldt
 
@@ -247,6 +247,11 @@ DECIMALLATITUDE 51.37878 DECIMALLONGITUDE 4.09392 &  DECIMALLATITUDE 51.36278 DE
 * **Date of metadata creation**: 2013-12-20
 * **Hierarchy level**: Dataset
 
+
+The VIS Darwin Core Archives are a custom made SQL view on the original VIS SQL database which is in the custody of the Research Institute for Nature and Forest. The view only shows data that are accepted for publication. Fields given are:
+occurrenceID, type, languge, rights, rightsholmder, datasetID, institutionCode, collectionCode, datasetName, ownerInstitutionCode, basisOfRecord, informationWithheld, catalogNumber, recordedBy, individualCount, samplingProtocol, samplingEffort, eventDate, habitat, locationID, continent, waterBody, countryCode, verbatimLocality, verbatimLatitude, verbatimLongitude, verbatimCoordinateSystem, verbatimSRS, decimalLatitude, decimalLongitude, geodeticDatum, coordinateUncertaintyInMeters, identifiedBy, syntificName, Kingdom, taxonRank, scientificNameAuthorship, vernacularName, nomenclaturalCode
+
+
 ### Additional information
 
 Length and weight measurements of the individual fish, absence information, as well as abiotic data of the sampling points (pH, temperature, etc.) are available upon request. It would be much appreciated if you notify us of your use of this dataset for research or other purposes.
@@ -281,14 +286,13 @@ Strict field protocols where used during the generation of this dataset. The Man
 | Type water          | Method                                                             | Effort        |
 | -----------------   |:-----------------------------------------------------------:       | -------------:|
 | Running freshwaters `Width: 1.5m` `Depth: <1.30m`|electrofishing with 1 anode by wading  | 100m upstream |
-| Running freshwaters `Width: 6m` `Depth: <1.30m` |electrofishing with 2 anodes by wading | 100m 
+| Running freshwaters `Width: 6m` `Depth: <1.30m` |electrofishing with 2 anodes by wading  | 100m 
 | Running freshwaters `Width: >6m` `Depth: <1.30m` |electrofishing with 2 anodes by wading | 250m with 1 anode on each riverbank, 2m from bank|
 | Running freshwaters: streaming rivers `Width: >6m``Depth: >1.30m`|electrofishing with 2 anodes by boat|250m with 2 anodes on each riverbank, 2m from bank|
 | Enclosed waters, canals, slowly running rivers `Width: >6m` `Depth: >1.30m`|electrofishing with 2 anodes by boat OR fyke |250m with 2 anodes on each riverbank, 2m from bank OR 1 fyke for 48 hours parallel on both riverbanks|
 |Canalized rivers `Width: >6m``Depth: >1.30m`|high conductivity seine netting | 100m, two times complete seine netting |
-| Lakes | electrofishing OR fyke | 15% of riverbank (minimum 1000m, maximum 2000m) or 100% if perimeter is less than 1000m OR 1 fyke/hectare (minimum 4, maximum 20 fykes)|
+| Lakes | electrofishing OR fyke                                                           | 15% of riverbank (minimum 1000m, maximum 2000m) or 100% if perimeter is less than 1000m OR 1 fyke/hectare (minimum 4, maximum 20 fykes)|
 | Estuary             | fyke fishing, anchor netting, pound netting, electrofishing        |               |
-
 
 
 ## Project data
