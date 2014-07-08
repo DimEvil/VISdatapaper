@@ -92,22 +92,26 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 
 **Family**: *Anguillidae, Atherinidae, Centrarchidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Cyprinidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Lotidae, Moronidae, Mugilidae, Nemacheilidae, Osmeridae, Percidae, Petromyzontidae, Pleuronectidae, Salmonidae, Scophthalmidae, Siluridae, Soleidae, Umbridae* 
 
+![Figure 3](images/image_3.png)
+
+*Figure 3: Taxonomic coverage; 10 most occuring families in the estuarine dataset*
+
+
 **Class**: *Cephalaspidomorphi* **Order**: *Petromyzontiformes*
 **Family**: *Petromyzontidae* 
 
 **Class**: *Malacostraca* **Order**:*Decapoda*
 **Family**:*Atyidae,Cambaridae, Palaemonidae, Varunidae*
 
-![Figure 3](images/image_3.png)
+![Figure 3a](images/image_3a.png)
 
-*Figure 3: Taxonomic coverage: orders on number of occurrences*
-
-![Figure 3log](images/image_3log.png)
-*Figure 3b Taxonomic coverage:orders on number of occurrences; log scale*
-
+*Figure 3a: Taxonomic coverage: orders on number of occurrences*
 
 ![Figure 3b](images/image_3b.png)
-*Figure 3c Taxonomic coverage; 10 most occuring families in the estuarine dataset*
+*Figure 3b: Taxonomic coverage:orders on number of occurrences; log scale*
+
+
+
 
 ## Estuary occurrences
 
@@ -119,6 +123,9 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 
 **Family**:*Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae,  Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,Polybiidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Zoarcidae* 
 
+![Figure 4](images/image_4.png)
+
+*Figure 4: Taxonomic coverage; 10 most occuring families in the estuarine dataset*
 
 **CLass**:*Chondrichthyes*
 **Order**:*Rajiformes, Squaliformes, Squatiniformes*   
@@ -134,19 +141,18 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 **Order**:*Decapoda*
 **Family**:*Cambaridae, Cancridae, Crangonidae, Paguridae, Palaemonidae, Polybiidae, Portunidae, Varunidae*
 
-![Figure 4](images/image_4.png)
-*Taxonomic coverage:orders*
+![Figure 4a](images/image_4a.png)
+
+*Figure 4a: Taxonomic coverage: orders on number of occurrences*
 
 
-![Figure 4log](images/image_4log.png)
+![Figure 4b](images/image_4b.png)
 
-*Taxonomic coverage:orders; log scale*
+*Figure 4b: Taxonomic coverage:orders on number of occurrences; log scale*
 
 
 
-![Figure 5](images/image_5.png)
 
-*Taxonomic coverage; 10 most occuring families in the estuarine dataset*
 
 
 ## Geographic coverage
