@@ -169,7 +169,7 @@ Flanders is one of the three administrative regions in the country of Belgium. T
 
 The ‘Inland waters’ dataset deals with enclosed waters including cut off river arms, gravel pits, ponds, natural lakes and artificial lakes and riverine habitats in Flanders, including head streams, tributaries and canals part of the drainage basins of the rivers Yser, Meuse and Scheldt (figure 6). These three drainage basins are divided into eleven Flemish river catchments, which are divided into 102 sub basins. Overall, there are 48 unique enclosed waters sampled on 792 spots and 1452 riverine sample points were taken in 419 streams or rivers.
 
-![Figure 6](images/image_6.PNG)
+![Figure 6](images/image_6.png)
 
 *Figure 6: River Yser (green); Scheldt(light blue); Meuse(light green) 11 Flemsih sub basins, the west green area drain to the river Yser, the blue to the river Scheldt and the eastern green drain to the river Meuse. They grey area drains directly to the sea* 
 
