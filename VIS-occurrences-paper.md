@@ -189,7 +189,7 @@ The River Scheldt is a 435 km long lowland river originating on the plateau of S
 The Scheldt estuary is one of the last natural delta's in Western Europe and many areas near its riverbanks are marked as Natura 2000 area's (figure 8). Especially its frechwater estuary area's are unique.
 
 ![Figure 8](images/image_8.PNG)
-*Figure 8: Natura 2000 area's near the riverbanks of the Scheldt River.
+*Figure 8: Natura 2000 area's near the riverbanks of the Scheldt River.*
 
 
 #### River Yser
@@ -247,6 +247,8 @@ DECIMALLATITUDE 51.37878 DECIMALLONGITUDE 4.09392 &  DECIMALLATITUDE 51.36278 DE
 * **Date of metadata creation**: 2013-12-20
 * **Hierarchy level**: Dataset
 
+![Figure 10](images/image_10.PNG)
+*Figure 10: A small preview of the Inland waters dataset Darwin Core.*
 
 The VIS Darwin Core Archives are a custom made SQL view on the original VIS SQL database which is in the custody of the Research Institute for Nature and Forest. The view only shows data that are accepted for publication. Fields given are:
 occurrenceID, type, languge, rights, rightsholmder, datasetID, institutionCode, collectionCode, datasetName, ownerInstitutionCode, basisOfRecord, informationWithheld, catalogNumber, recordedBy, individualCount, samplingProtocol, samplingEffort, eventDate, habitat, locationID, continent, waterBody, countryCode, verbatimLocality, verbatimLatitude, verbatimLongitude, verbatimCoordinateSystem, verbatimSRS, decimalLatitude, decimalLongitude, geodeticDatum, coordinateUncertaintyInMeters, identifiedBy, syntificName, Kingdom, taxonRank, scientificNameAuthorship, vernacularName, nomenclaturalCode
