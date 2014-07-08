@@ -252,6 +252,7 @@ The VIS Darwin Core Archives are a custom made SQL view on the original VIS SQL 
 occurrenceID, type, languge, rights, rightsholmder, datasetID, institutionCode, collectionCode, datasetName, ownerInstitutionCode, basisOfRecord, informationWithheld, catalogNumber, recordedBy, individualCount, samplingProtocol, samplingEffort, eventDate, habitat, locationID, continent, waterBody, countryCode, verbatimLocality, verbatimLatitude, verbatimLongitude, verbatimCoordinateSystem, verbatimSRS, decimalLatitude, decimalLongitude, geodeticDatum, coordinateUncertaintyInMeters, identifiedBy, syntificName, Kingdom, taxonRank, scientificNameAuthorship, vernacularName, nomenclaturalCode
 
 
+
 ### Additional information
 
 Length and weight measurements of the individual fish, absence information, as well as abiotic data of the sampling points (pH, temperature, etc.) are available upon request. It would be much appreciated if you notify us of your use of this dataset for research or other purposes.
@@ -321,19 +322,125 @@ VIS - Fish Information System
 
 Flemish government
 
-## References
+#References cited within the metadata
 
-FAME Consortium (2004). Manual for the application of the European Fish Index - EFI. A fish-based method to assess the ecological status of European rivers in support of the Water Framework Directive. Version 1.1, January 2005.
-
-Van Thuyne, G., Breine, J. (2011). Visbestandopnames in Vlaamse beken en rivieren in het kader van het 'Meetnet Zoetwatervis' 2010. Rapporten van het Instituut voor Natuur- en Bosonderzoek 2011 (INBO.R.2011.23). Instituut voor Natuur- en Bosonderzoek, Brussel.
+Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy Official Journal L 327 , 22/12/2000 P. 0001 - 0073
 
 Belpaire et al. (2000). An Index of Biotic Integrity characterizing fish populations and the ecological quality of Flandrian water bodies, Hydrobiologia 434: 17–33, 2000.
 
+Breine, J., Simoens, I., Goethals, P., Quataert, P., Ercken, D., Van Liefferinghe, C., Belpaire, C. (2004). A fish-based index of biotic integrity for upstream brooks in Flanders (Belgium). Hydrobiologia 522: 133-148.
+
+Breine, J., Maes, J., Ollevier, F. Stevens  M., (2011). Fish assemblages across a salinity gradient in the Zeeschelde estuary (Belgium). Belg. J. Zool., 141 (2): 21-44.
+
+CEN (2002) Water quality- Sampling fish with electricity
+
+FAME Consortium (2004). Manual for the application of the European Fish Index - EFI. A fish-based method to assess the ecological status of European rivers in support of the Water Framework Directive. Version 1.1, January 2005.
+Karr, J.R. (1981) Assessment of biotic integrity using fish communities. Fisheries 6(6), 21-27
+
+Van den Bergh, E., Garniel, G., Morris, R.K.A., Barendregt, A. (2009). Conservation of tidal freshwater wetlands in Europe. Chapter 22: 241-252 in: Barendregt A. ,  Whigham D., Baldwin A. Eds Tidal Freshwater Wetlands 2009. Backhuys Publishers, Leiden, The Netherlands. 320 pp. 
+
 Van Thuyne, G., Breine, J. (2010). Visbestandopnames in Vlaamse beken en rivieren in het kader van het 'Meetnet Zoetwatervis' 2009. Rapporten van het Instituut voor Natuur- en Bosonderzoek, 2010(42). INBO: Brussel. 196 pp.
+Venice system (1959). The final resolution of the symposium on the classification of brackish waters. Archo Oceanography Limnology, 11 (suppl): 243-248.
+
+VERREYCKEN H., VAN THUYNE G. AND BELPAIRE C., 2011 Length–weight relationships of 40 freshwater fish species from two decades of monitoring in Flanders (Belgium). J. Appl. Ichthyol. (2011), 1–5
+Verreycken, H., Belpaire, C., Van Thuyne, G., Breine, J., Buysse, D., Coeck, J., Mouton, A., Stevens, M., Van den Neucker, T., De Bruyn, L. and Maes, D. (2014), IUCN Red List of freshwater fishes and lampreys in Flanders (north Belgium). Fisheries Management and Ecology, 21: 122–132. doi: 10.1111/fme.12052
+
+
+
+#Publications based on this dataset
+
+Breine, J.J., Goethals, P., Simoens, I., Ercken, D., Van Liefferinghe, C., Verhaegen, G., Belpaire, C., De Pauw, N., Meire, P., Ollevier, F. (2001). De visindex als instrument voor het meten van de biotische integriteit van de Vlaamse binnenwateren. Instituut voor Bosbouw en Wildbeheer, Groenendaal. Eindverslag van project VLINA 9901, studie uitgevoerd voor rekening van de Vlaamse Gemeenschap binnen het kader van het Vlaams Impulsprogramma Natuurontwikkeling. 173 pp. + 
+
+Breine, J., Maes, J., Ollevier, F. Stevens  M., (2011). Fish assemblages across a salinity gradient in the Zeeschelde estuary (Belgium). Belg. J. Zool., 141 (2): 21-44.
+
+Breine, J.J., Maes, J., Quataert, P., Van den Bergh, E., Simoens, I., Van Thuyne, G., Belpaire C (2007). A fish-based assessment tool for the ecological quality of the brackish Schelde estuary in Flanders (Belgium). Hydrobiologia 575: 141-159.
+
+Breine J., Maes, Y., Van Thuyne, G, (2005). Visbestandopnames op de Grensmaas. IBW.Wb.V.R.2005.139. Depotnummer: D/2005/3241/227.
+
+Breine, J., Mertens, W., Simoens, I., Van Thuyne, G. (2010). Visbestandopnames op enkele wateren in het bekken van de Zeeschelde (2009). Rapporten van het Instituut voor Natuur- en Bosonderzoek 2010. (INBO.R.2010.18), 37 pp.
+
+Breine, J., Quataert, P., Stevens, M., Ollevier, F., Volckaert, F.A.M., Van den Bergh, E., Maes, J; (2010). A zone-specific fish-based biotic index as a management tool for the Zeeschelde estuary (Belgium) Marine Pollution bulletin 60: 1099-1112.
+
+Breine, J.J., Simoens, I. & G. Van Thuyne, 2004. Visbestandopnames in enkele waterlopen in het Netebekken, 2003. IBW.Wb.V.R.2004.103. 
+
+Breine, J., Simoens, I. & G. Van Thuyne, 2006. Visbestandopnames op de Rupel en de Durme (2006). D/2006/3241/100. 10 pp.
+
+Breine, J., Simoens, I., Stevens, M. & G. Van Thuyne, 2007. Visbestandopnames op de Rupel en Durme (2007). Rapporten van het Instituut voor Natuur- en Bosonderzoek, 2007(24). Instituut voor Natuur- en Bosonderzoek: Groenendaal: Belgium. 11 pp.
+
+Breine, J.J., Smolders, R., Beyens, J., Van Thuyne, G. & C. Belpaire, 1999. Visbestandopnames op de Warmbeek. IBW.Wb.V.R.99.078.
+
+Breine, J., M. Stevens, E. Van den Bergh, Maes, J. (2011). A reference list of fish species for a heavily modified transitional water: The Zeeschelde (Belgium). Belg. J. Zool., 141 (1): 44-55.
+
+Breine, J., Stevens, M. & G. Van Thuyne, 2011. Opvolging van het visbestand van de Zeeschelde: resultaten voor 2010. INBO.R. 2011.4. 39 pp. 
+
+Breine, J., Stevens, M. & G. Van Thuyne 2011. Visbestandopnames op de Rupel en Durme (2008-2010). INBO.R. 2011.19. 19pp.
+
+Breine, J., Stevens, M., Van Thuyne G. & C. Belpaire, 2010. Opvolging van het visbestand van de Zeeschelde: resultaten voor 2008-2009. INBO.R. 2010.13. Rapporten van het Instituut voor Natuur- en Bosonderzoek 2010 (INBO.R.2010.13). Instituut voor Natuur- en Bosonderzoek, Brussel. 34 pp.
+
+Breine, J. & E. Van Hecke, 2007. Duurzame bevissing door medebeheer. Fishery Information Management Systems Video Productions: [s.l.]. 24 pp.
+
+Breine, J.J. & G. Van Thuyne, 2004. Visbestandopnames op de Rupel en Durme (2004). IBW.Wb.V.R.2004.109. Depotnummer: D/2004/3241/197.
+
+Breine, J.J. & G. Van Thuyne, 2005. Visbestandopnames in het Demerbekken (2005). IBW.Wb.V.R.2005.143. Depotnummer: D/2005/3241/226.
+
+Breine, J.J. & G. Van Thuyne, 2005. Visbestandopnames op de Rupel en de Durme (2005). IBW.Wb.V.R.2005.147. Depotnummer: D/2005/3241/233.
+
+Breine, J. & G. Van Thuyne, 2012. Opvolging van het visbestand van de Zeeschelde: resultaten voor 2011. INBO.R. 2012.24. 47 pp.
+
+Breine, J.J. & G. Van Thuyne, 2012. Visbestandopnames in de getijgebonden Dijle en Beneden Nete. INBO.R.2012.32. 25pp. 
+
+Breine, J. & G. Van Thuyne, 2012. Visbestandopnames op de Rupel en de Durme (2011). INBO.R. 2012.33. 25pp.
+
+Breine, J. & G. Van Thuyne, 2012. Visbestandopnames in de getijgebonden Zenne. Viscampagne 2011. INBO.R. 2012.34. 19PP.
+
+Breine, J. & G. Van Thuyne, 2012. Visbestandopnames in het Lippenbroek, een gecontroleerd overstromingsgebied met gereduceerd getij in het Zeeschelde-estuarium: Viscampagnes 2006-2012. INBO.R. 2012.67. 66pp.
+
+Breine, J. & G. Van Thuyne, 2013. Het visbestand in het IJzerestuarium: viscampagnes 2008-2012. INBO.R.2013.8. 61pp.
+
+Breine, J. & G. Van Thuyne, 2013. Opvolgen van het visbestand van het Zeeschelde–estuarium. Viscampagne 2012. INBO.R.2013.13. 64pp.
+
+Breine, J. & G. Van Thuyne, 2013. Opvolgen van het visbestand van het Zeeschelde–estuarium met ankerkuilvisserij. Resultaten voor 2013. INBO.R.2013.1020474. 38 pp.
+
+Breine, J.J., Van Thuyne, G. & C. Belpaire, 1999. Visbestandopnames op de Demer en de Laambeek. IBW.Wb.V.R.99.071.
+
+Breine, J.J., Van Thuyne, G. & C. Belpaire, 2000. Het Visbestand in de Voer, Vlaams-Brabant (november, 1999). IBW.Wb.V.IR.2000.86. 
+
+Breine, J., Van Thuyne G. & C. Belpaire, 2011. Visbestandopnames in de Zenne stroomafwaarts Brussel 2007-2010. INBO.R.2011.10. 19pp.
+
+Breine, J.J., Van Thuyne, G., Belpaire, C. & J. Beyens, 1999. Visbestandopnames op de Abeek. IBW.Wb.V.R.99.076
+
+Breine, J.J., Van Thuyne, G., Belpaire, C., De Charleroy, D. & J. Beyens, 1999. Het visbestand in de Demer anno 1999. IBW.Wb.V.R..99.069, 44 pp.
+
+Breine, J.J., Van Thuyne, G., Beyens, J., & C. Belpaire, 1999. Visbestandopnames op de Grensmaas. IBW.Wb.V.R.99.080.
+
+Breine, J.J., Van Thuyne, G., Beyens, J., Smodlers, R. & C. Belpaire, 1999. Visbestandopnames op de Berwijn. IBW.Wb.V.R.99.077.
+
+Breine, J.J., Van Thuyne, G., Beyens, J., Smolders, R & C. Belpaire, 1999. Visbestandopnames op de Dommel. IBW.Wb.V.R.99.079.
+
+Breine, J., Van Thuyne, G. & L. De Bruyn, 2012. Opvolging van het visbestand van de Zeeschelde met ankerkuilvisserij: resultaten voor 2012. INBO.R. 2012.38. Rapporten van het Instituut voor Natuur- en Bosonderzoek 2012 (INBO.R.2012.38). 54 pp.
+
+Cuveliers, E., Stevens, M., Guelinckx, J., Ollevier, F., Breine, J. & C. Belpaire, 2007. Opvolging van het visbestand van de Zeeschelde: resultaten voor 2006. Studierapport in opdracht van het Instituut voor Natuur- en Bosonderzoek. INBO.R.2007.48., 42 pp.
+
+Goudswaard, P.C. & J. Breine, 2011. Kuilen en schieten in het Schelde-estuarium. Vergelijkend vissen op de Zeeschelde in België en Westerschelde in Nederland. Rapport C139/11, IMARES & INBO. 35 pp.
+
+Guelinckx, J., Cuveliers, E., Stevens, M., Ollevier, F., Breine, J. & C. Belpaire, 2008. Opvolging van het visbestand van de Zeeschelde: resultaten voor 2007. Studierapport in opdracht van het Instituut voor Natuur- en Bosonderzoek. INBO.R.2008.39. 47 pp.
+
+Maes, J.,Geysen, B., Stevens, M. Ollevier, F., Breine, J. & C. Belpaire, 2005. Opvolging van het visbestand van de Zeeschelde: resultaten voor 2004. Studierapport in opdracht van het Instituut voor Bosbouw en Wildbeheer. Leuven. IBW.Wb.V.R.2005.149.
+
+Mertens, W., Van Thuyne, G. & J. Breine, 2010. Visbestandopnames op enkele wateren in de polder van Kruibeke - Bazel - Rupelmonde (2007-2008). Meting nulsituatie in het kader van de monitoring van het Sigmaplan. INBO.R.2010.10. 19 pp.
+
+Speybroeck, J., Breine, J., Vandevoorde, B., Van Braeckel, A., Van den Bergh, E. & G. Van Thuyne,  2008. KRW doelstellingen in de IJzermonding. Afleiden en beschrijven van typespecifiek maximaal ecologisch potentieel en goed ecologisch potentieel in het Vlaams waterlichaam ‘Havengeul IJzer’ vanuit de - overeenkomstig de Kaderrichtlijn Water - ontwikkelde relevante beoordelingssystemen voor een aantal biologische kwaliteitselementen. INBO.R.2008.55. D/2008/3241/388 VMM.AMO.KRW.IJZERMOND. 76 pp.
+
+Speybroeck, J., Breine, J., Vandevoorde, B., Van Wichelen, J., Van Braeckel, A., Van Burm, E., Van den Bergh, E., G. Van Thuyne & W. Vijverman 2008. KRW doelstellingen in Vlaamse getijrivieren. Afleiden en beschrijven van typespecifiek maximaal ecologisch potentieel en goed ecologisch potentieel in het Vlaams waterlichaam ‘Havengeul Ijzer’ vanuit de - overeenkomstig de Kaderrichtlijn Water - ontwikkelde relevante beoordelingssystemen voor een aantal biologische kwaliteitselementen. INBO.R.2008.56. D/2008/3241/387 VMM.AMO.KRW.zoetgetij. 152 pp.
+
+Stevens, M., Maes, J., Guelinckx, J., Ollevier, F., Breine, J. & C. Belpaire, 2006. Opvolging van het visbestand van de Zeeschelde: resultaten voor 2005. Studierapport in opdracht van het Instituut voor Natuur- en Bosonderzoek. 33 pp.
+
+Van Thuyne, G., Breine, J. (2011). Visbestandopnames in Vlaamse beken en rivieren in het kader van het 'Meetnet Zoetwatervis' 2010. Rapporten van het Instituut voor Natuur- en Bosonderzoek 2011 (INBO.R.2011.23). Instituut voor Natuur- en Bosonderzoek, Brussel.
 
 Van Thuyne, G., Breine, J. (2009). Visbestandopnames in Vlaamse beken en rivieren in het kader van het 'Meetnet Zoetwatervis' 2008. Rapporten van het Instituut voor Natuur- en Bosonderzoek, R.2009.32. Instituut voor Natuur- en Bosonderzoek: Brussel. 197 pp.
 
-Van Thuyne, G., Breine, J., Belpaire, C. (2008). Visbestanden op de Dommel in het kader van de sanering van de bodem. Rapporten van het Instituut voor Natuur- en Bosonderzoek, 2008(57). Instituut voor Natuur- en Bosonderzoek: Brussel. 48 pp.
+Van Thuyne, G., Breine, J., Belpaire, C. (2008). Visbestanden op de Dommel in het kader van de sanering van de bodem. Rapporten van 
+het Instituut voor Natuur- en Bosonderzoek, 2008(57). Instituut voor Natuur- en Bosonderzoek: Brussel. 48 pp.
 
 Van Thuyne, G., Breine, J. (2008). Visbestandopnames in Vlaamse beken en rivieren afgevist in het kader van het 'Meetnet Zoetwatervis' 2007. Rapporten van het Instituut voor Natuur- en Bosonderzoek, 2008(21). Instituut voor Natuur- en Bosonderzoek: Groenendaal. 154 pp.
 
@@ -386,3 +493,12 @@ Van Thuyne, G., Samsoen, L., Breine, J. (2006). Visbestandopnames op de Oude Dur
 Van Thuyne, G., Samsoen, L., Breine, J. (2006). Visbestandopnames op de oude leiearm te Grammene (2005). Rapporten van het instituut voor bosbouw en wildbeheer - sectie visserij, 2006(154). Instituut voor Bosbouw en Wildbeheer: Groenendaal, Belgium. 16 pp.
 
 Van Thuyne, G., Vrielynck, S., Breine, J. (2006). Visbestandopnames op het kanaal Nieuwpoort-Duinkerke (2005). Rapporten van het instituut voor bosbouw en wildbeheer - sectie visserij, 2006(152). Instituut voor Bosbouw en Wildbeheer: Groenendaal : Belgium. 11 pp.
+
+VERREYCKEN H., ANSEEUW D., VAN THUYNE G., QUATAERT P. & BELPAIRE C., 2007: The non-indigenous freshwater fishes of Flanders (Belgium): review, status and trends over the last decade. Journal of Fish Biology (2007) 71 (Supplement D), 1–13 doi:10.1111/j.1095-8649.2007.01679.x
+
+VERREYCKEN H.; GEERAERTS C.; DUVIVIER C.; BELPAIRE C., 2010
+Present status of the North American Umbra pygmaea (DeKay, 1842) (eastern mudminnow) in Flanders (Belgium) and in Europe. Aquatic Invasions 5(1)
+
+CAMMAERTS R.; SPIKMANS F.; VAN KESSEL N.; VERREYCKEN H.; CHÉROT F.; DEMOL T.; DEMOL S., 2011 Colonization of the Border Meuse area (The Netherlands and Belgium) by the non-native western tubenose goby Proterorhinus semilunaris (Heckel, 1837) (Teleostei, Gobiidae). Aquatic Invasions. Published online: 30 June 2011
+VERREYCKEN H.; BREINE J.; SNOEKS J.; BELPAIRE C., 2011 First record of the round Goby, NEOGOBIUS MELANOSTOMUS (ACTINOPTERYGII: PERCIFORMES: GOBIIDAE) in Belgium. Acta Ichthyologica et Piscatoria 41(2): 137–140
+
