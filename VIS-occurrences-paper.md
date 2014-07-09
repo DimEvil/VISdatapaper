@@ -50,7 +50,7 @@ VIS estuary occurrences [http://dataset.inbo.be/vis-estuary-occurrences](http://
 Vis Inland waters occurrences [http://dataset.inbo.be/vis-inland-occurrences](http://dataset.inbo.be/vis-inland-occurrences)
 
 
-Reports (Only in Dutch) can be downloaded from:
+Reports (Only in Dutch) can be generated and downloaded from:
 
 [http://vis.inbo.be/Pages/Common/ReportOverviewPage.aspx](http://vis.inbo.be/Pages/Common/ReportOverviewPage.aspx)
 
@@ -182,7 +182,7 @@ The River Scheldt is a 435 km long lowland river originating on the plateau of S
 ![Figure 7](images/image_7.PNG)
 *Figure 7: Areal foto of the Scheldt Estuary, sampling locations are marked in blue*
 
-The Scheldt estuary is one of the last natural delta's in Western Europe and many areas near its riverbanks are marked as Natura 2000 area's (figure 8). Especially its frechwater estuary areas are unique.
+The Scheldt estuary is one of the last natural deltas in Western Europe and many areas near its riverbanks are marked as Natura 2000 area's (figure 8). Especially its frechwater estuary areas are unique.
 
 ![Figure 8](images/image_8.PNG)
 *Figure 8: Natura 2000 area's near the riverbanks of the Scheldt River.*
