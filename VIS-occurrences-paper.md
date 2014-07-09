@@ -34,7 +34,7 @@ The data for both datasets are retrieved from the Fish Information System ([VIS]
 
 
 ![Figure 1](images/image_1.PNG)
-*Figure 1: Map of all the VIS sampling locations. The green dots correspondent with Estuary occurrences, the orange dots with Inland waters* occurrences
+*Figure 1: Map of all the VIS sampling locations. The orange dots correspond with Inland waters, the green dots correspond with Estuary occurrences* 
 
 ## Keywords
 
@@ -63,7 +63,7 @@ Inland waters occurrences: [http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-
 
 ## Rationale
 
-The Fish Information System (figure 2) or [VIS](http://vis.milieuinfo.be) is a database set up by the Research Institute for Nature and Forest (INBO) to calculate the biotic integrity (Karr, 1981, Belpaire 2000 & Breine 2004)) of fish assemblages and to monitor the status of fishes and their habitats in Flanders, Belgium. It contains data regarding occurrences, stocks, pollutants, indices, and non-native fish species. Sampling has been going on since 1992 but the digital database concept was only designed in 1994 (Verbiest et al, 1994), the first database developed in 1996 (Verbiest et al, 1996) and the consolidated database set up in 2001. The database is used for supporting NATURA 2000, an ecological network of protected areas in Europe and to calculate the EQR (Ecological Quality Ratio) in the framework of the EU Water Directive (Directive 2000/60/EC). Further, the database provides updated information for Flemish Red Lists of fishes and lampreys (Verreycken, 2014) and on the distribution status of non-native, invasive fish species. Also, the data is crucial in fish stock management and for the council regulation (EC) N° 1100/2007 on Eel regulation. This dataset is a standardized extraction of all estuary and inland waters species occurrences in the VIS database. The VIS-database also contains fishes body mass and lengths which are only available upon request.
+The Fish Information System (figure 2) or [VIS](http://vis.milieuinfo.be) is a database set up by the Research Institute for Nature and Forest (INBO) to calculate the biotic integrity (Karr, 1981, Belpaire 2000 & Breine 2004)) of fish assemblages and to monitor the status of fishes and their habitats in Flanders, Belgium. It contains data regarding occurrences, stocks, pollutants, indices, and non-native fish species. Sampling has been going on since 1992, the digital database concept was designed in 1994 (Verbiest et al, 1994), the first database developed in 1996 (Verbiest et al, 1996) and the consolidated database set up in 2001. The database is used for supporting NATURA 2000, an ecological network of protected areas in Europe and to calculate the EQR (Ecological Quality Ratio) in the framework of the EU Water Directive (Directive 2000/60/EC). Further, the database provides updated information for Flemish Red Lists of fishes and lampreys (Verreycken, 2014) and on the distribution status of non-native, invasive fish species. Also, the data is crucial in fish stock management and for the council regulation (EC) N° 1100/2007 on Eel regulation. This dataset is a standardized extraction of all estuary and inland waters species occurrences in the VIS database. The VIS-database also contains fishes body mass and lengths which are only available upon request.
 
 
 ![Figure 2](images/image_2.jpg)
