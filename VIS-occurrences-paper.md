@@ -28,7 +28,7 @@ Since 1992, the Research Institute for Nature and Forest is performing organized
 
 The ‘VIS - Fishes in inland waters’ in Flanders, Belgium subset is a species occurrence dataset. The dataset contains over 350.000 fish observations, sampled between 1992 and 2012 from over 2000 locations in inland rivers, streams, canals, and enclosed waters in Flanders, Belgium. The dataset includes over 64 fish species, as well as a number of non-target species (mainly crustaceans).
 
-The ‘VIS - Fishes in estuarine habitats’ in Flanders, Belgium subset is also a species occurrence dataset. The dataset contains over 80.000 fish observations, sampled between 1995 and 2012 from almost 50 locations in the estuaries of the rivers Yser and Scheldt, in Flanders, Belgium. The dataset includes 116 fish species, as well as a number of non-target crustacean species.
+The ‘VIS - Fishes in estuarine habitats’ in Flanders, Belgium subset is also a species occurrence dataset. The dataset contains over 80.000 fish observations, sampled between 1995 and 2012 from almost 50 locations in the estuaries of the rivers Yser and Scheldt, in Flanders, Belgium except two sampling locations in the Netherlands.  The dataset includes 116 fish species, as well as a number of non-target crustacean species.
  
 The data for both datasets are retrieved from the Fish Information System ([VIS](http://vis.milieuinfo.be)), a database set up to monitor the status of fishes and their habitats in Flanders and are collected in support of the Water Framework Directive, the Habitat Directive, the Eel Regulation, the Red List of fishes, the colonization and spreading of non-native fish species, fish stock management and biodiversity research. Additional information, such as measurements on length and weight, absence information and abiotic data are available upon request. Issues regarding inland waters and estuary data can be reported at [https://github.com/LifeWatchINBO/vis-inland-occurrences](https://github.com/LifeWatchINBO/vis-inland-occurrences) and [https://github.com/LifeWatchINBO/vis-estuary-occurrences](https://github.com/LifeWatchINBO/vis-estuary-occurrences), respectively.
 
@@ -170,7 +170,7 @@ The ‘Inland waters’ dataset deals with enclosed waters including cut off riv
 *Figure 6: River Yser (green); Scheldt(light blue); Meuse(light green) 11 Flemsih sub basins, the west green area drain to the river Yser, the blue to the river Scheldt and the eastern green drain to the river Meuse. They grey area drains directly to the sea* 
 
 
-###Estuarien waters
+###Estuarine waters
 
 
 The Estuarine waters occurrence dataset deals with the estuaries of the River Scheldt and the River Yser.
@@ -182,7 +182,7 @@ The River Scheldt is a 435 km long lowland river originating on the plateau of S
 ![Figure 7](images/image_7.PNG)
 *Figure 7: Areal foto of the Scheldt Estuary, sampling locations are marked in blue*
 
-The Scheldt estuary is one of the last natural delta's in Western Europe and many areas near its riverbanks are marked as Natura 2000 area's (figure 8). Especially its frechwater estuary area's are unique.
+The Scheldt estuary is one of the last natural delta's in Western Europe and many areas near its riverbanks are marked as Natura 2000 area's (figure 8). Especially its frechwater estuary areas are unique.
 
 ![Figure 8](images/image_8.PNG)
 *Figure 8: Natura 2000 area's near the riverbanks of the Scheldt River.*
@@ -202,11 +202,6 @@ Flanders:
 
 WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
 
-The Netherlands: 
-
-Two sampling events happened in the Netherlands.
-
-DECIMALLATITUDE 51.37878 DECIMALLONGITUDE 4.09392 &  DECIMALLATITUDE 51.36278 DECIMALLONGITUDE 3.71067
 
 
 ## Temporal coverage
