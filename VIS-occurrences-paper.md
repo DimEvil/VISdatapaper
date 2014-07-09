@@ -24,14 +24,13 @@ Received {date} | Revised {date} | Accepted {date} | Published {date}
 
 ## Abstract
 
-Since 1992, the Research Institute for Nature and Forest is performing organized fish stock assessments in Flanders(Belgium). Both inland waters and estuaries were monitored within the Flemish Fish Monitoring Network, mainly from March to November (Verreycken, 2011). This network aims to assess fish populations in public waters at regular time intervals. For several reasons the complete dataset was published by INBO on http://data.inbo.be/ipt in two different subsets: ‘VIS-Fish in inland waters’ and ‘VIS-Fish in estuarine habitats’. This data paper, on the contrary, deals with both subsets together as both have a similar structure, scope and methodology. The sum of the datasets presents a complete overview of the distribution and abundance of fish species pertaining in Flanders (figure 1).
+Since 1992, the Research Institute for Nature and Forest is performing organized fish stock assessments in Flanders(Belgium). Both inland waters and estuaries were monitored within the Flemish Fish Monitoring Network, mainly from March to November (Verreycken, 2011). This network aims to assess fish populations in public waters at regular time intervals. For several reasons the complete dataset was published by INBO on [http://data.inbo.be/ipt](http://data.inbo.be/ipt) in two different subsets: ‘VIS-Fish in inland waters’ and ‘VIS-Fish in estuarine habitats’. This data paper, on the contrary, deals with both subsets together as both have a similar structure, scope and methodology. The sum of the datasets presents a complete overview of the distribution and abundance of fish species pertaining in Flanders (figure 1).
 
 The ‘VIS - Fishes in inland waters’ in Flanders, Belgium subset is a species occurrence dataset. The dataset contains over 350.000 fish observations, sampled between 1992 and 2012 from over 2000 locations in inland rivers, streams, canals, and enclosed waters in Flanders, Belgium. The dataset includes over 64 fish species, as well as a number of non-target species (mainly crustaceans).
 
 The ‘VIS - Fishes in estuarine habitats’ in Flanders, Belgium subset is also a species occurrence dataset. The dataset contains over 80.000 fish observations, sampled between 1995 and 2012 from almost 50 locations in the estuaries of the rivers Yser and Scheldt, in Flanders, Belgium. The dataset includes 116 fish species, as well as a number of non-target crustacean species.
  
-The data for both datasets are retrieved from the Fish Information System (VIS), a database set up to monitor the status of fishes and their habitats in Flanders and are collected in support of the Water Framework Directive, the Habitat Directive, the Eel Regulation, the Red List of fishes, the colonization and spreading of non-native fish species, fish stock management and biodiversity research. Additional information, such as measurements on length and weight, absence information and abiotic data are available upon request. Issues regarding inland waters and estuary data can be reported at https://github.com/LifeWatchINBO/vis-inland-occurrences and  https://github.com/LifeWatchINBO/vis-estuary-occurrences, respectively.
-
+The data for both datasets are retrieved from the Fish Information System ([VIS](http://vis.milieuinfo.be)), a database set up to monitor the status of fishes and their habitats in Flanders and are collected in support of the Water Framework Directive, the Habitat Directive, the Eel Regulation, the Red List of fishes, the colonization and spreading of non-native fish species, fish stock management and biodiversity research. Additional information, such as measurements on length and weight, absence information and abiotic data are available upon request. Issues regarding inland waters and estuary data can be reported at [https://github.com/LifeWatchINBO/vis-inland-occurrences](https://github.com/LifeWatchINBO/vis-inland-occurrences) and [https://github.com/LifeWatchINBO/vis-estuary-occurrences](https://github.com/LifeWatchINBO/vis-estuary-occurrences), respectively.
 
 
 ![Figure 1](images/image_1.PNG)
@@ -44,24 +43,27 @@ Ecosystem function, Fish-based index of biotic integrity, Fish distribution, Bra
 
 ## Data published through
 
-The complete occurrence datasets are integrally downloadable through: 
+The complete occurrence data-sets are integrally down-loadable through: 
 
-http://dataset.inbo.be/vis-estuary-occurrences 
-http://dataset.inbo.be/vis-inland-occurrences
+VIS estuary occurrences [http://dataset.inbo.be/vis-estuary-occurrences](http://dataset.inbo.be/vis-estuary-occurrences) 
 
-Reports( Only in Dutch) can be downloaded from:
+Vis Inland waters occurrences [http://dataset.inbo.be/vis-inland-occurrences](http://dataset.inbo.be/vis-inland-occurrences)
 
-http://vis.inbo.be/Pages/Common/ReportOverviewPage.aspx
+
+Reports (Only in Dutch) can be downloaded from:
+
+[http://vis.inbo.be/Pages/Common/ReportOverviewPage.aspx](http://vis.inbo.be/Pages/Common/ReportOverviewPage.aspx)
 
 GBIF versions can be found on:
 
-Estuary occurrences: http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4
-Inland waters occurrences: http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f Inland waters
+Estuary occurrences: [http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4](http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4)
+
+Inland waters occurrences: [http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f](http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f)
 
 
 ## Rationale
 
-The Fish Information System (figure 2) or VIS (http://vis.milieuinfo.be) is a database set up by the Research Institute for Nature and Forest (INBO) to calculate the biotic integrity (Karr, 1981, Belpaire 2000 & Breine 2004)) of fish assemblages and to monitor the status of fishes and their habitats in Flanders, Belgium. It contains data regarding occurrences, stocks, pollutants, indices, and non-native fish species. Sampling has been going on since 1992 but the digital database concept was only designed in 1994 (Verbiest et al, 1994), the first database developed in 1996 (Verbiest et al, 1996) and the consolidated database set up in 2001. The database is used for supporting NATURA 2000, an ecological network of protected areas in Europe and to calculate the EQR (Ecological Quality Ratio) in the framework of the EU Water Directive (Directive 2000/60/EC). Further, the database provides updated information for Flemish Red Lists of fishes and lampreys (Verreycken, 2014) and on the distribution status of non-native, invasive fish species. Also, the data is crucial in fish stock management and for the council regulation (EC) N° 1100/2007 on Eel regulation. This dataset is a standardized extraction of all estuary and inland waters species occurrences in the VIS database. The VIS-database also contains fishes body mass and lengths which are only available upon request.
+The Fish Information System (figure 2) or [VIS](http://vis.milieuinfo.be) is a database set up by the Research Institute for Nature and Forest (INBO) to calculate the biotic integrity (Karr, 1981, Belpaire 2000 & Breine 2004)) of fish assemblages and to monitor the status of fishes and their habitats in Flanders, Belgium. It contains data regarding occurrences, stocks, pollutants, indices, and non-native fish species. Sampling has been going on since 1992 but the digital database concept was only designed in 1994 (Verbiest et al, 1994), the first database developed in 1996 (Verbiest et al, 1996) and the consolidated database set up in 2001. The database is used for supporting NATURA 2000, an ecological network of protected areas in Europe and to calculate the EQR (Ecological Quality Ratio) in the framework of the EU Water Directive (Directive 2000/60/EC). Further, the database provides updated information for Flemish Red Lists of fishes and lampreys (Verreycken, 2014) and on the distribution status of non-native, invasive fish species. Also, the data is crucial in fish stock management and for the council regulation (EC) N° 1100/2007 on Eel regulation. This dataset is a standardized extraction of all estuary and inland waters species occurrences in the VIS database. The VIS-database also contains fishes body mass and lengths which are only available upon request.
 
 
 ![Figure 2](images/image_2.jpg)
@@ -71,8 +73,6 @@ The Fish Information System (figure 2) or VIS (http://vis.milieuinfo.be) is a da
 Two separate Darwin Core Archives were generated and published. The main rationale behind this is that both datasets cover different habitats, are not equally sampled and are curated by different scientists. Nevertheless the data model used for Inland waters and Estuary occurrences is identical and the sum of both datasets equals a complete view of fish occurrences in Flanders until the end of 2012. Since 2013 a new set sampling locations was defined, therefore the data collected since 2013 is momentarily only available upon request. 
 
 
-
-
 ## Taxonomic coverage
 
 The Inland waters dataset contains 64 fish species found in Flemish streams and rivers(some of which are non-native, invasive species), as well as a number of non-target species (mainly crustaceans). Typical brackish water fish species in this dataset are caught near the sea or just behind the sluice gates near Nieuwpoort, West Flanders.
@@ -80,9 +80,9 @@ The Inland waters dataset contains 64 fish species found in Flemish streams and 
 The Estuary dataset contains 116 fish species found in the estuaries of the River Yser and the River Scheldt, as well as 9 non-target crustacean species. The class of Actinopterygii is best represented (110 species), along with three Petromyzontida, and three Chondrichthyes. All the crustaceans in this dataset are from the order of the Decapoda. 
 
 
-### Taxonomic ranks
+## Taxonomic ranks
 
-## Inland waters
+### Inland waters
 
 **Kingdom**: *Animalia*
 
@@ -111,9 +111,7 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 *Figure 3b: Taxonomic coverage:orders on number of occurrences; log scale*
 
 
-
-
-## Estuary occurrences
+### Estuary occurrences
 
 **Kingdom**: *Animalia*
 
@@ -149,8 +147,6 @@ The Estuary dataset contains 116 fish species found in the estuaries of the Rive
 ![Figure 4b](images/image_4b.png)
 
 *Figure 4b: Taxonomic coverage:orders on number of occurrences; log scale*
-
-
 
 
 
@@ -250,9 +246,9 @@ DECIMALLATITUDE 51.37878 DECIMALLONGITUDE 4.09392 &  DECIMALLATITUDE 51.36278 DE
 ![Figure 10](images/image_10.PNG)
 *Figure 10: A small preview of the Inland waters dataset Darwin Core.*
 
-The VIS Darwin Core Archives are a custom made SQL view on the original VIS SQL database which is in the custody of the Research Institute for Nature and Forest. The view only shows data that are accepted for publication. Fields given are:
+The VIS Darwin Core Archives are custom made SQL views on the original VIS SQL database which is in the custody of the Research Institute for Nature and Forest. The view only shows data that are accepted for publication. The Darwin Core fields in the dataset are:
 occurrenceID, type, languge, rights, rightsholmder, datasetID, institutionCode, collectionCode, datasetName, ownerInstitutionCode, basisOfRecord, informationWithheld, catalogNumber, recordedBy, individualCount, samplingProtocol, samplingEffort, eventDate, habitat, locationID, continent, waterBody, countryCode, verbatimLocality, verbatimLatitude, verbatimLongitude, verbatimCoordinateSystem, verbatimSRS, decimalLatitude, decimalLongitude, geodeticDatum, coordinateUncertaintyInMeters, identifiedBy, syntificName, Kingdom, taxonRank, scientificNameAuthorship, vernacularName, nomenclaturalCode
-
+A quick reference guide on Darwin Core can be found here: http://rs.tdwg.org/dwc/terms/
 
 
 ### Additional information
@@ -306,14 +302,9 @@ VIS - Fish Information System
 
 ### Personnel
 
-* **Principal investigator**: Hugo Verreycken
-* **Resource contact, resource creator, metadata provider, point of contact**: Jan Breine
-* **Content providers**: Daniel Bombaerts, Jan Breine, Jean-Pierre Croonen, Adinda De Bruyn, Franky Dens, Marc De Wit, Linde Galle, Isabel Lambeens, Yves Maes, Gerlinde Van Thuyne
-* **Developer**: Tom De Boeck
-* **Processors**: Dimitri Brosens, Peter Desmet
 
-* **Principal investigators**: Jan Breine, Hugo Verreycken
-* **Resource contact, resource creator, metadata provider, point of contact**: Gerlinde Van Thuyne
+* **Principal investigator**: Hugo Verreycken, Jan Breine, Gerlinde Van Thuyne
+* **Resource contact, resource creator, metadata provider, point of contact**: Jan Breine (Estuarine Waters) & Gerlinde Van Thuyne (Inland Water)
 * **Content providers**: Daniel Bombaerts, Jan Breine, Jean-Pierre Croonen, Adinda De Bruyn, Franky Dens, Marc De Wit, Linde Galle, Isabel Lambeens, Yves Maes, Gerlinde Van Thuyne
 * **Developer**: Tom De Boeck
 * **Processors**: Dimitri Brosens, Peter Desmet
