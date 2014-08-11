@@ -7,7 +7,7 @@ Jan Breine[^1], Gerlinde Van Thuyne[^1], Hugo Verreycken[^1], Tom De Boeck[^2], 
 
 [^2/ Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, Brussels, Belgium
 
-*Corresponding authors: Estuarine habitats: Jan Breine (jan.breine@inbo.be) & Inland waters: Gerlinde Van Thuyne (Gerlinde.vanthuyne@inbo.be)* 
+*Corresponding authors: estuarine waters: Jan Breine (jan.breine@inbo.be) & inland waters: Gerlinde Van Thuyne (Gerlinde.vanthuyne@inbo.be)* 
 
 ---
 
@@ -24,13 +24,11 @@ Received {date} | Revised {date} | Accepted {date} | Published {date}
 
 ## Abstract
 
-Since 1992, the Research Institute for Nature and Forest is performing organized fish stock assessments in Flanders(Belgium). Both inland waters and estuaries were monitored within the Flemish Fish Monitoring Network, mainly from March to November (Verreycken, 2011). This network aims to assess fish populations in public waters at regular time intervals. For several reasons the complete dataset was published by INBO on [http://data.inbo.be/ipt](http://data.inbo.be/ipt) in two different subsets: ‘VIS-Fish in inland waters’ and ‘VIS-Fish in estuarine habitats’. This data paper, on the contrary, deals with both subsets together as both have a similar structure, scope and methodology. The sum of the datasets presents a complete overview of the distribution and abundance of fish species pertaining in Flanders (figure 1).
-
+Since 1992, the Research Institute for Nature and Forest is performing standardized fish stock assessments in Flanders (Belgium). Both inland waters and estuaries were monitored within the Flemish Fish Monitoring Network, mainly from March to November (Verreycken et al., 2011). This network aims to assess fish populations in public waters at regular time intervals. The complete dataset was published by INBO on http://data.inbo.be/ipt in two different subsets: ‘VIS-Fish in inland waters’ and ‘VIS-Fish in estuarine waters’. This data paper, on the contrary, deals with both subsets together as both have a similar structure, scope and methodology. The sum of the datasets presents a complete overview of the distribution and abundance of fish species pertaining in Flanders (figure 1).
 The ‘VIS - Fishes in inland waters’ in Flanders, Belgium subset is a species occurrence dataset. The dataset contains over 350.000 fish observations, sampled between 1992 and 2012 from over 2000 locations in inland rivers, streams, canals, and enclosed waters in Flanders, Belgium. The dataset includes over 64 fish species, as well as a number of non-target species (mainly crustaceans).
+The ‘VIS - Fishes in estuarine waters’ in Flanders, Belgium subset is also a species occurrence dataset. The dataset contains over 70.000 fish observations, sampled between 1995 and 2012 from almost 50 locations in the estuaries of the rivers Yser and Scheldt (“Zeeschelde”), in Flanders, Belgium except for two sampling sites in the Netherlands. The dataset includes 116 fish species and a number of non-target crustacean species.
+The data for both datasets are retrieved from the Fish Information System (VIS), a database set up to monitor the status of fishes and their habitats in Flanders. This monitoring was set up in support of the Water Framework Directive, the Habitat Directive, the Eel Regulation, the Red List of fishes, the colonization and spreading of non-native fish species, fish stock management and biodiversity research. Additional information, such as measurements on length and weight, absence information and abiotic data are available upon request. Issues regarding inland waters and estuary data can be reported at https://github.com/LifeWatchINBO/vis-inland-occurrences and https://github.com/LifeWatchINBO/vis-estuary-occurrences, respectively.
 
-The ‘VIS - Fishes in estuarine habitats’ in Flanders, Belgium subset is also a species occurrence dataset. The dataset contains over 80.000 fish observations, sampled between 1995 and 2012 from almost 50 locations in the estuaries of the rivers Yser and Scheldt, in Flanders, Belgium except two sampling locations in the Netherlands.  The dataset includes 116 fish species, as well as a number of non-target crustacean species.
- 
-The data for both datasets are retrieved from the Fish Information System ([VIS](http://vis.milieuinfo.be)), a database set up to monitor the status of fishes and their habitats in Flanders and are collected in support of the Water Framework Directive, the Habitat Directive, the Eel Regulation, the Red List of fishes, the colonization and spreading of non-native fish species, fish stock management and biodiversity research. Additional information, such as measurements on length and weight, absence information and abiotic data are available upon request. Issues regarding inland waters and estuary data can be reported at [https://github.com/LifeWatchINBO/vis-inland-occurrences](https://github.com/LifeWatchINBO/vis-inland-occurrences) and [https://github.com/LifeWatchINBO/vis-estuary-occurrences](https://github.com/LifeWatchINBO/vis-estuary-occurrences), respectively.
 
 
 ![Figure 1](images/image_1.PNG)
