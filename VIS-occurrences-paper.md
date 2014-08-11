@@ -43,7 +43,7 @@ Ecosystem function, Fish-based index of biotic integrity, Fish distribution, Bra
 
 The complete occurrence data-sets are integrally down-loadable through: 
 
-VIS estuary occurrences [http://dataset.inbo.be/vis-estuary-occurrences](http://dataset.inbo.be/vis-estuary-occurrences) 
+VIS Estuary occurrences [http://dataset.inbo.be/vis-estuary-occurrences](http://dataset.inbo.be/vis-estuary-occurrences) 
 
 Vis Inland waters occurrences [http://dataset.inbo.be/vis-inland-occurrences](http://dataset.inbo.be/vis-inland-occurrences)
 
