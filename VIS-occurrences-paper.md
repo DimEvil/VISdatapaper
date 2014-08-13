@@ -247,13 +247,11 @@ WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
 
 The VIS Darwin Core Archives are custom made SQL views on the original VIS SQL database which is in the custody of the Research Institute for Nature and Forest. The view only shows data that are accepted for publication. The Darwin Core fields in the dataset are:
 occurrenceID, type, languge, rights, rightsholmder, datasetID, institutionCode, collectionCode, datasetName, ownerInstitutionCode, basisOfRecord, informationWithheld, catalogNumber, recordedBy, individualCount, samplingProtocol, samplingEffort, eventDate, habitat, locationID, continent, waterBody, countryCode, verbatimLocality, verbatimLatitude, verbatimLongitude, verbatimCoordinateSystem, verbatimSRS, decimalLatitude, decimalLongitude, geodeticDatum, coordinateUncertaintyInMeters, identifiedBy, syntificName, Kingdom, taxonRank, scientificNameAuthorship, vernacularName, nomenclaturalCode
-A quick reference guide on Darwin Core can be found here: http://rs.tdwg.org/dwc/terms/
-
+A quick reference guide on Darwin Core can be found here: [http://rs.tdwg.org/dwc/terms/](http://rs.tdwg.org/dwc/terms/)
 
 ### Additional information
 
-Length and weight measurements of the individual fish, absence information, as well as abiotic data of the sampling points (pH, temperature, etc.) are available upon request. It would be much appreciated if you notify us of your use of this dataset for research or other purposes.
-
+Length and weight measurements of the individual fish, absence information, as well as abiotic data of the sampling points (pH, temperature, etc.) are available upon request. Notification to the corresponding authors of the respective dataset of the use of this dataset for research or other purposes would be much appreciated.
 
 
 ## Methodology
@@ -261,17 +259,18 @@ Length and weight measurements of the individual fish, absence information, as w
 ### Study extent description
 
 Over 2000 locations in inland rivers, streams, canals, and enclosed waters in Flanders, Belgium have been sampled since 1992. In 2001, these locations were consolidated in a monitoring network ("VISmeetnet") of 900 sampling points.
+Four locations in the Yser estuary and 43 locations in the Scheldt were sampled since 1995. While the Yser estuary only covers a small geographical area, the Scheldt estuary is with 33,000 hectares one of the largest estuaries in Europe. It is also one of the few remaining European estuaries that includes the entire gradient from fresh to saltwater tidal areas (Van den Bergh et al., 2009). The 43 sampling locations in the Scheldt estuary are mainly located in the River Scheldt, but also in the Rivers Durme, Rupel, Dijle, Zenne and Nete.
 
-Four locations in the Yser estuary and 43 locations in the Scheldt were sampled since 1995. While the Yser estuary only covers a small geographical area, the Scheldt estuary is with 33,000 hectares one of the largest estuaries in Europe. It is also one of the few remaining European estuaries that includes the entire gradient from fresh to saltwater tidal areas (Van den Bergh et al, 2009). The 43 sampling locations in the Scheldt estuary are mainly located in the River Scheldt, but also in the rivers Durme, Rupel, Dijle, Zenne and Nete.
- 
 The geographic coordinates in both the datasets are those of the sampling locations (Dwc: locationID). Since these do not always represent the actual coordinates of the catch, which may be localized further up- or downriver, the coordinate uncertainty (DwC: coordinateUncertaintyInMeters) has been set to 250 meter.
+
 
 
 ### Sampling description
 
-The default method used in estuarine waters is paired fyke netting (99%), but additional techniques such as anchor netting, seine netting, pound netting, electric fishing, and eel fyke netting also have been used (Breine et al. 2011). All fish were identified to species level, counted, and measured for length and weight (measurement data available upon request).
+The default method used in estuarine waters is paired fyke netting, but additional techniques such as anchor netting, seine netting, pound netting, electric fishing, and eel fyke netting also have been used (Breine et al., 2011). All fish were identified to species level, counted, and measured for length and weight.
 
-Sampling methods in inland waters are standardized and described in Belpaire et al. 2000 and Van Thuyne, 2010 and are indicated in the data as samplingProtocol. Per water body, the same method was used for each sampling event. The default method is electric fishing, but additional techniques such as gill nets, fykes, and seine netting (variable sizes) are used as well. Electric fishing was carried out using a 5kW generator with an adjustable output voltage of 300-500V and a pulse frequency of 480Hz. The number of electric fishing devices and hand-held anodes used depends on the river width (Belpaire et al. 2000). In riverine environments, electric fishing was carried out on both riverbanks in upstream direction. All fish were identified to species level, counted, and measured for length and weight (measurement data available upon request).
+Sampling methods in inland waters are standardized and described in Belpaire et al., 2000 and Van Thuyne, 2010 and are indicated in the data as samplingProtocol. Per water body, the same method was used for each sampling event. The default method is electric fishing, but additional techniques such as gill nets, fykes, and seine netting (variable sizes) are used as well. Electric fishing was carried out using a 5kW generator with an adjustable output voltage of 300-500V and a pulse frequency of 480Hz. The number of electric fishing devices and hand-held anodes used depends on the river width (Belpaire et al., 2000). In riverine environments, electric fishing was carried out on both riverbanks in upstream direction. All fish were identified to species level, counted, and measured for length and weight.
+
 
 
 ### Quality control description
@@ -280,6 +279,8 @@ Strict field protocols where used during the generation of this dataset. The Man
 
 
 ### Method step description
+
+
 
 | Type water          | Method                                                             | Effort        |
 | -----------------   |:-----------------------------------------------------------:       | -------------:|
