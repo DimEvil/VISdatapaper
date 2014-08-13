@@ -116,19 +116,20 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 *Figure 3b: Number of observations by order in the Inland waters dataset (period 1992-2012); log scale*
 
 
-### Estuary occurrences
+### Estuary waters
 
 **Kingdom**: *Animalia*
 
-**Class**: *Actinopterygii* 
+**Class**: *Actinopterygii*
 
 **Order**: *Acipenseriformes, Anguilliformes, Atheriniformes, Beloniformes, Clupeiformes, Cypriniformes, Esociformes,Gadiformes, Gasterosteiformes, Mugiliformes, Osmeriformes, Perciformes, Pleuronectiformes, Salmoniformes, Scorpaeniformes, Siluriformes, Syngnathiformes*
 
-**Family**:*Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae,  Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,Polybiidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Zoarcidae* 
+**Family**: *Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae, Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,Polybiidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Zoarcidae*
+
 
 ![Figure 4](images/image_4.png)
 
-*Figure 4: Taxonomic coverage; 10 most occuring families in the estuarine dataset*
+*Figure 4: Taxonomic coverage; 10 most observed families in the estuarine dataset*
 
 **CLass**:*Chondrichthyes*
 **Order**:*Rajiformes, Squaliformes, Squatiniformes*   
@@ -146,12 +147,12 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 ![Figure 4a](images/image_4a.png)
 
-*Figure 4a: Taxonomic coverage: orders on number of occurrences*
+*Figure 4a: Number of observations by order in the estuarine waters dataset (period 1992-2012);*
 
 
 ![Figure 4b](images/image_4b.png)
 
-*Figure 4b: Taxonomic coverage:orders on number of occurrences; log scale*
+*Figure 4b: Number of observations by order in the estuarine waters dataset (period 1992-2012); log scale*
 
 
 
