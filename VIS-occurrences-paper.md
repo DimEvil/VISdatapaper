@@ -68,14 +68,15 @@ The Fish Information System (figure 2) or [VIS](http://vis.milieuinfo.be) is a d
 
 *Figure 2: the logo of VIS, the Fish Information System*
 
-Two separate Darwin Core Archives were generated and published. The main rationale behind this is that both datasets cover different habitats, are not equally sampled and are curated by different scientists. Nevertheless the data model used for Inland waters and Estuary occurrences is identical and the sum of both datasets equals a complete view of fish occurrences in Flanders until the end of 2012. Since 2013 a new set sampling locations was defined, therefore the data collected since 2013 is momentarily only available upon request. 
+Two separate Darwin Core Archives were generated and published. The main rationale behind this is that both datasets cover different habitats, differ in sampling strategies and methods and are curated by different scientists. Nevertheless the data model used for inland waters and estuarine waters is identical and the merge of both datasets represents a complete overview of fish distribution in Flanders until the end of 2012. Since 2013 a new set sampling locations was defined, therefore the data collected since 2013 is momentarily only available upon request.
 
 
 ## Taxonomic coverage
 
-The Inland waters dataset contains 64 fish species found in Flemish streams and rivers(some of which are non-native, invasive species), as well as a number of non-target species (mainly crustaceans). Typical brackish water fish species in this dataset are caught near the sea or just behind the sluice gates near Nieuwpoort, West Flanders.
+The inland waters dataset contains 64 fish species reported from Flemish enclosed waters and watercourses (some of which are non-native, invasive species), as well as a number of non-target species (mainly crustaceans). This dataset also includes a number of typical brackish water fish species which sometimes can be found in inland water sites at proximity of the sea and/or behind the sluice gates. The class of Actinopterygii is best represented (63 species), along with one Petromyzontida (Lampetra planeri) and 7 crustaceans from the order Decapoda.
  
-The Estuary dataset contains 116 fish species found in the estuaries of the River Yser and the River Scheldt, as well as 9 non-target crustacean species. The class of Actinopterygii is best represented (110 species), along with three Petromyzontida, and three Chondrichthyes. All the crustaceans in this dataset are from the order of the Decapoda. 
+The estuarine waters dataset contains 116 fish species found in the estuaries of the River Yser and the River Scheldt, as well as 9 non-target crustacean species. The class of Actinopterygii is best represented (110 species), along with three Petromyzontida, and three Chondrichthyes. All the crustaceans in this dataset are from the order of the Decapoda.
+
 
 
 ## Taxonomic ranks
