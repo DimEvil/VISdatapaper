@@ -132,17 +132,23 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 *Figure 4: Taxonomic coverage; 10 most observed families in the estuarine dataset*
 
 **CLass**:*Chondrichthyes*
-**Order**:*Rajiformes, Squaliformes, Squatiniformes*   
+
+**Order**:*Rajiformes, Squaliformes, Squatiniformes*
+   
 **Family**:*Squalidae, Squatinidae, Rajidae* 
 
 
 **Class**:*Petromyzontida*
+
 **Order**:*Petromyzontiformes*
+
 **Family**:Petromyzontidae*
 
 
 **Class**:*Malacostraca*
+
 **Order**:*Decapoda*
+
 **Family**:*Cambaridae, Cancridae, Crangonidae, Paguridae, Palaemonidae, Polybiidae, Portunidae, Varunidae*
 
 ![Figure 4a](images/image_4a.png)
