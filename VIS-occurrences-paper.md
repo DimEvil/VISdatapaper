@@ -160,30 +160,29 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 ## Geographic coverage
 
 ###Flanders
-Flanders is one of the three administrative regions in the country of Belgium. The Flemish region is situated in the north of the country and covers an area of 13,522 Km2 (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seasons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the coastal plain in the North-West and the Central plain, further inland. With 470 inhabitants/Km², Flanders is one of the most densely populated areas of Europe. The three major rivers in Flanders are the River Yser, the River Scheldt and the River Meuse. All rivers in Flanders flow into the North Sea but only the River Yser flows completely in the sea within the jurisdiction of Flanders.
+Flanders is one of the three administrative regions in the country of Belgium. The Flemish region is situated in the north of the country and covers an area of 13,522 km2 (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seasons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the coastal plain in the North-West and the Central plain, further inland. With 470 inhabitants/km², Flanders is one of the most densely populated areas of Europe. The three major rivers are the River Yser, the River Scheldt and the River Meuse. All rivers in Flanders flow into the North Sea but only the River Yser flows directly in the sea within the jurisdiction of Flanders.
 
 ![Figure 5](images/image_5.png)
 
-*Figure 5: Flanders is a region in the heart of Europe* (img:[http://http://upload.wikimedia.org/wikipedia/commons/8/87/Flemish_Region_in_Belgium_and_Europe.svg](http://http://upload.wikimedia.org/wikipedia/commons/8/87/Flemish_Region_in_Belgium_and_Europe.svg "Flanders") 
+*Figure 5: Flanders is a region in the centre of Western Europe* (img:[http://http://upload.wikimedia.org/wikipedia/commons/8/87/Flemish_Region_in_Belgium_and_Europe.svg](http://http://upload.wikimedia.org/wikipedia/commons/8/87/Flemish_Region_in_Belgium_and_Europe.svg "Flanders") 
  
 
 ###Inland waters
 
-The ‘Inland waters’ dataset deals with enclosed waters including cut off river arms, gravel pits, ponds, natural lakes and artificial lakes and riverine habitats in Flanders, including head streams, tributaries and canals part of the drainage basins of the rivers Yser, Meuse and Scheldt (figure 6). These three drainage basins are divided into eleven Flemish river catchments, which are divided into 102 sub basins. Overall, there are 48 unique enclosed waters sampled on 792 spots and 1452 riverine sample points were taken in 419 streams or rivers.
+The inland waters dataset deals with enclosed waters including cut off river arms, gravel pits, ponds, natural lakes and artificial lakes and riverine habitats in Flanders, including head streams, tributaries and canals part of the drainage basins of the rivers Yser, Meuse and Scheldt (figure 6). These three drainage basins are divided into eleven Flemish river catchments, which are divided into 102 sub basins. Overall, there are 48 unique enclosed waters sampled on 792 spots and 1452 riverine sample points were taken in 419 streams or rivers.
 
 ![Figure 6](images/image_6.png)
 
-*Figure 6: River Yser (green); Scheldt(light blue); Meuse(light green) 11 Flemsih sub basins, the west green area drain to the river Yser, the blue to the river Scheldt and the eastern green drain to the river Meuse. They grey area drains directly to the sea* 
+*Figure 6: Drainages of the Rivers Yser (green in west); Scheldt (light blue, blue and purple) and Meuse (light green in east) are divided in 11 Flemish subbasins. The grey area drains directly to the sea.* 
 
 
 ###Estuarine waters
-
 
 The Estuarine waters occurrence dataset deals with the estuaries of the River Scheldt and the River Yser.
 
 #### River Scheldt
 
-The River Scheldt is a 435 km long lowland river originating on the plateau of Saint-Quentin near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns East, in the direction of Antwerp. The tidal influence  extends much further land inward than the freshwater-saltwater boundary. As a result, an extensive freshwater region under tidal influence is present. The tidal excursion goes as far as Gent (figure 7), 160 km from the river mouth, where the tide is stopped by sluices. In the Zeeschelde (the Belgian part of the estuary), three zones are distinguished following the Venice system (1959): (http://www.aslo.org/lo/toc/vol_3/issue_3/0346.pdf)  a mesohaline zone (5-18 g/kg) between Zandvliet and Antwerpen, an oligohaline zone (0.5-5 g/kg) between Antwerpen and Temse, including the Rupel tributary, and a tidal freshwater zone till Gent including the Durme tributary. The marshes and mudflats create a valuable landscape for biodiversity. After crossing the city of Antwerp, the Scheldt enters the Netherlands where it ends in the North Sea near Vlissingen.
+The River Scheldt is a 435 km long lowland river originating on the plateau of Saint-Quentin near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns east, in the direction of Antwerp. The tidal influence extends much further land inward than the freshwater-saltwater boundary. As a result, an extensive freshwater region under tidal influence is present. The tidal activity goes as far as Ghent (figure 7), 160 km from the river mouth, where the tide is stopped by sluices. In the Zeeschelde (the Belgian part of the estuary), three zones are distinguished following the Venice system (1959) (http://www.aslo.org/lo/toc/vol_3/issue_3/0346.pdf): a mesohaline zone (5-18 g salt/kg) between Zandvliet and Antwerp, an oligohaline zone (0.5-5 g salt/kg) between Antwerp and Temse, including the Rupel tributary, and a tidal freshwater zone till Ghent including the Durme tributary. The marshes and mudflats create a valuable landscape for biodiversity. After crossing the city of Antwerp, the Scheldt enters the Netherlands where it ends in the North Sea near Vlissingen.
 
 ![Figure 7](images/image_7.PNG)
 *Figure 7: Areal foto of the Scheldt Estuary, sampling locations are marked in blue*
@@ -196,10 +195,10 @@ The Scheldt estuary is one of the last natural deltas in Western Europe and many
 
 #### River Yser
 
-The Yser originates in Kassel, located in French Flanders. It enters Belgium in the province of West Flanders and is the only large river in Belgium that flows directly into the sea near the town of Nieuwpoort. The river is 78 km long and sea and fresh water meet in the estuary  resulting in 130 hectares of special biotopes (figure 9) of tidal mud flats, salt marshes, dunes, beaches and polders. 
+The Yser originates in Kassel, located in French Flanders. It enters Belgium in the province of West Flanders and flows into the sea near the town of Nieuwpoort. The river is 78 km long and sea and fresh water meet in the estuary resulting in 130 hectares of special biotopes (figure 9) of tidal mud flats, salt marshes, dunes, beaches and polders. 
 
 ![Figure 9](images/image_9.PNG)
-*Figure 9: The Yser estuary*
+*Figure 9: The sampling locations (locationID) in the Yser estuary*
 
 
 ### Bounding box for covered area
@@ -207,7 +206,6 @@ The Yser originates in Kassel, located in French Flanders. It enters Belgium in 
 Flanders:
 
 WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
-
 
 
 ## Temporal coverage
@@ -220,7 +218,7 @@ WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
 
 ### Dataset description
 
-* **Object name**: Darwin Core Archive VIS - Fishes in estuarine habitats in Flanders, Belgium
+* **Object name**: Darwin Core Archive VIS - Fishes in estuarine waters in Flanders, Belgium
 * **Character encoding**: UTF-8
 * **Format name**: Darwin Core Archive format
 * **Format version**: 1.0
