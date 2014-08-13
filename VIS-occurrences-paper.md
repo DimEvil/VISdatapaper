@@ -497,3 +497,12 @@ CAMMAERTS R.; SPIKMANS F.; VAN KESSEL N.; VERREYCKEN H.; CHÉROT F.; DEMOL T.; D
  
 VERREYCKEN H.; BREINE J.; SNOEKS J.; BELPAIRE C., 2011 First record of the round Goby, NEOGOBIUS MELANOSTOMUS (ACTINOPTERYGII: PERCIFORMES: GOBIIDAE) in Belgium. Acta Ichthyologica et Piscatoria 41(2): 137–140
 
+#Publications describing the database
+
+Verbiest, H., Vandenabeele, P., Belpaire, C., Ollevier, F. Oktober 1994
+Ontwerp van de visdatabank en implementatie van historische en recente gegevens
+IBW.Wb.V.R.94.029
+
+Verbiest, H., Belpaire, C. Vandenabeele, P., Ollevier, F. Januari 1996
+Het in werking stellen van de visdatabank met de nadruk op de gebruiksvriendelijkheid ervan
+IBW.Wb.V.R.96.042
