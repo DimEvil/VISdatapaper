@@ -87,27 +87,33 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 **Class**: *Actinopterygii*
 
-**Order**: *Mugiliformes, Osmeriformes, Atheriniformes, Clupeiformes, Gadiformes, Pleuronectiformes, Siluriformes, Salmoniformes, Petromyzontiformes, Scorpaeniformes, Esociformes, Anguilliformes, Gasterosteiformes, Perciformes, Cypriniformes*
+**Order**: *Mugiliformes, Osmeriformes, Atheriniformes, Clupeiformes, Gadiformes, Pleuronectiformes, Siluriformes, Salmoniformes, Scorpaeniformes, Esociformes, Anguilliformes, Gasterosteiformes, Perciformes, Cypriniformes*
 
-**Family**: *Anguillidae, Atherinidae, Centrarchidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Cyprinidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Lotidae, Moronidae, Mugilidae, Nemacheilidae, Osmeridae, Percidae, Petromyzontidae, Pleuronectidae, Salmonidae, Scophthalmidae, Siluridae, Soleidae, Umbridae* 
+**Family**: *Anguillidae, Atherinidae, Centrarchidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Cyprinidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Lotidae, Moronidae, Mugilidae, Nemacheilidae, Osmeridae, Percidae, Petromyzontidae, Pleuronectidae, Salmonidae, Scophthalmidae, Siluridae, Soleidae, Umbridae*
+
 
 ![Figure 3](images/image_3.png)
 
-*Figure 3: Taxonomic coverage; 10 most occuring families in the estuarine dataset*
+*Figure 3: Taxonomic coverage; 10 most observed families in the inland waters dataset*
 
 
-**Class**: *Cephalaspidomorphi* **Order**: *Petromyzontiformes*
-**Family**: *Petromyzontidae* 
+**Class**:  *Petromyzontida*
 
-**Class**: *Malacostraca* **Order**:*Decapoda*
-**Family**:*Atyidae,Cambaridae, Palaemonidae, Varunidae*
+**Order**:  *Petromyzontiformes*
+
+**Family**:  *Petromyzontidae*
+
+**Class**:  *Malacostraca*
+**Order**: *Decapoda* 
+**Family**: *Atyidae, Cambaridae, Palaemonidae, Varunidae*
+
 
 ![Figure 3a](images/image_3a.png)
 
-*Figure 3a: Taxonomic coverage: orders on number of occurrences*
+*Figure 3a: Number of observations by order in the Inland waters dataset (period 1992-2012)*
 
 ![Figure 3b](images/image_3b.png)
-*Figure 3b: Taxonomic coverage:orders on number of occurrences; log scale*
+*Figure 3b: Number of observations by order in the Inland waters dataset (period 1992-2012); log scale*
 
 
 ### Estuary occurrences
