@@ -110,12 +110,9 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 **Family**: *Atyidae, Cambaridae, Palaemonidae, Varunidae*
 
 
-![Figure 3a](images/image_3a.png)
 
-*Figure 3a: Number of observations by order in the Inland waters dataset (period 1992-2012)*
-
-![Figure 3b](images/image_3b.png)
-*Figure 3b: Number of observations by order in the Inland waters dataset (period 1992-2012); log scale*
+![Figure 3.1](images/image_3b.png)
+*Figure 3.1: Number of observations by order in the Inland waters dataset (period 1992-2012); log scale*
 
 
 ### Estuary waters
@@ -153,14 +150,10 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 **Family**:*Cambaridae, Cancridae, Crangonidae, Paguridae, Palaemonidae, Polybiidae, Portunidae, Varunidae*
 
-![Figure 4a](images/image_4a.png)
 
-*Figure 4a: Number of observations by order in the estuarine waters dataset (period 1992-2012);*
+![Figure 4.1](images/image_4b.png)
 
-
-![Figure 4b](images/image_4b.png)
-
-*Figure 4b: Number of observations by order in the estuarine waters dataset (period 1992-2012); log scale*
+*Figure 4.1: Number of observations by order in the estuarine waters dataset (period 1992-2012); log scale*
 
 
 
@@ -193,6 +186,7 @@ The Estuarine waters occurrence dataset deals with the estuaries of the River Sc
 The River Scheldt is a 435 km long lowland river originating on the plateau of Saint-Quentin near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns east, in the direction of Antwerp. The tidal influence extends much further land inward than the freshwater-saltwater boundary. As a result, an extensive freshwater region under tidal influence is present. The tidal activity goes as far as Ghent (figure 7), 160 km from the river mouth, where the tide is stopped by sluices. In the Zeeschelde (the Belgian part of the estuary), three zones are distinguished following the Venice system (1959) (http://www.aslo.org/lo/toc/vol_3/issue_3/0346.pdf): a mesohaline zone (5-18 g salt/kg) between Zandvliet and Antwerp, an oligohaline zone (0.5-5 g salt/kg) between Antwerp and Temse, including the Rupel tributary, and a tidal freshwater zone till Ghent including the Durme tributary. The marshes and mudflats create a valuable landscape for biodiversity. After crossing the city of Antwerp, the Scheldt enters the Netherlands where it ends in the North Sea near Vlissingen.
 
 ![Figure 7](images/image_7.PNG)
+
 *Figure 7: Areal foto of the Scheldt Estuary, sampling locations are marked in blue*
 
 The Scheldt estuary is one of the last natural deltas in Western Europe and many areas near its riverbanks are marked as Natura 2000 area's (figure 8). Especially its frechwater estuary areas are unique.
