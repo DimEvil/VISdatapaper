@@ -239,7 +239,7 @@ WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
 * **Distribution**: http://dataset.inbo.be/vis-inland-occurrences
 * **Publication date of data**: 2013-12-20
 * **Language**: English
-* **Licenses of use**: http://creativecommons.org/publicdomain/zero/1.0/ & http://www.canadensys.net/norms
+* **Licenses of use**: http://creativecommons.org/publicdomain/zero/1.0/ & https://github.com/LifeWatchINBO/norms-for-data-use
 * **Metadata language**: English
 * **Date of metadata creation**: 2013-12-20
 * **Hierarchy level**: Dataset
