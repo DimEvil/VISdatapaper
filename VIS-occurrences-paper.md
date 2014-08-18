@@ -244,7 +244,7 @@ WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
 * **Date of metadata creation**: 2013-12-20
 * **Hierarchy level**: Dataset
 
-![Figure 10](images/image_10.PNG)
+![Figure 10](images/image_10.png)
 *Figure 10: A small preview of the Inland waters dataset Darwin Core.*
 
 The VIS Darwin Core Archives are custom made SQL views on the original VIS SQL database which is in the custody of the Research Institute for Nature and Forest. The view only shows data that are accepted for publication. The Darwin Core fields in the dataset are:
