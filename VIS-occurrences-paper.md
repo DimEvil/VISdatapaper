@@ -227,7 +227,7 @@ WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
 * **Distribution**: http://dataset.inbo.be/vis-estuary-occurrences
 * **Publication date of data**: 2014-04-02
 * **Language**: English
-* **Licenses of use**: http://creativecommons.org/publicdomain/zero/1.0/ & http://www.canadensys.net/norms
+* **Licenses of use**: http://creativecommons.org/publicdomain/zero/1.0/ & https://github.com/LifeWatchINBO/norms-for-data-use
 * **Metadata language**: English
 * **Date of metadata creation**: 2014-04-02
 * **Hierarchy level**: Dataset
