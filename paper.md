@@ -321,26 +321,29 @@ Flemish government
 
 #References cited within the metadata
 
-Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy Official Journal L 327 , 22/12/2000 P. 0001 - 0073
+Belpaire C, Smolders R, Vanden Auweele I, Erecken D, Breine J, Van Thuyne G, Ollevier F (2000) An Index of Biotic Integrity characterizing fish populations and the ecological quality of Flandrian water bodies, Hydrobiologia, 434: 17-33, 2000.
 
-Belpaire C, SMOLDERS R, VANDEN AUWEELE I, ERCKEN D, BREINE J, VAN THUYNE G & OLLEVIER F (2000). An Index of Biotic Integrity characterizing fish populations and the ecological quality of Flandrian water bodies, Hydrobiologia 434: 17–33, 2000.
+Breine, J, Maes, J., Ollevier F, Stevens M (2011) Fish assemblages across a salinity gradient in the Zeeschelde estuary (Belgium). Belgian Journal of Zoologie, 141 (2): 21-44.
 
-Breine, J., Simoens, I., Goethals, P., Quataert, P., Ercken, D., Van Liefferinghe, C., Belpaire, C. (2004). A fish-based index of biotic integrity for upstream brooks in Flanders (Belgium). Hydrobiologia 522: 133-148.
+Breine JJ, Maes J, Quataert P, Van den Bergh E, Simoens I, Van Thuyne G, Belpaire C (2007) A fish-based assessment tool for the ecological quality of the brackish Schelde estuary in Flanders (Belgium). Hydrobiologia, 575: 141-159.
 
-Breine, J., Maes, J., Ollevier, F. Stevens M., (2011). Fish assemblages across a salinity gradient in the Zeeschelde estuary (Belgium). Belg. J. Zool., 141 (2): 21-44.
+Breine J, Simoens I, Goethals P, Quataert P, Ercken D, Van Liefferinghe C, Belpaire C (2004) A fish-based index of biotic integrity for upstream brooks in Flanders (Belgium). Hydrobiologia, 522: 133-148.
 
-CEN (2002) Water quality- Sampling fish with electricity
+European Commission (2007) Council Regulation (EC) No 1100/2007 of 18 September 2007 establishing measures for the recovery of the stock of European eel. Official Journal of the European Union 22.9.2007 L, 248: 17-23.
 
-FAME Consortium (2004). Manual for the application of the European Fish Index - EFI. A fish-based method to assess the ecological status of European rivers in support of the Water Framework Directive. Version 1.1, January 2005. Karr, J.R. (1981) Assessment of biotic integrity using fish communities. Fisheries 6(6), 21-27
+EU Water Framework Directive (2000) Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy Official Journal L 327 , 22/12/2000 P. 0001 - 0073
 
-Van den Bergh, E., Garniel, G., Morris, R.K.A., Barendregt, A. (2009). Conservation of tidal freshwater wetlands in Europe. Chapter 22: 241-252 in: Barendregt A. , Whigham D., Baldwin A. Eds Tidal Freshwater Wetlands 2009. Backhuys Publishers, Leiden, The Netherlands. 320 pp.
+FAME Consortium (2004) Manual for the application of the European Fish Index - EFI. A fish-based method to assess the ecological status of European rivers in support of the Water Framework Directive. Version 1.1, January 2005.
 
-Van Thuyne, G., Breine, J. (2010). Visbestandopnames in Vlaamse beken en rivieren in het kader van het 'Meetnet Zoetwatervis' 2009. Rapporten van het Instituut voor Natuur- en Bosonderzoek, 2010(42). INBO: Brussel. 196 pp. 
-Venice system (1959). The final resolution of the symposium on the classification of brackish waters. Archo Oceanography Limnology, 11 (suppl): 243-248.
+Karr JR (1981) Assessment of biotic integrity using fish communities. Fisheries, 6: 21-27.
+Van den Bergh E, Garniel G, Morris RKA, Barendregt A (2009) Conservation of tidal freshwater wetlands in Europe. Chapter 22: 241-252. In: Barendregt A, Whigham D, Baldwin A Eds Tidal Freshwater Wetlands (2009). Backhuys Publishers, Leiden, The Netherlands. 320 pp.
 
-Verreycken H., Van Thuyne G and Belpaire C., 2011 Length–weight relationships of 40 freshwater fish species from two decades of monitoring in Flanders (Belgium). J. Appl. Ichthyol. (2011), 1–5
+Van Thuyne G, Breine J (2010) Visbestandopnames in Vlaamse beken en rivieren in het kader van het 'Meetnet Zoetwatervis' 2009. Rapporten van het Instituut voor Natuur- en Bosonderzoek, 2010 (42). INBO: Brussel. 196 pp. 
+Venice system (1959) The final resolution of the symposium on the classification of brackish waters. Archo Oceanography Limnology, 11 (suppl): 243-248.
 
-Verreycken, H., Belpaire, C., Van Thuyne, G., Breine, J., Buysse, D., Coeck, J., Mouton, A., Stevens, M., Van den Neucker, T., De Bruyn, L. and Maes, D. (2014), IUCN Red List of freshwater fishes and lampreys in Flanders (north Belgium). Fisheries Management and Ecology, 21: 122–132. doi: 10.1111/fme.12052
+Verreycken H, Belpaire C, Van Thuyne G, Breine J, Buysse D, Coeck J, Mouton A, Stevens M, Van den Neucker T, De Bruyn L, Maes D (2014) IUCN Red List of freshwater fishes and lampreys in Flanders (north Belgium). Fisheries Management and Ecology, 21: 122-132. doi: 10.1111/fme.12052.
+
+Verreycken H, Van Thuyne G, Belpaire C (2011) Length-weight relationships of 40 freshwater fish species from two decades of monitoring in Flanders (Belgium). Journal of Applied Ichthyology, 27: 1416–1421.
 
 
 #Publications based on this dataset
