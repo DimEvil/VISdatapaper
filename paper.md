@@ -697,10 +697,8 @@ Vrielynck S, Van Thuyne G, Breine J (2003) Visbestandopname in de Kemmelbeek, De
 
 #Publications describing the database
 
-Verbiest, H., Vandenabeele, P., Belpaire, C., Ollevier, F. Oktober 1994
-Ontwerp van de visdatabank en implementatie van historische en recente gegevens
-IBW.Wb.V.R.94.029
+Verbiest H, Belpaire C, Vandenabeele P, Ollevier F (1996) Het in werking stellen van de visdatabank met de nadruk op de gebruiksvriendelijkheid ervan IBW.Wb.V.R.96.042.
 
-Verbiest, H., Belpaire, C. Vandenabeele, P., Ollevier, F. Januari 1996
-Het in werking stellen van de visdatabank met de nadruk op de gebruiksvriendelijkheid ervan
-IBW.Wb.V.R.96.042
+Verbiest H, Vandenabeele P, Belpaire C, Ollevier F (1994) Ontwerp van de visdatabank en implementatie van historische en recente gegevens IBW.Wb.V.R.94.029.
+
+
