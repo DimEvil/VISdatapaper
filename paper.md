@@ -37,7 +37,6 @@ The data for both datasets are retrieved from the Fish Information System [VIS](
 
 Ecosystem functioning, fish-based index of biotic integrity, fish distribution, freshwater, brackish water, estuary, VIS, LifeWatch, open data, occurrence, observation, River Scheldt, River Yser, River Meuse
 
-
 ## Data published through
 
 The occurrence datasets are available at: 
@@ -58,21 +57,17 @@ Reports (only in Dutch) can be generated and downloaded from: <http://vis.milieu
 
 The Fish Information System (figure 2) or [VIS](http://vis.milieuinfo.be) is a database set up by the Research Institute for Nature and Forest (INBO) to monitor the status of fishes and their habitats in Flanders, Belgium and to calculate the biotic integrity (Karr, 1981; Belpaire et al., 2000 & Breine et al., 2004, 2007, 2007)) of fish assemblages. It contains data regarding occurrences, stocks, pollutants, indices, and non-native fish species. Sampling has been going on since 1992, the digital database concept was designed in 1994 (Verbiest et al, 1994), the first database developed in 1996 (Verbiest et al, 1996) and the consolidated database set up in 2001. The database is used for supporting NATURA 2000, an ecological network of protected areas in Europe and to calculate the EQR (Ecological Quality Ratio) in the framework of the EU Water Directive (Directive 2000/60/EC). Further, the database provides updated information for Flemish Red Lists of fishes and lampreys (Verreycken et al., 2014) and on the distribution status of non-native, invasive fish species. Also, the data is crucial in fish stock management and for reporting on the status of the European eel stock as required by the Eel Regulation (Council Regulation (EC) N° 1100/2007). This dataset is a standardized extraction of all estuary and inland waters species occurrences in the VIS database. The VIS-database also contains individual morphometric data such as fish body mass and length, which are only available upon request.
 
-
 ![Figure 2](images/image_2.jpg)
 
 *Figure 2: the logo of VIS, the Fish Information System*
 
 Two separate Darwin Core Archives were generated and published. The main rationale behind this is that both datasets cover different habitats, differ in sampling strategies and methods and are curated by different scientists. Nevertheless the data model used for inland waters and estuarine waters is identical and the merge of both datasets represents a complete overview of fish distribution in Flanders until the end of 2012. Since 2013 a new set sampling locations was defined, therefore the data collected since 2013 is momentarily only available upon request.
 
-
 ## Taxonomic coverage
 
 The inland waters dataset contains 64 fish species reported from Flemish enclosed waters and watercourses (some of which are non-native, invasive species), as well as a number of non-target species (mainly crustaceans). This dataset also includes a number of typical brackish water fish species which sometimes can be found in inland water sites at proximity of the sea and/or behind the sluice gates. The class of Actinopterygii is best represented (63 species), along with one Petromyzontida (Lampetra planeri) and 7 crustaceans from the order Decapoda.
  
 The estuarine waters dataset contains 116 fish species found in the estuaries of the River Yser and the River Scheldt, as well as 9 non-target crustacean species. The class of Actinopterygii is best represented (110 species), along with three Petromyzontida, and three Chondrichthyes. All the crustaceans in this dataset are from the order of the Decapoda.
-
-
 
 ## Taxonomic ranks
 
@@ -86,11 +81,9 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 **Family**: *Anguillidae, Atherinidae, Centrarchidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Cyprinidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Lotidae, Moronidae, Mugilidae, Nemacheilidae, Osmeridae, Percidae, Petromyzontidae, Pleuronectidae, Salmonidae, Scophthalmidae, Siluridae, Soleidae, Umbridae*
 
-
 ![Figure 3](images/image_3.png)
 
 *Figure 3: Taxonomic coverage; 10 most observed families in the inland waters dataset*
-
 
 **Class**:  *Petromyzontida*
 
@@ -104,11 +97,9 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
  
 **Family**: *Atyidae, Cambaridae, Palaemonidae, Varunidae*
 
-
-
 ![Figure 3.1](images/image_3b.png)
-*Figure 3.1: Number of observations by order in the Inland waters dataset (period 1992-2012); log scale*
 
+*Figure 3.1: Number of observations by order in the Inland waters dataset (period 1992-2012); log scale*
 
 ### Estuary waters
 
@@ -120,7 +111,6 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 **Family**: *Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae, Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,Polybiidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Zoarcidae*
 
-
 ![Figure 4](images/image_4.png)
 
 *Figure 4: Taxonomic coverage; 10 most observed families in the estuarine dataset*
@@ -131,13 +121,11 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
    
 **Family**:*Squalidae, Squatinidae, Rajidae* 
 
-
 **Class**:*Petromyzontida*
 
 **Order**:*Petromyzontiformes*
 
 **Family**:Petromyzontidae*
-
 
 **Class**:*Malacostraca*
 
@@ -145,34 +133,28 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 **Family**:*Cambaridae, Cancridae, Crangonidae, Paguridae, Palaemonidae, Polybiidae, Portunidae, Varunidae*
 
-
 ![Figure 4.1](images/image_4b.png)
 
 *Figure 4.1: Number of observations by order in the estuarine waters dataset (period 1992-2012); log scale*
 
-
-
-
 ## Geographic coverage
 
-###Flanders
+### Flanders
 Flanders is one of the three administrative regions in the country of Belgium. The Flemish region is situated in the north of the country and covers an area of 13,522 km2 (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seasons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the coastal plain in the North-West and the Central plain, further inland. With 470 inhabitants/km², Flanders is one of the most densely populated areas of Europe. The three major rivers are the River Yser, the River Scheldt and the River Meuse. All rivers in Flanders flow into the North Sea but only the River Yser flows directly in the sea within the jurisdiction of Flanders.
 
 ![Figure 5](images/image_5.png)
 
 *Figure 5: Flanders is a region in the centre of Western Europe* (img:[http://http://upload.wikimedia.org/wikipedia/commons/8/87/Flemish_Region_in_Belgium_and_Europe.svg](http://http://upload.wikimedia.org/wikipedia/commons/8/87/Flemish_Region_in_Belgium_and_Europe.svg "Flanders") 
  
-
-###Inland waters
+### Inland waters
 
 The inland waters dataset deals with enclosed waters including cut off river arms, gravel pits, ponds, natural lakes and artificial lakes and riverine habitats in Flanders, including head streams, tributaries and canals part of the drainage basins of the rivers Yser, Meuse and Scheldt (figure 6). These three drainage basins are divided into eleven Flemish river catchments, which are divided into 102 sub basins. Overall, there are 48 unique enclosed waters sampled on 792 spots and 1452 riverine sample points were taken in 419 streams or rivers.
 
 ![Figure 6](images/image_6.png)
 
-*Figure 6: Drainages of the Rivers Yser (green in west); Scheldt (light blue, blue and purple) and Meuse (light green in east) are divided in 11 Flemish subbasins. The grey area drains directly to the sea.* 
+*Figure 6: Drainages of the Rivers Yser (green in west); Scheldt (light blue, blue and purple) and Meuse (light green in east) are divided in 11 Flemish subbasins. The grey area drains directly to the sea.*
 
-
-###Estuarine waters
+### Estuarine waters
 
 The Estuarine waters occurrence dataset deals with the estuaries of the River Scheldt and the River Yser.
 
@@ -187,16 +169,16 @@ The River Scheldt is a 435 km long lowland river originating on the plateau of S
 The Scheldt estuary is one of the last natural deltas in Western Europe and many areas near its riverbanks are marked as Natura 2000 area's (figure 8). Especially its frechwater estuary areas are unique.
 
 ![Figure 8](images/image_8.PNG)
-*Figure 8: Natura 2000 area's near the riverbanks of the Scheldt River.*
 
+*Figure 8: Natura 2000 area's near the riverbanks of the Scheldt River.*
 
 #### River Yser
 
 The Yser originates in Kassel, located in French Flanders. It enters Belgium in the province of West Flanders and flows into the sea near the town of Nieuwpoort. The river is 78 km long and sea and fresh water meet in the estuary resulting in 130 hectares of special biotopes (figure 9) of tidal mud flats, salt marshes, dunes, beaches and polders. 
 
 ![Figure 9](images/image_9.PNG)
-*Figure 9: The sampling locations (locationID) in the Yser estuary*
 
+*Figure 9: The sampling locations (locationID) in the Yser estuary*
 
 ### Bounding box for covered area
 
@@ -204,12 +186,9 @@ Flanders:
 
 WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
 
-
 ## Temporal coverage
 
 1992-12-15 - 2012-11-27
-
-
 
 ## Dataset
 
@@ -240,6 +219,7 @@ WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
 * **Hierarchy level**: Dataset
 
 ![Figure 10](images/image_10.png)
+
 *Figure 10: A small preview of the Inland waters dataset Darwin Core.*
 
 The VIS Darwin Core Archives are custom made SQL views on the original VIS SQL database which is in the custody of the Research Institute for Nature and Forest. The view only shows data that are accepted for publication. The Darwin Core fields in the dataset are:
@@ -250,7 +230,6 @@ A quick reference guide on Darwin Core can be found here: [http://rs.tdwg.org/dw
 
 Length and weight measurements of the individual fish, absence information, as well as abiotic data of the sampling points (pH, temperature, etc.) are available upon request. Notification to the corresponding authors of the respective dataset of the use of this dataset for research or other purposes would be much appreciated.
 
-
 ## Methodology
 
 ### Study extent description
@@ -260,24 +239,17 @@ Four locations in the Yser estuary and 43 locations in the Scheldt were sampled 
 
 The geographic coordinates in both the datasets are those of the sampling locations (Dwc: locationID). Since these do not always represent the actual coordinates of the catch, which may be localized further up- or downriver, the coordinate uncertainty (DwC: coordinateUncertaintyInMeters) has been set to 250 meter.
 
-
-
 ### Sampling description
 
 The default method used in estuarine waters is paired fyke netting, but additional techniques such as anchor netting, seine netting, pound netting, electric fishing, and eel fyke netting also have been used (Breine et al., 2011). All fish were identified to species level, counted, and measured for length and weight.
 
 Sampling methods in inland waters are standardized and described in Belpaire et al., 2000 and Van Thuyne, 2010 and are indicated in the data as samplingProtocol. Per water body, the same method was used for each sampling event. The default method is electric fishing, but additional techniques such as gill nets, fykes, and seine netting (variable sizes) are used as well. Electric fishing was carried out using a 5kW generator with an adjustable output voltage of 300-500V and a pulse frequency of 480Hz. The number of electric fishing devices and hand-held anodes used depends on the river width (Belpaire et al., 2000). In riverine environments, electric fishing was carried out on both riverbanks in upstream direction. All fish were identified to species level, counted, and measured for length and weight.
 
-
-
 ### Quality control description
 
 Strict field protocols where used during the generation of this dataset. The Manual for Application of the European Fish Index (EFI) (Fame consortium, 2004) was used as a guideline for electrofishing and used in support of the EU water framework directive.
 
-
 ### Method step description
-
-
 
 |Type water	|Method|Effort|
 |:-----------:|:-------:|:------:|
@@ -290,9 +262,6 @@ Strict field protocols where used during the generation of this dataset. The Man
 |Lakes | electric fishing AND fykes	|15% of riverbank (minimum 1000m, maximum 2000m) or 100% if perimeter is less than 1000m AND 1 fyke/hectare (minimum 4, maximum 20 fykes)|
 |Estuary	| fyke fishing, anchor netting, pound netting, electric fishing | Fykes: 2 paired nets for two successive days per site Fykes: winged fyke: one per site for two successive days Anchor netting: per site 4 surveys of one hour (two for each tide) Electric fishing: only in flood control areas (250m shore transects/ha) |
 
-
-
-
 ## Project data
 
 ### Project title
@@ -301,20 +270,17 @@ VIS - Fish Information System
 
 ### Personnel
 
-
 * **Principal investigator**: Hugo Verreycken, Jan Breine, Gerlinde Van Thuyne
 * **Resource contact, resource creator, metadata provider, point of contact**: Jan Breine (Estuarine Waters) & Gerlinde Van Thuyne (Inland Water)
 * **Content providers**: Daniel Bombaerts, Jan Breine, Jean-Pierre Croonen, Adinda De Bruyn, Franky Dens, Marc De Wit, Linde Galle, Isabel Lambeens, Yves Maes, Gerlinde Van Thuyne
 * **Developer**: Tom De Boeck
 * **Processors**: Dimitri Brosens, Peter Desmet
 
-
-
 ### Funding
 
 Flemish government
 
-#References cited within the metadata
+# References cited within the metadata
 
 Belpaire C, Smolders R, Vanden Auweele I, Erecken D, Breine J, Van Thuyne G, Ollevier F (2000) An Index of Biotic Integrity characterizing fish populations and the ecological quality of Flandrian water bodies, Hydrobiologia, 434: 17-33, 2000.
 
@@ -340,8 +306,7 @@ Verreycken H, Belpaire C, Van Thuyne G, Breine J, Buysse D, Coeck J, Mouton A, S
 
 Verreycken H, Van Thuyne G, Belpaire C (2011) Length-weight relationships of 40 freshwater fish species from two decades of monitoring in Flanders (Belgium). Journal of Applied Ichthyology, 27: 1416–1421.
 
-
-#Publications based on this dataset
+# Publications based on this dataset
 
 Adriaenssens V, Goethals P, Breine J, Maes J, Simoens I, Ercken D, Belpaire C, Ollevier F, De Pauw N (2002) Referenties voor een visindex. Landschap, 19 (1): 59-61.
 
@@ -689,11 +654,8 @@ Vrielynck S, Belpaire C, Stabel A, Breine J, Quataert P (2003) De visbestanden i
 
 Vrielynck S, Van Thuyne G, Breine J (2003) Visbestandopname in de Kemmelbeek, De Wijngotebeek, de Wanebeek en de Landijkkgracht (2002). IBW.Wb.V.IR.2003.128.
 
-
-#Publications describing the database
+# Publications describing the database
 
 Verbiest H, Belpaire C, Vandenabeele P, Ollevier F (1996) Het in werking stellen van de visdatabank met de nadruk op de gebruiksvriendelijkheid ervan IBW.Wb.V.R.96.042.
 
 Verbiest H, Vandenabeele P, Belpaire C, Ollevier F (1994) Ontwerp van de visdatabank en implementatie van historische en recente gegevens IBW.Wb.V.R.94.029.
-
-
