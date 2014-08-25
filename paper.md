@@ -7,7 +7,7 @@ Jan Breine[^1], Gerlinde Van Thuyne[^1], Hugo Verreycken[^1], Tom De Boeck[^2], 
 
 [^2]: Research Institute for Nature and Forest (INBO), Kliniekstraat 25, 1070, Brussels, Belgium
 
-*Corresponding authors: estuarine waters: Jan Breine (jan.breine@inbo.be) & inland waters: Gerlinde Van Thuyne (Gerlinde.vanthuyne@inbo.be)* 
+*Corresponding authors: inland waters: Gerlinde Van Thuyne (gerlinde.vanthuyne@inbo.be), estuarine waters: Jan Breine (jan.breine@inbo.be)* 
 
 ---
 
