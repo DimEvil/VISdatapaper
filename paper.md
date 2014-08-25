@@ -19,7 +19,7 @@ Received {date} | Revised {date} | Accepted {date} | Published {date}
 
 ---
 
-**Resource Citation**: Research Institute for nature and Forest (INBO) (2014). VIS – A database on the distribution of fishes in inland and estuarine waters in Flanders, Belgium, +350 000 records. Contributed by Brosens D, Belpaire C, Van Thyne G., Breine J, De Boeck T and Verreycken H. Online at http://data.inbo.be$$$$$$ and http://data.inbo.be$$$$$$$. Version 1.0 (last updated on 3/07/2014), GBIF key:***   $$$$$$$ $$$$$ $$$$. Data paper ID: doi: $$$$$$$
+**Resource Citation**: Research Institute for nature and Forest (INBO) (2014). VIS – A database on the distribution of fishes in inland and estuarine waters in Flanders, Belgium, +350.000 records. Contributed by Brosens D, Belpaire C, Van Thyne G, Breine J, De Boeck T, Desmet P and Verreycken H. Online at <http://dataset.inbo.be/vis-inland-occurrences> and <http://dataset.inbo.be/vis-estuary-occurrences>. Version 1.0 (last updated on 2014-07-03), GBIF key: [823dc56e-f987-495c-98bf-43318719e30f](http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f) and [274a36be-0626-41c1-a757-3064e05811a4](http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4). Data paper ID: doi: $$$$$$$
 
 
 ## Abstract
