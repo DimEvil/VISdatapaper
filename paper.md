@@ -19,7 +19,7 @@ Received {date} | Revised {date} | Accepted {date} | Published {date}
 
 ---
 
-**Resource Citation**: Research Institute for nature and Forest (INBO) (2014). VIS – A database on the distribution of fishes in inland and estuarine waters in Flanders, Belgium, +350.000 records. Contributed by Brosens D, Belpaire C, Van Thyne G, Breine J, De Boeck T, Desmet P and Verreycken H. Online at <http://dataset.inbo.be/vis-inland-occurrences> and <http://dataset.inbo.be/vis-estuary-occurrences>. Version 1.0 (last updated on 2014-07-03), GBIF key: [823dc56e-f987-495c-98bf-43318719e30f](http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f) and [274a36be-0626-41c1-a757-3064e05811a4](http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4). Data paper ID: doi: $$$$$$$
+**Resource Citation**: Research Institute for nature and Forest (INBO) (2014). VIS – A database on the distribution of fishes in inland and estuarine waters in Flanders, Belgium, +350.000 records. Contributed by Brosens D, Belpaire C, Van Thyne G, Breine J, De Boeck T, Desmet P and Verreycken H. Online at <http://dataset.inbo.be/vis-inland-occurrences> and <http://dataset.inbo.be/vis-estuarine-occurrences>. Version 1.0 (last updated on 2014-07-03), GBIF key: [823dc56e-f987-495c-98bf-43318719e30f](http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f) and [274a36be-0626-41c1-a757-3064e05811a4](http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4). Data paper ID: doi: $$$$$$$
 
 
 ## Abstract
@@ -27,7 +27,7 @@ Received {date} | Revised {date} | Accepted {date} | Published {date}
 Since 1992, the Research Institute for Nature and Forest is performing standardized fish stock assessments in Flanders (Belgium). Both inland waters and estuaries were monitored within the Flemish Fish Monitoring Network, mainly from March to November (Verreycken et al., 2011). This network aims to assess fish populations in public waters at regular time intervals. The complete dataset was published by INBO on [http://data.inbo.be/ipt](http://data.inbo.be/ipt) in two different subsets: ‘VIS-Fish in inland waters’ and ‘VIS-Fish in estuarine waters’. This data paper, on the contrary, deals with both subsets together as both have a similar structure, scope and methodology. The sum of the datasets presents a complete overview of the distribution and abundance of fish species pertaining in Flanders (figure 1).
 The ‘VIS - Fishes in inland waters’ in Flanders, Belgium subset is a species occurrence dataset. The dataset contains over 350.000 fish observations, sampled between 1992 and 2012 from over 2000 locations in inland rivers, streams, canals, and enclosed waters in Flanders, Belgium. The dataset includes over 64 fish species, as well as a number of non-target species (mainly crustaceans).
 The ‘VIS - Fishes in estuarine waters’ in Flanders, Belgium subset is also a species occurrence dataset. The dataset contains over 70.000 fish observations, sampled between 1995 and 2012 from almost 50 locations in the estuaries of the rivers Yser and Scheldt (“Zeeschelde”), in Flanders, Belgium except for two sampling sites in the Netherlands. The dataset includes 116 fish species and a number of non-target crustacean species.
-The data for both datasets are retrieved from the Fish Information System [VIS](http://vis.milieuinfo.be), a database set up to monitor the status of fishes and their habitats in Flanders. This monitoring was set up in support of the Water Framework Directive, the Habitat Directive, the Eel Regulation, the Red List of fishes, the colonization and spreading of non-native fish species, fish stock management and biodiversity research. Additional information, such as measurements on length and weight, absence information and abiotic data are available upon request. Issues regarding inland waters and estuary data can be reported at [https://github.com/LifeWatchINBO/vis-inland-occurrences](https://github.com/LifeWatchINBO/vis-inland-occurrences) and [https://github.com/LifeWatchINBO/vis-estuary-occurrences](https://github.com/LifeWatchINBO/vis-estuary-occurrences), respectively.
+The data for both datasets are retrieved from the Fish Information System [VIS](http://vis.milieuinfo.be), a database set up to monitor the status of fishes and their habitats in Flanders. This monitoring was set up in support of the Water Framework Directive, the Habitat Directive, the Eel Regulation, the Red List of fishes, the colonization and spreading of non-native fish species, fish stock management and biodiversity research. Additional information, such as measurements on length and weight, absence information and abiotic data are available upon request. Issues regarding inland waters and estuary data can be reported at [https://github.com/LifeWatchINBO/vis-inland-occurrences](https://github.com/LifeWatchINBO/vis-inland-occurrences) and [https://github.com/LifeWatchINBO/vis-estuarine-occurrences](https://github.com/LifeWatchINBO/vis-estuarine-occurrences), respectively.
 
 ![Figure 1](images/image_1.PNG)
 
@@ -46,9 +46,9 @@ The occurrence datasets are available at:
 * Source: <http://dataset.inbo.be/vis-inland-occurrences>
 * GBIF: <http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f>
 
-### VIS - Fishes in estuarine habitats in Flanders, Belgium
+### VIS - Fishes in estuarine waters in Flanders, Belgium
 
-* Source: <http://dataset.inbo.be/vis-estuary-occurrences>
+* Source: <http://dataset.inbo.be/vis-estuarine-occurrences>
 * GBIF: <http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4>
 
 Reports (only in Dutch) can be generated and downloaded from: <http://vis.milieuinfo.be/publicaties/rapporten-afvissingen>
@@ -198,7 +198,7 @@ WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
 * **Character encoding**: UTF-8
 * **Format name**: Darwin Core Archive format
 * **Format version**: 1.0
-* **Distribution**: http://dataset.inbo.be/vis-estuary-occurrences
+* **Distribution**: http://dataset.inbo.be/vis-estuarine-occurrences
 * **Publication date of data**: 2014-04-02
 * **Language**: English
 * **Licenses of use**: http://creativecommons.org/publicdomain/zero/1.0/ & https://github.com/LifeWatchINBO/norms-for-data-use
