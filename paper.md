@@ -40,23 +40,19 @@ Ecosystem functioning, fish-based index of biotic integrity, fish distribution, 
 
 ## Data published through
 
-The complete occurrence data-sets are integrally down-loadable through: 
+The occurrence datasets are available at: 
 
-VIS Estuary occurrences [http://dataset.inbo.be/vis-estuary-occurrences](http://dataset.inbo.be/vis-estuary-occurrences) 
+### VIS - Fishes in inland waters in Flanders, Belgium
 
-Vis Inland waters occurrences [http://dataset.inbo.be/vis-inland-occurrences](http://dataset.inbo.be/vis-inland-occurrences)
+* Source: <http://dataset.inbo.be/vis-inland-occurrences>
+* GBIF: <http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f>
 
+### VIS - Fishes in estuarine habitats in Flanders, Belgium
 
-Reports (Only in Dutch) can be generated and downloaded from:
+* Source: <http://dataset.inbo.be/vis-estuary-occurrences>
+* GBIF: <http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4>
 
-[http://vis.inbo.be/Pages/Common/ReportOverviewPage.aspx](http://vis.inbo.be/Pages/Common/ReportOverviewPage.aspx)
-
-GBIF versions can be found on:
-
-Estuary occurrences: [http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4](http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4)
-
-Inland waters occurrences: [http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f](http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f)
-
+Reports (only in Dutch) can be generated and downloaded from: <http://vis.milieuinfo.be/publicaties/rapporten-afvissingen>
 
 ## Rationale
 
