@@ -35,7 +35,7 @@ The data for both datasets are retrieved from the Fish Information System [VIS](
 
 ## Keywords
 
-Ecosystem function, Fish-based index of biotic integrity, Fish distribution, Brackish water, Freshwater, VIS, LifeWatch, Occurrence, Observation, Estuary, River Scheldt, River Yser, River Meuse
+Ecosystem functioning, fish-based index of biotic integrity, fish distribution, freshwater, brackish water, estuary, VIS, LifeWatch, open data, occurrence, observation, River Scheldt, River Yser, River Meuse
 
 
 ## Data published through
