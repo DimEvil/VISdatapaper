@@ -29,10 +29,9 @@ The ‘VIS - Fishes in inland waters’ in Flanders, Belgium subset is a species
 The ‘VIS - Fishes in estuarine waters’ in Flanders, Belgium subset is also a species occurrence dataset. The dataset contains over 70.000 fish observations, sampled between 1995 and 2012 from almost 50 locations in the estuaries of the rivers Yser and Scheldt (“Zeeschelde”), in Flanders, Belgium except for two sampling sites in the Netherlands. The dataset includes 116 fish species and a number of non-target crustacean species.
 The data for both datasets are retrieved from the Fish Information System [VIS](http://vis.milieuinfo.be), a database set up to monitor the status of fishes and their habitats in Flanders. This monitoring was set up in support of the Water Framework Directive, the Habitat Directive, the Eel Regulation, the Red List of fishes, the colonization and spreading of non-native fish species, fish stock management and biodiversity research. Additional information, such as measurements on length and weight, absence information and abiotic data are available upon request. Issues regarding inland waters and estuary data can be reported at [https://github.com/LifeWatchINBO/vis-inland-occurrences](https://github.com/LifeWatchINBO/vis-inland-occurrences) and [https://github.com/LifeWatchINBO/vis-estuary-occurrences](https://github.com/LifeWatchINBO/vis-estuary-occurrences), respectively.
 
-
-
 ![Figure 1](images/image_1.PNG)
-*Figure 1: Map of all the VIS sampling locations. The orange dots correspond with Inland waters, the green dots correspond with Estuary occurrences* 
+
+*Figure 1: Map of all the VIS sampling locations (orange = inland waters, green = estuarine waters).*
 
 ## Keywords
 
