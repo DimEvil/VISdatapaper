@@ -31,7 +31,7 @@ The data for both datasets are retrieved from the Fish Information System [VIS](
 
 ![Figure 1](images/image_1.png)
 
-*Figure 1: Map of all the VIS sampling locations (orange = inland waters, green = estuarine waters).*
+*Figure 1: Map of all the VIS sampling locations. Orange points represent inland waters, green point respresent estuarine waters.*
 
 ## Keywords
 
