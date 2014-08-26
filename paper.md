@@ -161,7 +161,7 @@ The data are dedicated to the public domain under a [Creative Commons Zero waive
 
 ![Figure 10](images/image_10.png)
 
-*Figure 10: A small preview of the Inland waters dataset Darwin Core.*
+*Figure 10: Preview of the Darwin Core SQL view of the inland waters dataset.*
 
 #### Inland waters dataset
 
