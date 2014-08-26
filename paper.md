@@ -213,6 +213,8 @@ The default method used in estuarine waters is paired fyke netting, but addition
 
 Strict field protocols where used. The Manual for Application of the European Fish Index (EFI) (Fame consortium, 2004) was used as a guideline for electrofishing and used in support of the EU water framework directive.
 
+Users of the data can report issues with the inland waters and estuarine waters dataset at <https://github.com/LifeWatchINBO/vis-inland-occurrences> and <https://github.com/LifeWatchINBO/vis-estuarine-occurrences> respectively.
+
 ### Method step description
 
 Water type | Method | Effort
