@@ -29,7 +29,7 @@ The ‘VIS - Fishes in inland waters’ in Flanders, Belgium subset is a species
 The ‘VIS - Fishes in estuarine waters’ in Flanders, Belgium subset is also a species occurrence dataset. The dataset contains over 70.000 fish observations, sampled between 1995 and 2012 from almost 50 locations in the estuaries of the rivers Yser and Scheldt (“Zeeschelde”), in Flanders, Belgium except for two sampling sites in the Netherlands. The dataset includes 116 fish species and a number of non-target crustacean species.
 The data for both datasets are retrieved from the Fish Information System [VIS](http://vis.milieuinfo.be), a database set up to monitor the status of fishes and their habitats in Flanders. This monitoring was set up in support of the Water Framework Directive, the Habitat Directive, the Eel Regulation, the Red List of fishes, the colonization and spreading of non-native fish species, fish stock management and biodiversity research. Additional information, such as measurements on length and weight, absence information and abiotic data are available upon request. Issues regarding inland waters and estuary data can be reported at [https://github.com/LifeWatchINBO/vis-inland-occurrences](https://github.com/LifeWatchINBO/vis-inland-occurrences) and [https://github.com/LifeWatchINBO/vis-estuarine-occurrences](https://github.com/LifeWatchINBO/vis-estuarine-occurrences), respectively.
 
-![Figure 1](images/image_1.PNG)
+![Figure 1](images/image_1.png)
 
 *Figure 1: Map of all the VIS sampling locations (orange = inland waters, green = estuarine waters).*
 
@@ -77,9 +77,9 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 **Class**: *Actinopterygii*
 
-**Order**: *Mugiliformes, Osmeriformes, Atheriniformes, Clupeiformes, Gadiformes, Pleuronectiformes, Siluriformes, Salmoniformes, Scorpaeniformes, Esociformes, Anguilliformes, Gasterosteiformes, Perciformes, Cypriniformes*
+**Orders**: *Mugiliformes, Osmeriformes, Atheriniformes, Clupeiformes, Gadiformes, Pleuronectiformes, Siluriformes, Salmoniformes, Scorpaeniformes, Esociformes, Anguilliformes, Gasterosteiformes, Perciformes, Cypriniformes*
 
-**Family**: *Anguillidae, Atherinidae, Centrarchidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Cyprinidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Lotidae, Moronidae, Mugilidae, Nemacheilidae, Osmeridae, Percidae, Petromyzontidae, Pleuronectidae, Salmonidae, Scophthalmidae, Siluridae, Soleidae, Umbridae*
+**Families**: *Anguillidae, Atherinidae, Centrarchidae, Clariidae, Clupeidae, Cobitidae, Cottidae, Cyprinidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Lotidae, Moronidae, Mugilidae, Nemacheilidae, Osmeridae, Percidae, Petromyzontidae, Pleuronectidae, Salmonidae, Scophthalmidae, Siluridae, Soleidae, Umbridae*
 
 ![Figure 3](images/image_3.png)
 
@@ -95,7 +95,7 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 **Order**: *Decapoda*
  
-**Family**: *Atyidae, Cambaridae, Palaemonidae, Varunidae*
+**Families**: *Atyidae, Cambaridae, Palaemonidae, Varunidae*
 
 ![Figure 3.1](images/image_3b.png)
 
@@ -107,31 +107,31 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 **Class**: *Actinopterygii*
 
-**Order**: *Acipenseriformes, Anguilliformes, Atheriniformes, Beloniformes, Clupeiformes, Cypriniformes, Esociformes,Gadiformes, Gasterosteiformes, Mugiliformes, Osmeriformes, Perciformes, Pleuronectiformes, Salmoniformes, Scorpaeniformes, Siluriformes, Syngnathiformes*
+**Orders**: *Acipenseriformes, Anguilliformes, Atheriniformes, Beloniformes, Clupeiformes, Cypriniformes, Esociformes,Gadiformes, Gasterosteiformes, Mugiliformes, Osmeriformes, Perciformes, Pleuronectiformes, Salmoniformes, Scorpaeniformes, Siluriformes, Syngnathiformes*
 
-**Family**: *Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae, Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,Polybiidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Zoarcidae*
+**Families**: *Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae, Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,Polybiidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Zoarcidae*
 
 ![Figure 4](images/image_4.png)
 
 *Figure 4: Taxonomic coverage; 10 most observed families in the estuarine dataset*
 
-**CLass**:*Chondrichthyes*
+**Class**:*Chondrichthyes*
 
-**Order**:*Rajiformes, Squaliformes, Squatiniformes*
+**Orders**:*Rajiformes, Squaliformes, Squatiniformes*
    
-**Family**:*Squalidae, Squatinidae, Rajidae* 
+**Families**:*Squalidae, Squatinidae, Rajidae* 
 
 **Class**:*Petromyzontida*
 
 **Order**:*Petromyzontiformes*
 
-**Family**:Petromyzontidae*
+**Family**:*Petromyzontidae*
 
 **Class**:*Malacostraca*
 
 **Order**:*Decapoda*
 
-**Family**:*Cambaridae, Cancridae, Crangonidae, Paguridae, Palaemonidae, Polybiidae, Portunidae, Varunidae*
+**Families**:*Cambaridae, Cancridae, Crangonidae, Paguridae, Palaemonidae, Polybiidae, Portunidae, Varunidae*
 
 ![Figure 4.1](images/image_4b.png)
 
