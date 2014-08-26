@@ -69,9 +69,7 @@ The inland waters dataset contains 64 fish species reported from Flemish enclose
  
 The estuarine waters dataset contains 116 fish species found in the estuaries of the River Yser and the River Scheldt, as well as 9 non-target crustacean species. The class of Actinopterygii is best represented (110 species), along with three Petromyzontida, and three Chondrichthyes. All the crustaceans in this dataset are from the order of the Decapoda.
 
-## Taxonomic ranks
-
-### Inland waters
+### Taxonomic ranks for inland waters
 
 **Kingdom**: *Animalia*
 
@@ -101,7 +99,7 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 *Figure 3.1: Number of observations by order in the Inland waters dataset (period 1992-2012); log scale*
 
-### Estuary waters
+### Taxonomic ranks for estuarine waters
 
 **Kingdom**: *Animalia*
 
