@@ -205,13 +205,13 @@ The geographic coordinates in both the datasets are those of the sampling locati
 
 ### Sampling description
 
-The default method used in estuarine waters is paired fyke netting, but additional techniques such as anchor netting, seine netting, pound netting, electric fishing, and eel fyke netting also have been used (Breine et al., 2011). All fish were identified to species level, counted, and measured for length and weight.
+Sampling methods in inland waters are standardized and described in Belpaire et al., 2000 and Van Thuyne, 2010 and are indicated in the data as `dwc:samplingProtocol`. Per water body, the same method was used for each sampling event. The default method is electric fishing, but additional techniques such as gill nets, fykes, and seine netting (variable sizes) were used as well. Electric fishing was carried out using a 5kW generator with an adjustable output voltage of 300-500V and a pulse frequency of 480Hz. The number of electric fishing devices and hand-held anodes used depends on the river width (Belpaire et al., 2000). In riverine environments, electric fishing was carried out on both riverbanks in upstream direction. All fishes were identified to species level, counted, and measured for length and weight.
 
-Sampling methods in inland waters are standardized and described in Belpaire et al., 2000 and Van Thuyne, 2010 and are indicated in the data as samplingProtocol. Per water body, the same method was used for each sampling event. The default method is electric fishing, but additional techniques such as gill nets, fykes, and seine netting (variable sizes) are used as well. Electric fishing was carried out using a 5kW generator with an adjustable output voltage of 300-500V and a pulse frequency of 480Hz. The number of electric fishing devices and hand-held anodes used depends on the river width (Belpaire et al., 2000). In riverine environments, electric fishing was carried out on both riverbanks in upstream direction. All fish were identified to species level, counted, and measured for length and weight.
+The default method used in estuarine waters is paired fyke netting, but additional techniques such as anchor netting, seine netting, pound netting, electric fishing, and eel fyke netting were used as well (Breine et al., 2011). All fishes were identified to species level, counted, and measured for length and weight.
 
 ### Quality control description
 
-Strict field protocols where used during the generation of this dataset. The Manual for Application of the European Fish Index (EFI) (Fame consortium, 2004) was used as a guideline for electrofishing and used in support of the EU water framework directive.
+Strict field protocols where used. The Manual for Application of the European Fish Index (EFI) (Fame consortium, 2004) was used as a guideline for electrofishing and used in support of the EU water framework directive.
 
 ### Method step description
 
