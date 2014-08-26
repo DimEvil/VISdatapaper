@@ -123,7 +123,7 @@ The Estuarine waters occurrence dataset deals with the estuaries of the River Sc
 
 #### River Scheldt
 
-The River Scheldt is a 435 km long lowland river originating on the plateau of Saint-Quentin near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns east, in the direction of Antwerp. The tidal influence extends much further land inward than the freshwater-saltwater boundary. As a result, an extensive freshwater region under tidal influence is present. The tidal activity goes as far as Ghent (figure 7), 160 km from the river mouth, where the tide is stopped by sluices. In the Zeeschelde (the Belgian part of the estuary), three zones are distinguished following the Venice system (1959) (http://www.aslo.org/lo/toc/vol_3/issue_3/0346.pdf): a mesohaline zone (5-18 g salt/kg) between Zandvliet and Antwerp, an oligohaline zone (0.5-5 g salt/kg) between Antwerp and Temse, including the Rupel tributary, and a tidal freshwater zone till Ghent including the Durme tributary. The marshes and mudflats create a valuable landscape for biodiversity. After crossing the city of Antwerp, the Scheldt enters the Netherlands where it ends in the North Sea near Vlissingen.
+The River Scheldt is a 435 km long lowland river originating on the plateau of Saint-Quentin near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns east, in the direction of Antwerp. The tidal influence extends much further land inward than the freshwater-saltwater boundary. As a result, an extensive freshwater region under tidal influence is present. The tidal activity goes as far as Ghent (figure 7), 160 km from the river mouth, where the tide is stopped by sluices. In the Zeeschelde (the Belgian part of the estuary), three zones are distinguished following the Venice system (1959): a mesohaline zone (5-18 g salt/kg) between Zandvliet and Antwerp, an oligohaline zone (0.5-5 g salt/kg) between Antwerp and Temse, including the Rupel tributary, and a tidal freshwater zone till Ghent including the Durme tributary. The marshes and mudflats create a valuable landscape for biodiversity. After crossing the city of Antwerp, the Scheldt enters the Netherlands where it ends in the North Sea near Vlissingen.
 
 ![Figure 7](images/image_7.PNG)
 
@@ -262,8 +262,9 @@ FAME Consortium (2004) Manual for the application of the European Fish Index - E
 Karr JR (1981) Assessment of biotic integrity using fish communities. Fisheries, 6: 21-27.
 Van den Bergh E, Garniel G, Morris RKA, Barendregt A (2009) Conservation of tidal freshwater wetlands in Europe. Chapter 22: 241-252. In: Barendregt A, Whigham D, Baldwin A Eds Tidal Freshwater Wetlands (2009). Backhuys Publishers, Leiden, The Netherlands. 320 pp.
 
-Van Thuyne G, Breine J (2010) Visbestandopnames in Vlaamse beken en rivieren in het kader van het 'Meetnet Zoetwatervis' 2009. Rapporten van het Instituut voor Natuur- en Bosonderzoek, 2010 (42). INBO: Brussel. 196 pp. 
-Venice system (1959) The final resolution of the symposium on the classification of brackish waters. Archo Oceanography Limnology, 11 (suppl): 243-248.
+Van Thuyne G, Breine J (2010) Visbestandopnames in Vlaamse beken en rivieren in het kader van het 'Meetnet Zoetwatervis' 2009. Rapporten van het Instituut voor Natuur- en Bosonderzoek, 2010 (42). INBO: Brussel. 196 pp.
+
+Venice system (1959) The final resolution of the symposium on the classification of brackish waters. Archo Oceanography Limnology, 11 (suppl): 243-248. <http://www.aslo.org/lo/toc/vol_3/issue_3/0346.pdf>
 
 Verreycken H, Belpaire C, Van Thuyne G, Breine J, Buysse D, Coeck J, Mouton A, Stevens M, Van den Neucker T, De Bruyn L, Maes D (2014) IUCN Red List of freshwater fishes and lampreys in Flanders (north Belgium). Fisheries Management and Ecology, 21: 122-132. doi: 10.1111/fme.12052.
 
