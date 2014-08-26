@@ -145,9 +145,7 @@ The River Yser is a 78 km long river originating in Kassel, located in French Fl
 
 ### Bounding box for covered area
 
-Flanders:
-
-WEST 2.54, EAST 5.92, SOUTH 50.68, NORTH 51.51
+Flanders: 50.68 to 51.51 latitude, 2.54 to 5.92 longitude.
 
 ## Temporal coverage
 
