@@ -235,7 +235,7 @@ VIS - Fish Information System
 ### Personnel
 
 * **Principal investigator**: Hugo Verreycken, Jan Breine, Gerlinde Van Thuyne
-* **Resource contact, resource creator, metadata provider, point of contact**: Jan Breine (Estuarine Waters) & Gerlinde Van Thuyne (Inland Water)
+* **Resource contact, resource creator, metadata provider, point of contact**: Gerlinde Van Thuyne (inland Waters), Jan Breine (estuarine Waters)
 * **Content providers**: Daniel Bombaerts, Jan Breine, Jean-Pierre Croonen, Adinda De Bruyn, Franky Dens, Marc De Wit, Linde Galle, Isabel Lambeens, Yves Maes, Gerlinde Van Thuyne
 * **Developer**: Tom De Boeck
 * **Processors**: Dimitri Brosens, Peter Desmet
