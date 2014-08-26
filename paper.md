@@ -199,10 +199,9 @@ Length and weight measurement data of the individual fishes, absence information
 
 ### Study extent description
 
-Over 2,000 locations in estuaries, inland rivers, streams, canals, and enclosed waters in Flanders, Belgium have been sampled since 1992. In 2001, these locations were consolidated in a monitoring network ("VISmeetnet") of 900 sampling points.
-Four locations in the Yser estuary and 43 locations in the Scheldt were sampled since 1995. While the Yser estuary only covers a small geographical area, the Scheldt estuary is with 33,000 hectares one of the largest estuaries in Europe. It is also one of the few remaining European estuaries that includes the entire gradient from fresh to saltwater tidal areas (Van den Bergh et al., 2009). The 43 sampling locations in the Scheldt estuary are mainly located in the River Scheldt, but also in the Rivers Durme, Rupel, Dijle, Zenne and Nete.
+Over 2,000 locations in estuaries, inland rivers, streams, canals, and enclosed waters in Flanders, Belgium have been sampled since 1992. In 2001, these locations were consolidated in a monitoring network ("VISmeetnet") of 900 sampling points. Four locations in the Yser estuary and 43 locations in the Scheldt were sampled since 1995. While the Yser estuary only covers a small geographical area, the Scheldt estuary is with 33,000 hectares one of the largest estuaries in Europe. It is also one of the few remaining European estuaries that includes the entire gradient from fresh to saltwater tidal areas (Van den Bergh et al., 2009). The 43 sampling locations in the Scheldt estuary are mainly located in the River Scheldt, but also in the Rivers Durme, Rupel, Dijle, Zenne and Nete.
 
-The geographic coordinates in both the datasets are those of the sampling locations (Dwc: locationID). Since these do not always represent the actual coordinates of the catch, which may be localized further up- or downriver, the coordinate uncertainty (DwC: coordinateUncertaintyInMeters) has been set to 250 meter.
+The geographic coordinates in both the datasets are those of the sampling locations (`dwc:locationID`). Since these do not always represent the actual coordinates of the catch, which may be located further up- or downriver, the coordinate uncertainty (`dwc:coordinateUncertaintyInMeters`) has been set to 250 meter.
 
 ### Sampling description
 
