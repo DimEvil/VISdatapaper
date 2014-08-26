@@ -101,7 +101,7 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 ### Flanders
 
-Flanders is one of the three administrative regions in the country of Belgium, located in the centre of Western Europe. The Flemish region is situated in the north of the country and covers an area of 13,522 km<sup>2</sup> (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seasons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the coastal plain in the North-West and the Central plain, further inland. With 470 inhabitants/km², Flanders is one of the most densely populated areas of Europe. The three major rivers are the River Yser, the River Scheldt, and the River Meuse. All rivers in Flanders flow into the North Sea, but only the River Yser drains directly into the sea within the jurisdiction of Flanders.
+Flanders is one of the three administrative regions in the country of Belgium, located in the centre of Western Europe. The Flemish region is situated in the north of the country and covers an area of 13,522km² (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seasons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the coastal plain in the North-West and the Central plain, further inland. With 470 inhabitants/km², Flanders is one of the most densely populated areas of Europe. The three major rivers are the River Yser, the River Scheldt, and the River Meuse. All rivers in Flanders flow into the North Sea, but only the River Yser drains directly into the sea within the jurisdiction of Flanders.
 
 ![Figure 5](images/image_5.png)
 
@@ -121,7 +121,7 @@ The estuarine waters dataset comprises the estuaries of the River Scheldt and th
 
 #### River Scheldt
 
-The River Scheldt is a 435 km long lowland river originating on the plateau of Saint-Quentin near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns east, in the direction of Antwerp. After crossing the city of Antwerp, the Scheldt enters the Netherlands where it ends in the North Sea near Vlissingen. The tidal influence extends much further land inward than the freshwater-saltwater boundary. As a result, an extensive freshwater region under tidal influence is present. The tidal activity goes as far as Ghent (figure 7), 160 km from the river mouth, where the tide is stopped by sluices. In the Zeeschelde (the Belgian part of the estuary), three zones are distinguished following the Venice system (1959): a mesohaline zone (5-18 g salt/kg) between Zandvliet and Antwerp, an oligohaline zone (0.5-5 g salt/kg) between Antwerp and Temse, including the Rupel tributary, and a tidal freshwater zone till Ghent including the Durme tributary. The marshes and mudflats create a valuable landscape for biodiversity.
+The River Scheldt is a 435km long lowland river originating on the plateau of Saint-Quentin near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns east, in the direction of Antwerp. After crossing the city of Antwerp, the Scheldt enters the Netherlands where it ends in the North Sea near Vlissingen. The tidal influence extends much further land inward than the freshwater-saltwater boundary. As a result, an extensive freshwater region under tidal influence is present. The tidal activity goes as far as Ghent (figure 7), 160km from the river mouth, where the tide is stopped by sluices. In the Zeeschelde (the Belgian part of the estuary), three zones are distinguished following the Venice system (1959): a mesohaline zone (5-18 g salt/kg) between Zandvliet and Antwerp, an oligohaline zone (0.5-5 g salt/kg) between Antwerp and Temse, including the Rupel tributary, and a tidal freshwater zone till Ghent including the Durme tributary. The marshes and mudflats create a valuable landscape for biodiversity.
 
 ![Figure 7](images/image_7.PNG)
 
@@ -135,7 +135,7 @@ The Scheldt estuary is one of the last natural deltas in Western Europe and many
 
 #### River Yser
 
-The River Yser is a 78 km long river originating in Kassel, located in French Flanders. It enters Belgium in the province of West Flanders and drains into the sea near the town of Nieuwpoort. Sea and fresh water meet in an estuary, resulting in 130 hectares of tidal mud flats, salt marshes, dunes, beaches, and polders (figure 9). 
+The River Yser is a 78km long river originating in Kassel, located in French Flanders. It enters Belgium in the province of West Flanders and drains into the sea near the town of Nieuwpoort. Sea and fresh water meet in an estuary, resulting in 130 hectares of tidal mud flats, salt marshes, dunes, beaches, and polders (figure 9). 
 
 ![Figure 9](images/image_9.PNG)
 
