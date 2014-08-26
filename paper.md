@@ -19,7 +19,7 @@ Received {date} | Revised {date} | Accepted {date} | Published {date}
 
 ---
 
-**Resource Citation**: Research Institute for nature and Forest (INBO) (2014). VIS – A database on the distribution of fishes in inland and estuarine waters in Flanders, Belgium, +350.000 records. Contributed by Brosens D, Belpaire C, Van Thyne G, Breine J, De Boeck T, Desmet P and Verreycken H. Online at <http://dataset.inbo.be/vis-inland-occurrences> and <http://dataset.inbo.be/vis-estuarine-occurrences>. Version 1.0 (last updated on 2014-07-03), GBIF key: [823dc56e-f987-495c-98bf-43318719e30f](http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f) and [274a36be-0626-41c1-a757-3064e05811a4](http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4). Data paper ID: doi: $$$$$$$
+**Resource Citation**: Research Institute for nature and Forest (INBO) (2014). VIS – A database on the distribution of fishes in inland and estuarine waters in Flanders, Belgium, +350.000 records. Contributed by Brosens D, Belpaire C, Van Thyne G, Breine J, De Boeck T, Desmet P and Verreycken H. Online at <http://dataset.inbo.be/vis-inland-occurrences> and <http://dataset.inbo.be/vis-estuarine-occurrences>. Version 1.0 (last updated on 2014-07-03), GBIF keys: [823dc56e-f987-495c-98bf-43318719e30f](http://www.gbif.org/dataset/823dc56e-f987-495c-98bf-43318719e30f) and [274a36be-0626-41c1-a757-3064e05811a4](http://www.gbif.org/dataset/274a36be-0626-41c1-a757-3064e05811a4). Data paper ID: doi: $$$$$$$
 
 
 ## Abstract
@@ -103,7 +103,7 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 ### Flanders
 
-Flanders is one of the three administrative regions in the country of Belgium. The Flemish region is situated in the north of the country and covers an area of 13,522 km<sup>2</sup> (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seasons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the coastal plain in the North-West and the Central plain, further inland. With 470 inhabitants/km², Flanders is one of the most densely populated areas of Europe. The three major rivers are the River Yser, the River Scheldt, and the River Meuse. All rivers in Flanders flow into the North Sea, but only the River Yser drains directly into the sea within the jurisdiction of Flanders.
+Flanders is one of the three administrative regions in the country of Belgium, located in the centre of Western Europe. The Flemish region is situated in the north of the country and covers an area of 13,522 km<sup>2</sup> (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seasons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the coastal plain in the North-West and the Central plain, further inland. With 470 inhabitants/km², Flanders is one of the most densely populated areas of Europe. The three major rivers are the River Yser, the River Scheldt, and the River Meuse. All rivers in Flanders flow into the North Sea, but only the River Yser drains directly into the sea within the jurisdiction of Flanders.
 
 ![Figure 5](images/image_5.png)
 
