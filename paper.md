@@ -81,7 +81,7 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 ![Figure 3](images/image_3b.png)
 
-*Figure 3: Distribution of all inland waters occurrences by order (ordered by number of occurrences, logarithmic scale).*
+*Figure 3: Distribution of all occurrences from the inland waters dataset by order. Orders are ordered by number of occurrences, occurrences are displayed on a logarithmic scale.*
 
 ### Taxonomic ranks for estuarine waters
 
@@ -97,7 +97,7 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 ![Figure 4](images/image_4b.png)
 
-*Figure 4: Distribution of all estuarine waters occurrences by order (ordered by number of occurrences, logarithmic scale).*
+*Figure 4: Distribution of all occurrences from the estuarine waters dataset by order. Orders are ordered by number of occurrences, occurrences are displayed on a logarithmic scale.*
 
 ## Geographic coverage
 
