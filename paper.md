@@ -61,7 +61,7 @@ The Fish Information System or [VIS](http://vis.milieuinfo.be) (figure 2) is a d
 
 *Figure 2: the logo of VIS, the Fish Information System*
 
-Two separate Darwin Core Archives were generated and published. The main rationale behind this is that both datasets cover different habitats, differ in sampling strategies and methods and are curated by different scientists. Nevertheless the data model used for inland waters and estuarine waters is identical and the merge of both datasets represents a complete overview of fish distribution in Flanders until the end of 2012. Since 2013 a new set sampling locations was defined, therefore the data collected since 2013 is momentarily only available upon request.
+The occurrence data from VIS are extracted, standardized, and published as two separate Darwin Core Archives: one for inland waters and one for estuarine species. The main rationale behind this is that both datasets cover different habitats, differ in sampling strategies and methods, and are curated by different scientists. Nevertheless the data model used for inland waters and estuarine waters is identical and can be easily merged: together these datasets represent a complete overview of fish distribution in Flanders from late 1992 to the end of 2012. Since 2013 a new set of sampling locations was defined and the data collected since then is momentarily only available upon request.
 
 ## Taxonomic coverage
 
