@@ -215,16 +215,16 @@ Strict field protocols where used. The Manual for Application of the European Fi
 
 ### Method step description
 
-|Type water	|Method|Effort|
-|:-----------:|:-------:|:------:|
-|Running freshwaters `Width: 1.5m Depth`: <1.30m                    | electrofishing with 1 anode by wading	| 100m |
-|Running freshwaters `Width: 6m Depth: <1.30m`	                    | electrofishing with 2 anodes by wading	| 100m |
-|Running freshwaters `Width: >6m Depth: <1.30m`	                    | electrofishing with 2 anodes by wading	| 250m with 1 anode on each riverbank, 2m from bank |
-|Running freshwaters: streaming rivers   `Width: >6mDepth: >1.30m`	| electrofishing with 2 anodes by boat      | 250m with 2 anodes on each riverbank, 2m from bank |
-|Canals, slowly running rivers Width: `>6m Depth: >1.30m`           | electrofishing with 2 anodes by boat AND 2 fykes | 250m with 2 anodes on each riverbank, 2m from bank AND 1 fyke for 48 hours parallel with and on both riverbanks|
-|Canalized rivers with too high conductivity for electrofishing `Depth: <1.30m`	|seine netting	| 100m, two times complete seine netting|
-|Lakes | electric fishing AND fykes	|15% of riverbank (minimum 1000m, maximum 2000m) or 100% if perimeter is less than 1000m AND 1 fyke/hectare (minimum 4, maximum 20 fykes)|
-|Estuary	| fyke fishing, anchor netting, pound netting, electric fishing | Fykes: 2 paired nets for two successive days per site Fykes: winged fyke: one per site for two successive days Anchor netting: per site 4 surveys of one hour (two for each tide) Electric fishing: only in flood control areas (250m shore transects/ha) |
+Water type | Method | Effort
+:--- | :---| :---
+Running freshwaters (width: 1.5m, depth: <1.30m) | electrofishing with 1 anode by wading | 100m
+Running freshwaters (width: 6m, depth: <1.30m) | electrofishing with 2 anodes by wading | 100m
+Running freshwaters (width: >6m, depth: <1.30m) | electrofishing with 2 anodes by wading | 250m with 1 anode on each riverbank, 2m from bank
+Running freshwaters, streaming rivers (width: >6m, depth: >1.30m) | electrofishing with 2 anodes by boat | 250m with 2 anodes on each riverbank, 2m from bank
+Canals, slowly running rivers (width: >6m, depth: >1.30m) | electrofishing with 2 anodes by boat AND 2 fykes | 250m with 2 anodes on each riverbank, 2m from bank AND 1 fyke for 48 hours parallel with and on both riverbanks
+Canalized rivers with too high conductivity for electrofishing (depth: <1.30m) | seine netting | 100m, two times complete seine netting
+Lakes | electric fishing AND fykes | 15% of riverbank (minimum 1000m, maximum 2000m) or 100% if perimeter is less than 1000m AND 1 fyke/hectare (minimum 4, maximum 20 fykes)
+Estuaries | fyke fishing, anchor netting, pound netting, electric fishing | Fykes: 2 paired nets for two successive days per site. Winged fyke: one per site for two successive days. Anchor netting: per site 4 surveys of one hour (two for each tide). Electric fishing: only in flood control areas (250m shore transects/ha).
 
 ## Project data
 
