@@ -61,8 +61,6 @@ The Fish Information System or [VIS](http://vis.milieuinfo.be) (figure 2) is a d
 
 *Figure 2: the logo of VIS, the Fish Information System*
 
-The occurrence data from VIS are extracted, standardized, and published as two separate Darwin Core Archives: one for inland waters and one for estuarine species. The main rationale behind this is that both datasets cover different habitats, differ in sampling strategies and methods, and are curated by different scientists. Nevertheless the data model used for inland waters and estuarine waters is identical and can be easily merged: together these datasets represent a complete overview of fish distribution in Flanders from late 1992 to the end of 2012. Since 2013 a new set of sampling locations was defined and the data collected since then is momentarily only available upon request.
-
 ## Taxonomic coverage
 
 The inland waters dataset contains 64 fish species reported from Flemish enclosed waters and watercourses (some of which are non-native or invasive species), as well as a number of non-target species (mainly crustaceans). This dataset also includes a number of typical brackish water fish species which sometimes can be found in inland water sites at proximity of the sea and/or behind the sluice gates. The class of Actinopterygii is best represented (63 species), along with one Petromyzontida (*Lampetra planeri*) and 7 crustaceans from the order Decapoda.
@@ -155,19 +153,19 @@ Flanders: 50.68 to 51.51 latitude, 2.54 to 5.92 longitude.
 
 ### Dataset description
 
-* **Object name**: Darwin Core Archive VIS - Fishes in estuarine waters in Flanders, Belgium
-* **Character encoding**: UTF-8
-* **Format name**: Darwin Core Archive format
-* **Format version**: 1.0
-* **Distribution**: http://dataset.inbo.be/vis-estuarine-occurrences
-* **Publication date of data**: 2014-04-02
-* **Language**: English
-* **Licenses of use**: http://creativecommons.org/publicdomain/zero/1.0/ & https://github.com/LifeWatchINBO/norms-for-data-use
-* **Metadata language**: English
-* **Date of metadata creation**: 2014-04-02
-* **Hierarchy level**: Dataset
+The occurrence data from the VIS database are extracted, standardized, and published as two separate Darwin Core Archives: one for inland waters and one for estuarine species. The main rationale behind this is that both datasets cover different habitats, differ in sampling strategies and methods, and are curated by different scientists. Nevertheless the data model used for inland waters and estuarine waters is identical and can be easily merged: together these datasets represent a complete overview of fish distribution in Flanders from late 1992 to the end of 2012. In 2013 a new set of sampling locations was defined and the data collected since then is momentarily only available upon request.
 
-* **Object name**: Darwin Core Archive VIS - Fishes in inland waters in Flanders, Belgium
+The data are standardized to Darwin Core with a custom SQL view (figure 10) on the original VIS database. The Darwin Core terms (<http://rs.tdwg.org/dwc/terms/>) in the dataset at the time of publication are: `occurrenceID`, `type`, `language`, `rights`, `rightsholder`, `datasetID`, `institutionCode`, `collectionCode`, `datasetName`, `ownerInstitutionCode`, `basisOfRecord`, `informationWithheld`, `catalogNumber`, `recordedBy`, `individualCount`, `samplingProtocol`, `samplingEffort`, `eventDate`, `habitat`, `locationID`, `continent`, `waterBody`, `countryCode`, `verbatimLocality`, `verbatimLatitude`, `verbatimLongitude`, `verbatimCoordinateSystem`, `verbatimSRS`, `decimalLatitude`, `decimalLongitude`, `geodeticDatum`, `coordinateUncertaintyInMeters`, `identifiedBy`, `scientificName`, `kingdom`, `taxonRank`, `scientificNameAuthorship`, `vernacularName`, and `nomenclaturalCode`.
+
+The data are dedicated to the public domain under a [Creative Commons Zero waiver](http://creativecommons.org/publicdomain/zero/1.0/). We would appreciate it if you follow our [norms for data use](https://github.com/LifeWatchINBO/norms-for-data-use) and notify the corresponding authors of the respective dataset if you use the data, especially for research purposes.
+
+![Figure 10](images/image_10.png)
+
+*Figure 10: A small preview of the Inland waters dataset Darwin Core.*
+
+#### Inland waters dataset
+
+* **Object name**: VIS - Fishes in inland waters in Flanders, Belgium
 * **Character encoding**: UTF-8
 * **Format name**: Darwin Core Archive format
 * **Format version**: 1.0
@@ -179,17 +177,23 @@ Flanders: 50.68 to 51.51 latitude, 2.54 to 5.92 longitude.
 * **Date of metadata creation**: 2013-12-20
 * **Hierarchy level**: Dataset
 
-![Figure 10](images/image_10.png)
+#### Estuarine waters dataset
 
-*Figure 10: A small preview of the Inland waters dataset Darwin Core.*
-
-The VIS Darwin Core Archives are custom made SQL views on the original VIS SQL database which is in the custody of the Research Institute for Nature and Forest. The view only shows data that are accepted for publication. The Darwin Core fields in the dataset are:
-occurrenceID, type, languge, rights, rightsholmder, datasetID, institutionCode, collectionCode, datasetName, ownerInstitutionCode, basisOfRecord, informationWithheld, catalogNumber, recordedBy, individualCount, samplingProtocol, samplingEffort, eventDate, habitat, locationID, continent, waterBody, countryCode, verbatimLocality, verbatimLatitude, verbatimLongitude, verbatimCoordinateSystem, verbatimSRS, decimalLatitude, decimalLongitude, geodeticDatum, coordinateUncertaintyInMeters, identifiedBy, syntificName, Kingdom, taxonRank, scientificNameAuthorship, vernacularName, nomenclaturalCode
-A quick reference guide on Darwin Core can be found here: [http://rs.tdwg.org/dwc/terms/](http://rs.tdwg.org/dwc/terms/)
+* **Object name**: VIS - Fishes in estuarine waters in Flanders, Belgium
+* **Character encoding**: UTF-8
+* **Format name**: Darwin Core Archive format
+* **Format version**: 1.0
+* **Distribution**: http://dataset.inbo.be/vis-estuarine-occurrences
+* **Publication date of data**: 2014-04-02
+* **Language**: English
+* **Licenses of use**: http://creativecommons.org/publicdomain/zero/1.0/ & https://github.com/LifeWatchINBO/norms-for-data-use
+* **Metadata language**: English
+* **Date of metadata creation**: 2014-04-02
+* **Hierarchy level**: Dataset
 
 ### Additional information
 
-Length and weight measurements of the individual fish, absence information, as well as abiotic data of the sampling points (pH, temperature, etc.) are available upon request. Notification to the corresponding authors of the respective dataset of the use of this dataset for research or other purposes would be much appreciated.
+Length and weight measurement data of the individual fishes, absence information, occurrence data since 2013, as well as abiotic data of the sampling points (pH, temperature, etc.) are not included in the Darwin Core Archives and are available upon request.
 
 ## Methodology
 
