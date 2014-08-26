@@ -107,7 +107,7 @@ Flanders is one of the three administrative regions in the country of Belgium. T
 
 ![Figure 5](images/image_5.png)
 
-*Figure 5: Flanders is a region in the centre of Western Europe* (img:[http://http://upload.wikimedia.org/wikipedia/commons/8/87/Flemish_Region_in_Belgium_and_Europe.svg](http://http://upload.wikimedia.org/wikipedia/commons/8/87/Flemish_Region_in_Belgium_and_Europe.svg "Flanders") 
+*Figure 5: Flanders is an administrative region of Belgium, located in the centre of Western Europe. [Image](http://commons.wikimedia.org/wiki/File:Flemish_Community_in_Belgium_and_Europe.svg) by [Alphatron](http://commons.wikimedia.org/wiki/User:Alphathon) derived from [Blank_map_of_Europe.svg](http://commons.wikimedia.org/wiki/File:Blank_map_of_Europe.svg), licensed under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0).*
  
 ### Inland waters
 
