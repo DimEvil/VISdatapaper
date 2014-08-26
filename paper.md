@@ -127,21 +127,21 @@ The River Scheldt is a 435 km long lowland river originating on the plateau of S
 
 ![Figure 7](images/image_7.PNG)
 
-*Figure 7: Areal foto of the Scheldt Estuary, sampling locations are marked in blue*
+*Figure 7: Areal foto of the Scheldt estuary. Sampling locations are marked in blue*
 
-The Scheldt estuary is one of the last natural deltas in Western Europe and many areas near its riverbanks are marked as Natura 2000 area's (figure 8). Especially its frechwater estuary areas are unique.
+The Scheldt estuary is one of the last natural deltas in Western Europe and many areas near its riverbanks are marked as Natura 2000 areas (figure 8). Especially its freshwater estuary areas are unique.
 
 ![Figure 8](images/image_8.PNG)
 
-*Figure 8: Natura 2000 area's near the riverbanks of the Scheldt River.*
+*Figure 8: Natura 2000 areas near the riverbanks of the River Scheldt.*
 
 #### River Yser
 
-The Yser originates in Kassel, located in French Flanders. It enters Belgium in the province of West Flanders and flows into the sea near the town of Nieuwpoort. The river is 78 km long and sea and fresh water meet in the estuary resulting in 130 hectares of special biotopes (figure 9) of tidal mud flats, salt marshes, dunes, beaches and polders. 
+The River Yser is a 78 km long river originating in Kassel, located in French Flanders. It enters Belgium in the province of West Flanders and drains into the sea near the town of Nieuwpoort. Sea and fresh water meet in an estuary, resulting in 130 hectares of tidal mud flats, salt marshes, dunes, beaches, and polders (figure 9). 
 
 ![Figure 9](images/image_9.PNG)
 
-*Figure 9: The sampling locations (locationID) in the Yser estuary*
+*Figure 9: The sampling locations in the Yser estuary.*
 
 ### Bounding box for covered area
 
