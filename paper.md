@@ -79,11 +79,7 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 **Class**: *Malacostraca*, **Order**: *Decapoda*, **Families**: *Atyidae, Cambaridae, Palaemonidae, Varunidae*
 
-![Figure 3](images/image_3.png)
-
-*Figure 3: Taxonomic coverage; 10 most observed families in the inland waters dataset*
-
-![Figure 3.1](images/image_3b.png)
+![Figure 3](images/image_3b.png)
 
 *Figure 3.1: Number of observations by order in the Inland waters dataset (period 1992-2012); log scale*
 
