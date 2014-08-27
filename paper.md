@@ -110,7 +110,7 @@ The inland waters dataset comprises enclosed waters, including cut off river arm
 
 ![Figure 6](images/image_6.png)
 
-*Figure 6: Drainages of the Rivers Yser (light green in west), Scheldt (blueish), and Meuse (green in east) are divided in 11 Flemish subbasins. The grey area drains directly to the sea.*
+*Figure 6: Drainages of the Rivers Yser (light green in west), Scheldt (blue), and Meuse (green in east) are divided in 11 Flemish subbasins. The grey area drains directly to the sea.*
 
 ### Estuarine waters
 
