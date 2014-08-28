@@ -114,7 +114,7 @@ The inland waters dataset comprises enclosed waters, including cut off river arm
 
 ### Estuarine waters
 
-The estuarine waters dataset comprises the estuaries of the River Scheldt, including estuarine parts of the rivers Rupel, Durme, Zenne, Dijle and Grote Nete and the River Yser.
+The estuarine waters dataset comprises the estuaries of the River Yser and the River Scheldt, including estuarine parts of the rivers Rupel, Durme, Zenne, Dijle, and Grote Nete.
 
 #### River Scheldt
 
