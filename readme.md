@@ -1,3 +1,3 @@
 # Data paper for VIS
 
-[Draft paper](paper.md).
+[Draft version of paper](paper.md).
