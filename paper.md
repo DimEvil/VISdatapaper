@@ -118,7 +118,7 @@ The estuarine waters dataset comprises the estuaries of the River Scheldt, inclu
 
 #### River Scheldt
 
-The River Scheldt is a 435km long lowland river originating on the plateau of Saint-Quentin (figure 7) near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns east, in the direction of Antwerp. After crossing the city of Antwerp, the Scheldt enters the Netherlands where it ends in the North Sea near Vlissingen. The tidal influence extends much further land inward than the freshwater-saltwater boundary. As a result, an extensive freshwater region under tidal influence is present. The tidal activity goes as far as Ghent (figure 7), 160km from the river mouth, where the tide is stopped by sluices. In the Zeeschelde (the Belgian part of the estuary), three zones are distinguished following the Venice system (1959): a mesohaline zone (5-18 g salt/kg) between Zandvliet and Antwerp, an oligohaline zone (0.5-5 g salt/kg) between Antwerp and Temse, including the Rupel tributary, and a tidal freshwater zone till Ghent including the Durme tributary. The marshes and mudflats create a valuable landscape for biodiversity.
+The River Scheldt is a 435km long lowland river originating on the plateau of Saint-Quentin (figure 7) near Gouy, a small town in the French department of Aisne. The river enters Belgium close to Tournai. Then the river turns east, in the direction of Antwerp. After crossing the city of Antwerp, the Scheldt enters the Netherlands where it ends in the North Sea near Vlissingen. The tidal influence extends much further land inward than the freshwater-saltwater boundary. As a result, an extensive freshwater region under tidal influence is present. The tidal activity goes as far as Ghent, 160km from the river mouth, where the tide is stopped by sluices. In the Zeeschelde (the Belgian part of the estuary), three zones are distinguished following the Venice system (1959): a mesohaline zone (5-18 g salt/kg) between Zandvliet and Antwerp, an oligohaline zone (0.5-5 g salt/kg) between Antwerp and Temse, including the Rupel tributary, and a tidal freshwater zone till Ghent including the Durme tributary. The marshes and mudflats create a valuable landscape for biodiversity.
 
 ![Figure 7](images/image_scheldt_7.PNG)
 
@@ -128,7 +128,7 @@ The Scheldt estuary is one of the last natural deltas in Western Europe and many
 
 ![Figure 8](images/image_scheldt_estuary_8.PNG)
 
-*Figure 8: The Scheldt estuary and Natura 2000 areas.*
+*Figure 8: The Scheldt estuary, sampling locations and Natura 2000 areas.*
 
 #### River Yser
 
