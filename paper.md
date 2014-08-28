@@ -126,7 +126,7 @@ The River Scheldt is a 435km long lowland river originating on the plateau of Sa
 
 The Scheldt estuary is one of the last natural deltas in Western Europe and many areas near its riverbanks are marked as Natura 2000 areas (figure 8). Especially its freshwater estuary areas are unique.
 
-![Figure 8](images/image_scheldt_estuary_8.PNG)
+![Figure 8](images/image_scheldt_estuary_master8.PNG)
 
 *Figure 8: The Scheldt estuary, with sampling locations (red points) and Natura 2000 areas in Flanders (blue areas).*
 
