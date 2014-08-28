@@ -28,7 +28,7 @@ The Research Institute for Nature and Forest (INBO) has been performing standard
 
 ![Figure 1](images/image_1.PNG)
 
-*Figure 1: Map of all the VIS sampling locations. Orange points represent inland waters, green point respresent estuarine waters.*
+*Figure 1: Map of all sampling locations in VIS. Orange points represent inland waters, green point respresent estuarine waters.*
 
 ## Keywords
 
@@ -56,7 +56,7 @@ The Fish Information System or [VIS](http://vis.milieuinfo.be) (figure 2) is a d
 
 ![Figure 2](images/image_2.jpg)
 
-*Figure 2: the logo of VIS, the Fish Information System*
+*Figure 2: The logo of VIS*
 
 ## Taxonomic coverage
 
@@ -76,7 +76,7 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 ![Figure 3](images/image_3b.png)
 
-*Figure 3: Distribution of all occurrences from the inland waters dataset by order. Orders are ordered by number of occurrences, occurrences are displayed on a logarithmic scale.*
+*Figure 3: Distribution of all occurrences in the inland waters dataset by taxonomic order. Orders are ordered by number of occurrences, occurrences are displayed on a logarithmic scale.*
 
 ### Taxonomic ranks for estuarine waters
 
@@ -92,7 +92,7 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 ![Figure 4](images/image_4b.png)
 
-*Figure 4: Distribution of all occurrences from the estuarine waters dataset by order. Orders are ordered by number of occurrences, occurrences are displayed on a logarithmic scale.*
+*Figure 4: Distribution of all occurrences in the estuarine waters dataset by taxonomic order. Orders are ordered by number of occurrences, occurrences are displayed on a logarithmic scale.*
 
 ## Geographic coverage
 
@@ -110,7 +110,7 @@ The inland waters dataset comprises enclosed waters, including cut off river arm
 
 ![Figure 6](images/image_6.png)
 
-*Figure 6: Drainages of the Rivers Yser (light green in west), Scheldt (blue), and Meuse (green in east) are divided in 11 Flemish subbasins. The grey area drains directly to the sea.*
+*Figure 6: Drainages of the Rivers Yser (yellow in west), Scheldt (blue), and Meuse (green in east) are divided in 11 Flemish subbasins. The grey area drains directly to the sea.*
 
 ### Estuarine waters
 
@@ -122,13 +122,13 @@ The River Scheldt is a 435km long lowland river originating on the plateau of Sa
 
 ![Figure 7](images/image_scheldt_7.PNG)
 
-*Figure 7: The river Scheldt, from source to river mouth*
+*Figure 7: The river Scheldt, from source to river mouth.*
 
 The Scheldt estuary is one of the last natural deltas in Western Europe and many areas near its riverbanks are marked as Natura 2000 areas (figure 8). Especially its freshwater estuary areas are unique.
 
 ![Figure 8](images/image_scheldt_estuary_8.PNG)
 
-*Figure 8: The Scheldt estuary, sampling locations and Natura 2000 areas.*
+*Figure 8: The Scheldt estuary, with sampling locations (red points) and Natura 2000 areas in Flanders (blue areas).*
 
 #### River Yser
 
