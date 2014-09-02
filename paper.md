@@ -1,6 +1,6 @@
 # VIS – A database on the distribution of fishes in inland and estuarine waters in Flanders, Belgium
 
-Jan Breine[^1], Gerlinde Van Thuyne[^1], Hugo Verreycken[^1], Claude Belpaire[^1], Peter Desmet[^2] & Dimitri Brosens[^2]
+Dimitri Brosens[^2], Jan Breine[^1][*], Gerlinde Van Thuyne[^1][*], Claude Belpaire[^1], Peter Desmet[^2] & Hugo Verreycken[^1]
 
 
 [^1]: Research Institute for Nature and Forest (INBO), Duboislaan 14, 1560, Groenendaal, Belgium
