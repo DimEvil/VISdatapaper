@@ -52,7 +52,7 @@ Reports (only in Dutch) can be generated and downloaded from: <http://vis.milieu
 
 ## Rationale
 
-The Fish Information System or [VIS](http://vis.milieuinfo.be) (figure 2) is a database set up by the Research Institute for Nature and Forest (INBO) to monitor the status of fishes and their habitats in Flanders, Belgium and to calculate the biotic integrity (Karr, 1981, Belpaire et al., 2000 & Breine et al., 2004, 2007, 2007) of fish assemblages. It contains data regarding occurrences, individual morphometrics, stocks, pollutants, indices, and non-native fish species. Sampling has been going on since 1992, the database model was designed in 1994 (Verbiest et al, 1994), the first database developed in 1996 (Verbiest et al, 1996), and the consolidated database set up in 2001. VIS is used for supporting NATURA 2000, an ecological network of protected areas in Europe and to calculate the EQR (Ecological Quality Ratio) in the framework of the EU Water Directive (Directive 2000/60/EC). Further, the database provides updated information for Flemish Red Lists of fishes and lampreys (Verreycken et al., 2014) and on the distribution status of non-native and invasive fish species. The data are also crucial in fish stock management and for reporting on the status of the European eel stock as required by the Eel Regulation (Council Regulation (EC) N° 1100/2007).
+The Fish Information System or [VIS](http://vis.milieuinfo.be) (figure 2) is a database created by the Research Institute for Nature and Forest (INBO) to monitor the status of fishes and their habitats in Flanders, Belgium and to calculate the biotic integrity (Karr, 1981, Belpaire et al., 2000 & Breine et al., 2004, 2007, 2007) of fish assemblages. It contains data regarding occurrences, individual morphometrics, stocks, pollutants, indices, and non-native fish species. Sampling has been going on since 1992, the database model was designed in 1994 (Verbiest et al, 1994), the first database developed in 1996 (Verbiest et al, 1996), and the consolidated database set up in 2001. VIS is used for supporting NATURA 2000, an ecological network of protected areas in Europe and to calculate the EQR (Ecological Quality Ratio) in the framework of the EU Water Directive (Directive 2000/60/EC). Further, the database provides updated information for Flemish Red Lists of fishes and lampreys (Verreycken et al., 2014) and on the distribution status of non-native and invasive fish species. The data are also crucial in fish stock management and for reporting on the status of the European eel stock as required by the Eel Regulation (Council Regulation (EC) N° 1100/2007).
 
 ![Figure 2](images/image_2.jpg)
 
@@ -60,9 +60,9 @@ The Fish Information System or [VIS](http://vis.milieuinfo.be) (figure 2) is a d
 
 ## Taxonomic coverage
 
-The inland waters dataset contains 64 fish species reported from Flemish enclosed waters and watercourses (some of which are non-native or invasive species), as well as a number of non-target species (mainly crustaceans). This dataset also includes a number of typical brackish water fish species which sometimes can be found in inland water sites at proximity of the sea and/or behind the sluice gates. The class of Actinopterygii is best represented (63 species), along with one Petromyzontida (*Lampetra planeri*) and 7 crustaceans from the order Decapoda.
+The inland waters dataset contains 64 fish species reported from Flemish enclosed waters and watercourses (some of which are non-native or invasive species), as well as a number of non-target species (mainly crustaceans). This dataset also includes a number of typical brackish water fish species which sometimes can be found in inland water sites in proximity to the sea and/or behind the sluice gates. The class of Actinopterygii is best represented (63 species), along with one Petromyzontida (*Lampetra planeri*) and 7 crustaceans from the order Decapoda.
  
-The estuarine waters dataset contains 116 fish species found in the estuaries of the River Yser and the River Scheldt, as well as 9 non-target crustacean species. The class of Actinopterygii is best represented (110 species), along with three Petromyzontida, and three Chondrichthyes. All the crustaceans in this dataset are from the order of the Decapoda.
+The estuarine waters dataset contains 116 fish species found in the estuaries of the River Yser and the River Scheldt, as well as 9 non-target crustacean species. The class of Actinopterygii is most represented (110 species), along with three Petromyzontida, and three Chondrichthyes. All the crustaceans in this dataset are from the order of the Decapoda.
 
 ### Taxonomic ranks for inland waters
 
@@ -98,7 +98,7 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 ### Flanders
 
-Flanders is one of the three administrative regions in the country of Belgium, located in the centre of Western Europe. The Flemish region is situated in the north of the country and covers an area of 13,522km² (44,29% of Belgium). The Belgian climate is maritime temperate, influenced by the North Sea and the Atlantic Ocean with significant precipitation in all seasons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the coastal plain in the North-West and the Central plain, further inland. With 470 inhabitants/km², Flanders is one of the most densely populated areas of Europe. The three major rivers are the River Yser, the River Scheldt, and the River Meuse. All rivers in Flanders flow into the North Sea, but only the River Yser drains directly into the sea within the jurisdiction of Flanders.
+Flanders is one of the three administrative regions in the country of Belgium, located in the centre of Western Europe. The Flemish region is situated in the north of the country and covers an area of 13,522km² (44,29% of Belgium). Belgian has a temperate maritime climate that is influenced by the North Sea and the Atlantic Ocean with substantial precipitation in all seasons. The summer is moderate and the winters are mild. The two main geographical regions of Flanders are the coastal plain in the North-West and the Central plain, further inland. With 470 inhabitants/km², Flanders is one of the most densely populated areas of Europe. The three major rivers are the River Yser, the River Scheldt, and the River Meuse. All rivers in Flanders flow into the North Sea, but only the River Yser drains directly into the sea within the jurisdiction of Flanders.
 
 ![Figure 5](images/image_5.png)
 
@@ -150,7 +150,7 @@ Flanders: 50.68 to 51.51 latitude, 2.54 to 5.92 longitude.
 
 ### Dataset description
 
-The occurrence data from the VIS database are extracted, standardized, and published as two separate Darwin Core Archives: one for inland waters and one for estuarine species. The main rationale behind this is that both datasets cover different habitats, differ in sampling strategies and methods, and are curated by different scientists. Nevertheless the data model used for inland waters and estuarine waters is identical and can be easily merged: together these datasets represent a complete overview of fish distribution in Flanders from late 1992 to the end of 2012. In 2013 a new set of sampling locations was defined and the data collected since then is momentarily only available upon request.
+The occurrence data from the VIS database are extracted, standardized, and published as two separate Darwin Core Archives: one for inland waters and one for estuarine waters. The main rationale behind this is that both datasets cover different habitats, differ in sampling strategies and methods, and are curated by different scientists. Nevertheless the data model used for inland waters and estuarine waters is identical and can be easily merged: together these datasets represent a complete overview of fish distribution in Flanders from late 1992 to the end of 2012. In 2013 a new set of sampling locations was defined and the data collected since then is currently only available upon request.
 
 The data are standardized to Darwin Core with a custom SQL view (figure 10) on the original VIS database. The Darwin Core terms (<http://rs.tdwg.org/dwc/terms/>) in the dataset at the time of publication are: `occurrenceID`, `type`, `language`, `rights`, `rightsholder`, `datasetID`, `institutionCode`, `collectionCode`, `datasetName`, `ownerInstitutionCode`, `basisOfRecord`, `informationWithheld`, `catalogNumber`, `recordedBy`, `individualCount`, `samplingProtocol`, `samplingEffort`, `eventDate`, `habitat`, `locationID`, `continent`, `waterBody`, `countryCode`, `verbatimLocality`, `verbatimLatitude`, `verbatimLongitude`, `verbatimCoordinateSystem`, `verbatimSRS`, `decimalLatitude`, `decimalLongitude`, `geodeticDatum`, `coordinateUncertaintyInMeters`, `identifiedBy`, `scientificName`, `kingdom`, `taxonRank`, `scientificNameAuthorship`, `vernacularName`, and `nomenclaturalCode`.
 
@@ -198,19 +198,19 @@ Length and weight measurement data of the individual fishes, absence information
 
 Over 2,000 locations in estuaries, inland rivers, streams, canals, and enclosed waters in Flanders, Belgium have been sampled since 1992. In 2001, these locations were consolidated in a monitoring network ("VISmeetnet") of 900 sampling points. Four locations in the Yser estuary and 43 locations in the Scheldt were sampled since 1995. While the Yser estuary only covers a small geographical area, the Scheldt estuary is with 33,000 hectares one of the largest estuaries in Europe. It is also one of the few remaining European estuaries that includes the entire gradient from fresh to saltwater tidal areas (Van den Bergh et al., 2009). The 43 sampling locations in the Scheldt estuary are mainly located in the River Scheldt, but also in the Rivers Durme, Rupel, Dijle, Zenne and Nete.
 
-The geographic coordinates in both the datasets are those of the sampling locations (`dwc:locationID`). Since these do not always represent the actual coordinates of the catch, which may be located further up- or downriver, the coordinate uncertainty (`dwc:coordinateUncertaintyInMeters`) has been set to 250 meter.
+The geographic coordinates in both datasets are those of the defined sampling locations (`dwc:locationID`). However, as these coordinates are not always exact the actual coordinates of the catch, which may be located further up- or downriver, the coordinate uncertainty (`dwc:coordinateUncertaintyInMeters`) has been set to 250 meter.
 
 ### Sampling description
 
-Sampling methods in inland waters are standardized and described in Belpaire et al., 2000 and Van Thuyne, 2010 and are indicated in the data as `dwc:samplingProtocol`. Per water body, the same method was used for each sampling event. The default method is electric fishing, but additional techniques such as gill nets, fykes, and seine netting (variable sizes) were used as well. Electric fishing was carried out using a 5kW generator with an adjustable output voltage of 300-500V and a pulse frequency of 480Hz. The number of electric fishing devices and hand-held anodes used depends on the river width (Belpaire et al., 2000). In riverine environments, electric fishing was carried out on both riverbanks in upstream direction. All fishes were identified to species level, counted, and measured for length and weight.
+In inland waters, standardized sampling methods were used as described in Belpaire et al., 2000 and Van Thuyne, 2010 and are specified in the dataset as `dwc:samplingProtocol`. Per water body, the same method was used for each sampling event. The default method is electric fishing, but additional techniques such as gill nets, fykes, and seine netting (variable sizes) were used as well. Electric fishing was carried out using a 5kW generator with an adjustable output voltage of 300-500V and a pulse frequency of 480Hz. The number of electric fishing devices and hand-held anodes used depends on the river width (Belpaire et al., 2000). In riverine environments, electric fishing was carried out on both riverbanks in upstream direction. All fishes were identified to species level, counted, and their length and weight was measured.
 
-The default method used in estuarine waters is paired fyke netting, but additional techniques such as anchor netting, seine netting, pound netting, electric fishing, and eel fyke netting were used as well (Breine et al., 2011). All fishes were identified to species level, counted, and measured for length and weight.
+The default method used in estuarine waters is paired fyke netting, but additional techniques such as anchor netting, seine netting, pound netting, electric fishing, and eel fyke netting were used as well (Breine et al., 2011). All fishes were identified to species level, counted their length and weight was measured.
 
 ### Quality control description
 
-Strict field protocols where used. The Manual for Application of the European Fish Index (EFI) (Fame consortium, 2004) was used as a guideline for electrofishing and used in support of the EU water framework directive.
+Strict field protocols where used. The Manual for Application of the European Fish Index (EFI) (Fame consortium, 2004) served as a guideline for electrofishing and was used in support of the EU water framework directive.
 
-Users of the data can report issues with the inland waters and estuarine waters dataset at <https://github.com/LifeWatchINBO/vis-inland-occurrences> and <https://github.com/LifeWatchINBO/vis-estuarine-occurrences> respectively.
+Users of the data can comment on the inland waters and estuarine waters dataset at <https://github.com/LifeWatchINBO/vis-inland-occurrences> and <https://github.com/LifeWatchINBO/vis-estuarine-occurrences> respectively.
 
 ### Method step description
 
@@ -242,6 +242,11 @@ VIS - Fish Information System
 ### Funding
 
 Flemish government
+
+##Acknowledgements
+
+The authors would like to thank everybody who contributed in one way or another to the creation of these datasets and this datapaper. Especially, the fishing team of the Research Institute for Nature and Forest, the talent they have for catching fish is unmatched. Also the work of INBO's Lifewatch team, the Belgian Biodiversity Platform and GBIF in making this all possible is much appreciated.
+
 
 # References cited within the metadata
 
