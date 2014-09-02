@@ -243,9 +243,9 @@ VIS - Fish Information System
 
 Flemish government
 
-##Acknowledgements
+## Acknowledgements
 
-The authors would like to thank everybody who contributed in one way or another to the creation of these datasets and this datapaper. Especially, the fishing team of the Research Institute for Nature and Forest, the talent they have for catching fish is unmatched. Also the work of INBO's Lifewatch team, the Belgian Biodiversity Platform and GBIF in making this all possible is much appreciated.
+The authors would like to thank everybody who contributed to the creation of these datasets and paper, including [LifeWatch INBO](http://lifewatch.inbo.be), the [Belgian Biodiversity Platform](http://www.biodiversity.be), and [GBIF](http://www.gbif.org). Special thanks to the fishing team at the INBO for their unmatched talent for catching fish.
 
 
 # References cited within the metadata
