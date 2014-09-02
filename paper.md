@@ -1,6 +1,6 @@
 # VIS – A database on the distribution of fishes in inland and estuarine waters in Flanders, Belgium
 
-Dimitri Brosens[^2], Jan Breine[^1][*], Gerlinde Van Thuyne[^1][*], Claude Belpaire[^1], Peter Desmet[^2] & Hugo Verreycken[^1]
+Dimitri Brosens[^2], Jan Breine[^1]\*, Gerlinde Van Thuyne[^1]\*, Claude Belpaire[^1], Peter Desmet[^2] & Hugo Verreycken[^1]
 
 
 [^1]: Research Institute for Nature and Forest (INBO), Duboislaan 14, 1560, Groenendaal, Belgium
@@ -28,7 +28,7 @@ The Research Institute for Nature and Forest (INBO) has been performing standard
 
 ![Figure 1](images/image_1.PNG)
 
-*Figure 1: Map of all sampling locations in VIS. Orange points represent inland waters, green point respresent estuarine waters.*
+*Figure 1: Map of all sampling locations in VIS. Orange points represent inland waters, green point represent estuarine waters.*
 
 ## Keywords
 
