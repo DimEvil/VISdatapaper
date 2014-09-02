@@ -84,11 +84,11 @@ The estuarine waters dataset contains 116 fish species found in the estuaries of
 
 **Class**: *Actinopterygii*, **Orders**: *Acipenseriformes, Anguilliformes, Atheriniformes, Beloniformes, Clupeiformes, Cypriniformes, Esociformes,Gadiformes, Gasterosteiformes, Mugiliformes, Osmeriformes, Perciformes, Pleuronectiformes, Salmoniformes, Scorpaeniformes, Siluriformes, Syngnathiformes*, **Families**: *Acipenseridae, Agonidae, Ammodytidae, Anguillidae, Atherinidae, Belonidae, Blenniidae, Bothidae, Callionymidae, Centrarchidae, Clupeidae, Cobitidae, Congridae, Cottidae, Cyclopteridae, Cyprinidae, Engraulidae, Esocidae, Gadidae, Gasterosteidae, Gobiidae, Ictaluridae, Liparidae, Lotidae, Moronidae, Mugilidae, Mullidae, Nemacheilidae, Smeridae, Percidae, Petromyzontidae, Pholidae, Pleuronectidae,Polybiidae, Salmonidae, Sciaenidae, Scombridae, Scophthalmidae, Siluridae, Soleidae, Syngnathidae, Trachinidae, Triglidae, Umbridae, Zoarcidae*
 
-**Class**:*Chondrichthyes*, **Orders**: *Rajiformes, Squaliformes, Squatiniformes*, **Families**:*Squalidae, Squatinidae, Rajidae* 
+**Class**: *Chondrichthyes*, **Orders**: *Rajiformes, Squaliformes, Squatiniformes*, **Families**:*Squalidae, Squatinidae, Rajidae* 
 
-**Class**:*Petromyzontida*, **Order**:*Petromyzontiformes*, **Family**:*Petromyzontidae*
+**Class**: *Petromyzontida*, **Order**:*Petromyzontiformes*, **Family**:*Petromyzontidae*
 
-**Class**:*Malacostraca*, **Order**:*Decapoda*, **Families**:*Cambaridae, Cancridae, Crangonidae, Paguridae, Palaemonidae, Polybiidae, Portunidae, Varunidae*
+**Class**: *Malacostraca*, **Order**:*Decapoda*, **Families**:*Cambaridae, Cancridae, Crangonidae, Paguridae, Palaemonidae, Polybiidae, Portunidae, Varunidae*
 
 ![Figure 4](images/image_4b.png)
 
